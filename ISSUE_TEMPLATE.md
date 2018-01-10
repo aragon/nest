@@ -1,4 +1,4 @@
-# Call for projects: Eagles on the blockchain
+# Aragon Nest Proposal: Eagles on the blockchain
 
 ## Abstract
 
