@@ -18,9 +18,9 @@ This can be solved by CryptoEagles, which enables the trading of virtual eagles 
 
 ## Grant size
 
-$100k in ETH, split into 4 chunks. The first chunk will be given out immediatly upon grant approval, and the other 3 will be paid out as the 3 deliveables are built.
+Funding: Up to $100k in ETH, split into chunks paid out over achieved deliverables.
 
-$50k in ANT, given out when all deliverables are ready.
+Success reward: Up to $50k in ANT, given out when all deliverables are ready.
 
 
 ## Application requirements
