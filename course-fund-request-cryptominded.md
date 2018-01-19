@@ -1,5 +1,7 @@
 # Request for Nest membership and funding
 
+Request for funding to develop a high-quality beginners course & course platform. (Related proposal: [Click here](https://github.com/aragon/nest/issues/4))
+
 **Team name**: Cryptominded
 
 **Proof of concept / research whitepaper**: 
@@ -12,7 +14,7 @@ The Cryptominded website gets about 300k unique visitors per month and has been 
 Private Limited (In Estonia) + Community Foundation in set-up
 > (No outside investments, completely bootstrapped and affiliate revenue will be used to further help the cryptocurrency industry through tools & education.)
 
-**Team**
+**The Team:**
 
 1. **Dylan Damsma:** Founder of Cryptominded - Cryptocurrency investor & educator. (NL/BE)
 > Co-responsible for written & videographic course content, interviewer & project lead.
@@ -56,13 +58,13 @@ Producing a high-quality course requires proper copywriting and editing to make 
 
 We want this course to be about common sense, not 'get rich quick' type of content. It will give a solid educational foundation for people that want to get into cryptocurrencies to either invest in it or use them in some other way - say, using it as a currency.
 
-**Course outline:**
+## Course outline
 The course overview can be found here, and we'd be very happy and open to receive feedback on it:
 https://docs.google.com/document/d/10ljRqWyTu-PsqEKbLIKSVxuRfHvmUiu3wDQzyG4AenI/edit#
 
 We're more than happy to work with the Aragon community to ensure the quality of the course, such as making sure the content is factually correct, unbiased/balanced, easy to understand for those not as technically inclined as most of the aragon community and ensure we go in-depth and address all perspectives.
 
-**Design concepts:**
+## Design concepts
 
 ⚠️ Note: These are simply concepts to visualise the course, but we'll consult a professional designer for the final versions.
 
