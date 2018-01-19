@@ -106,6 +106,9 @@ Arseniy Zarechnov, Founder & CEO at Mothership.cx
 
 Terrence Yang, Founder Yang Ventures & cryptocurrency fund advisor
 
+
+
+
 -----
 
-We're looking forward to a partnership with the Aragon Nest fund & the Aragon community
+Thank you for considering this request for funding. We're looking forward to a partnership with the Aragon Nest fund & the Aragon community
