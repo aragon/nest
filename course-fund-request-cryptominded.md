@@ -64,13 +64,6 @@ https://docs.google.com/document/d/10ljRqWyTu-PsqEKbLIKSVxuRfHvmUiu3wDQzyG4AenI/
 
 We're more than happy to work with the Aragon community to ensure the quality of the course, such as making sure the content is factually correct, unbiased/balanced, easy to understand for those not as technically inclined as most of the aragon community and ensure we go in-depth and address all perspectives.
 
-## Design concepts
-
-⚠️ Note: These are simply concepts to visualise the course, but we'll consult a professional designer for the final versions.
-
-![landing page](http://cryptominded.muc3mconxtxewee6orxv.maxcdn-edge.com/images/conceptdesign_course1.png "Landing Page Concept") 
-![lesson page](http://cryptominded.muc3mconxtxewee6orxv.maxcdn-edge.com/images/conceptdesign_course2.png "Lesson Page Concept")
-
 
 ## What we will deliver
 
@@ -80,7 +73,7 @@ We're more than happy to work with the Aragon community to ensure the quality of
 4. 12 world-wide events to reach & educate beginners and promote the course.
 5. A research platform where people can find factual data about all the various cryptocurrencies out there to make better investment decisions and avoid obvious vaporware and/or scams
 
-## Roadmap
+## Planned Roadmap
 
 1. Jan 2018 - Launch of new community platform
 2. End Feb 2018 - BETA Testing beginners course & acquiring feedback
@@ -102,3 +95,17 @@ After this we'll continue to develop additional courses & tools to help people w
 - Development & server costs for the cryptominded course & research platform ($22.5k)
 
 _These are estimatations of the predicted costs - A transparent spending overview will be provided and remaining resources will be used for additional course content, promotion or development of aiding tools_
+
+## Testimonials
+
+> I believe Cryptominded team is more than up to the task of creating high quality, accessible courses. I was fortunate to work with Dylan and his team, organizing events or video streams - and their work was always of high standards, creative and delivered on time. Dylan's motivation and passion for educating people about personal finance stems from his core values, and is something he truly cares about. Of course it goes without saying that Cryptominded team has all necessary knowledge and skills for the task.
+
+Arseniy Zarechnov, Founder & CEO at Mothership.cx
+
+> Dylan is a highly credible, smart, engaging person deeply interested in helping newcomers learn about cryptocurrency. I'm proud to be his friend and a member of cryptominded.
+
+Terrence Yang, Founder Yang Ventures & cryptocurrency fund advisor
+
+-----
+
+We're looking forward to a partnership with the Aragon Nest fund & the Aragon community
