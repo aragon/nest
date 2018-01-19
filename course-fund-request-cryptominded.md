@@ -3,6 +3,7 @@
 **Team name**: Cryptominded
 
 **Proof of concept / research whitepaper**: 
+
 The Cryptominded website gets about 300k unique visitors per month and has been presented in multiple online magazines as 'the go-to place to learn about cryptocurrencies'. Thereby we've spoken to hundreds of beginners whom want to get into the space and outlined a course we think would address most of these questions (link under #proposal)
 
 **Funding request:** $75k _(breakdown below)_
