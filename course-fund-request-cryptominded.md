@@ -16,7 +16,7 @@ Private Limited (In Estonia) + Community Foundation in set-up
 
 1. **Dylan Damsma:** Founder of Cryptominded - Cryptocurrency investor & educator. (NL/BE)
 
-⋅⋅⋅Co-responsible for written & videographic course content, interviewer & project lead.
+...Co-responsible for written & videographic course content, interviewer & project lead.
 
 2. Ben Bodien: Front-end developer & avid cryptocurrency investor (UK)
 Front-end development , course editing & feedback. 
