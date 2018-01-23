@@ -14,7 +14,9 @@ The Cryptominded website gets about 300k unique visitors per month and has been 
 Private Limited (In Estonia) + Community Foundation in set-up
 > (No outside investments, completely bootstrapped and affiliate revenue will be used to further help the cryptocurrency industry through tools & education.)
 
-**The Team:**
+**The Team:** [Click Here](team.md)
+
+**The roadmap:** [Click here](roadmap.md)
 
 ## Proposal
 
@@ -48,10 +50,9 @@ We want this course to be about common sense, not 'get rich quick' type of conte
 
 ## Course outline
 The course overview can be found here, and we'd be very happy and open to receive feedback on it:
-https://docs.google.com/document/d/10ljRqWyTu-PsqEKbLIKSVxuRfHvmUiu3wDQzyG4AenI/edit#
+[Click here for the course overview](course_overview.md)
 
 We're more than happy to work with the Aragon community to ensure the quality of the course, such as making sure the content is factually correct, unbiased/balanced, easy to understand for those not as technically inclined as most of the aragon community and ensure we go in-depth and address all perspectives.
-
 
 ## What we will deliver
 
@@ -76,12 +77,15 @@ _These are estimatations of the predicted costs - A transparent spending overvie
 
 > I believe Cryptominded team is more than up to the task of creating high quality, accessible courses. I was fortunate to work with Dylan and his team, organizing events or video streams - and their work was always of high standards, creative and delivered on time. Dylan's motivation and passion for educating people about personal finance stems from his core values, and is something he truly cares about. Of course it goes without saying that Cryptominded team has all necessary knowledge and skills for the task.
 
-Arseniy Zarechnov, Founder & CEO at Mothership.cx
+Arseniy Zarechnev, Founder & CEO at Mothership.cx
 
 > Dylan is a highly credible, smart, engaging person deeply interested in helping newcomers learn about cryptocurrency. I'm proud to be his friend and a member of cryptominded.
 
 Terrence Yang, Founder Yang Ventures & cryptocurrency fund advisor
 
+> Dylan and his team at Cryptominded have successfully generated not just a one-stop-shop for cryptocurrency education and resources, but also a vibrant and active community around it. Having spent time with Dylan on his forums and in 1-on-1 video conferences, I have first hand experience of his ability to deconstruct complex subject matter into simple digestible format, and it is this skill which I believe to be key to generating high impact educational material. Dylan and team are uniquely qualified to do this and I wish them all the best.
+
+Oliver von Landsberg-Sadie, CEO & Founder of BitcoinBro.com (Cryptocurrency broker)
 
 
 
