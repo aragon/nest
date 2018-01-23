@@ -16,18 +16,6 @@ Private Limited (In Estonia) + Community Foundation in set-up
 
 **The Team:**
 
-1. **Dylan Damsma:** Founder of Cryptominded - Cryptocurrency investor & educator. (NL/BE)
-> Co-responsible for written & videographic course content, interviewer & project lead.
-
-2. **Ben Bodien:** Front-end developer & avid cryptocurrency investor (UK)
-> Front-end development , course editing & feedback. 
-
-3. **Victor Lim:** Back-end developer & miner (MY)
-> Back-end development of platform
-
-4. **Barry Leybovich:** Editor & Product manager - Cryptocurrency investor and background in finance industry (UK)
-> Co-responsible for written & videographic course content, editing & fact checks.
-
 ## Proposal
 
 At Cryptominded our goal has been to educate beginners on cryptocurrencies from the start. As the platform & industry gained more traction, we've spoken to hundreds of beginning cryptocurrency investors online and offline at events that we've organised and have gotten a broad understanding of beginners' challenges, questions and motives.
@@ -72,18 +60,6 @@ We're more than happy to work with the Aragon community to ensure the quality of
 3. A course on utilising Aragon as entrepreneur to build self-governing communities or run a distributed business.
 4. 12 world-wide events to reach & educate beginners and promote the course.
 5. A research platform where people can find factual data about all the various cryptocurrencies out there to make better investment decisions and avoid obvious vaporware and/or scams
-
-## Planned Roadmap
-
-1. Jan 2018 - Launch of new community platform
-2. End Feb 2018 - BETA Testing beginners course & acquiring feedback
-3. March 2018 - Full Launch & promotion of the course V1
-4. April 2018 - Adding in exams, tests & interactive elements into the course
-5. May 2018 - Localisation of course content
-6. July 2018 - Course for starting cryptocurrency entrepreneurs including explanations on Aragon.
-7. August 2018 - Launch of the new Cryptominded cryptocurrency research platform.
-
-After this we'll continue to develop additional courses & tools to help people wisely invest in crypto, safely store crypto, use crypto and more of which the costs will hopefully be supported through affiliate income at that point.
 
 ## What will funding be used for: 
 
