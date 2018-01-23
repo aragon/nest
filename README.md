@@ -1,23 +1,38 @@
 # Aragon Nest
 
-![](https://cdn-images-1.medium.com/max/2000/1*2mTcQzn6bnlF7NNjL4Z82w.png)
+![](https://wiki.aragon.one/design/artwork/Nest/01.png)
 
-A grants program brought to you by your friends at [Aragon](https://aragon.one) and [Placeholder](https://twitter.com/placeholdervc).
+> **A grants program to support the development of the ecosystem.**
 
-- Read the [public announcement](https://blog.aragon.one/introducing-aragon-nest-1aa8c91c0566)
-- Discuss at the [#nest channel in Aragon Chat](https://aragon.chat/channel/nest)
-- Browse current [proposals for grants](https://github.com/aragon/nest/issues)
-- Browse current [requests for funding](https://github.com/aragon/nest/pulls)
+Aragon Nest is brought to you by your friends at [Aragon](https://aragon.one) and [Placeholder](https://twitter.com/placeholdervc).
 
+The goal of the program is to attract talent to research and build the necessary tooling for developing solutions around Aragon and Ethereum.
 
+### More information
+- Read the public announcement [**Introducing Aragon Nest**](https://blog.aragon.one/introducing-aragon-nest-1aa8c91c0566)
+- Discussion regarding the program at [**#nest channel in Aragon Chat**](https://aragon.chat/channel/nest)
+- Browse the current [**proposals for grants**](https://github.com/aragon/nest/issues)
+- Browse the current [**requests for funding**](https://github.com/aragon/nest/pulls)
 
-## How to request funding
+## For people looking to get funding for their project
+_To those working or who want to work on something that may be of interest for providing a grant_
 
-If you happen to work or want to work on something that may interest us for a grant:
+### How do I find out if my project could be eligible for a grant?
+1. Check the [**Proposals for grants**](https://github.com/aragon/nest/issues) for existing proposals
+2. If you don’t find anything close to what you’re working on, [**submit a new proposal for a grant**](https://github.com/aragon/nest/issues/new) and **discuss** if we should consider it for a grant
+3. See the [Guide for submitting a new request for funding](Guide_for_submitting_a_request_for_funding.md) and follow these steps:
+    - Fork the [Aragon Nest GitHub repository](https://github.com/aragon/nest)
+    - Create a new directory with **your project’s name** inside the `grants/` folder. 
+    - Inside that, create two files, `team.md` and `roadmap.md`, where you present **your team** and **suggested roadmap**
+    - **Create a Pull Request** to merge your submission into the Nest repository. In that Pull Request, be sure to fill in **all the relevant info** described in the Pull Request Guide.md
+> _Proposals should abstractly describe problems or products, not their implementations_
 
-1. Check out current [proposals for grants](https://github.com/aragon/nest/issues)
-   1. If you don't find anything close to what you're doing, you can [open a new proposal](https://github.com/aragon/nest/issues/new) and discuss if we should consider it for a grant. Proposals should abstractly describe problems or products, not their implementations (that'd be step 2)
-2. If there's a proposal that fits into what you're building
-   1. Fork the repo, create a directory inside `grants` with your project's name, and create two files, `team.md` and `roadmap.md`, where you present your team and suggested roadmap
-   2. [Create a pull request](https://github.com/aragon/nest/compare) to merge your branch into the repo, and fill all the relevant data inside the pull request template for requesting funding
-3. Engage the community and discuss! The community, [Aragon](https://aragon.one) and [Placeholder](https://twitter.com/placeholdervc) will review it and get back to you
+### I’m working on something that already has an existing proposal
+If there’s already an [existing proposal for grants](https://github.com/aragon/nest/issues) that fits into what you’re building, follow the steps mentioned in the [Guide for submitting a new request for funding](Guide_for_submitting_a_request_for_funding.md)
+
+## For people who have an idea that could benefit the ecosystem
+### How to submit a proposal for a grant?
+- Make sure the [Proposals for grants](https://github.com/aragon/nest/issues) doesn’t have an existing proposals for something similar to your proposal. If there is an existing one that is close to your idea, join in the discussion of that Proposal to see if yours could be integrated into the existing one, or if you should create a new proposal
+- If nothing similar exists, create [a new Proposal for grants](https://github.com/aragon/nest/issues/new) at the [Nest Repository](https://github.com/aragon/nest/) and fill it out in detail following the [Guide for submitting a proposal for grants](Guide_for_submitting_a_proposal_for_grants.md)
+
+### Engage the community and discuss! The community, [Aragon](https://aragon.one) and [Placeholder](https://twitter.com/placeholdervc) will review the submissions and get back to you

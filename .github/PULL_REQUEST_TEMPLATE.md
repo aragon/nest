@@ -1,3 +1,5 @@
+_See the [Guide for submitting a new Request for funding](../Guide_for_submitting_a_request_for_funding.md) for further details on submitting a request_
+
 # Request for Nest membership and funding (#1)
 
 **Team name**: AraEagles
