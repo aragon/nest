@@ -25,7 +25,7 @@ _To those working or who want to work on something that may be of interest for p
 3. See the [Guide for submitting a new request for funding](https://wiki.aragon.one/nest/guides/guide_for_submitting_a_request_for_funding/) and follow these steps:
     - Fork the [Aragon Nest GitHub repository](https://github.com/aragon/nest)
     - Create a new directory with **your project’s name** inside the `grants/` folder. 
-    - Inside that, create two files, `team.md` and `roadmap.md`, where you present **your team** and **suggested roadmap**
+    - Inside that, create two files, [`team.md`](https://wiki.aragon.one/nest/templates/team/) and [`roadmap.md`](https://wiki.aragon.one/nest/templates/roadmap/), where you present **your team** and **suggested roadmap**
     - **Create a Pull Request** to merge your submission into the Nest repository. In that Pull Request, be sure to fill in **all the relevant info** described in the Pull Request Guide.md
 > _Proposals should abstractly describe problems or products, not their implementations_
 
