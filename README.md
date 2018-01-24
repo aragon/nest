@@ -10,9 +10,11 @@ The goal of the program is to attract talent to research and build the necessary
 
 ### More information
 - Read the public announcement [**Introducing Aragon Nest**](https://blog.aragon.one/introducing-aragon-nest-1aa8c91c0566)
+- Read the [Launch of Aragon Nest](https://blog.aragon.one/launch-of-aragon-nest-8d42d1a37595) post
 - Discussion regarding the program at [**#nest channel in Aragon Chat**](https://aragon.chat/channel/nest)
 - Browse the current [**proposals for grants**](https://github.com/aragon/nest/issues)
 - Browse the current [**requests for funding**](https://github.com/aragon/nest/pulls)
+- See Aragon Nest in the [Aragon Wiki](https://wiki.aragon.one/nest/)
 
 ## For people looking to get funding for their project
 _To those working or who want to work on something that may be of interest for providing a grant_
