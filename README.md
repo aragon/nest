@@ -26,11 +26,11 @@ _To those working or who want to work on something that may be of interest for p
     - Fork the [Aragon Nest GitHub repository](https://github.com/aragon/nest)
     - Create a new directory with **your project’s name** inside the `grants/` folder. 
     - Inside that, create two files, [`team.md`](https://wiki.aragon.one/nest/templates/team/) and [`roadmap.md`](https://wiki.aragon.one/nest/templates/roadmap/), where you present **your team** and **suggested roadmap**
-    - **Create a Pull Request** to merge your submission into the Nest repository. In that Pull Request, be sure to fill in **all the relevant info** described in the Pull Request Guide.md
+    - **Create a Pull Request** to merge your submission into the Nest repository. In that Pull Request, be sure to fill in **all the relevant info** described in the [Guide for submitting a new Request for funding](https://wiki.aragon.one/nest/guides/guide_for_submitting_a_request_for_funding/)
 > _Proposals should abstractly describe problems or products, not their implementations_
 
 ### I’m working on something that already has an existing proposal
-If there’s already an [existing proposal for grants](https://github.com/aragon/nest/issues) that fits into what you’re building, follow the steps mentioned in the [Guide for submitting a new request for funding](https://wiki.aragon.one/nest/guides/guide_for_submitting_a_request_for_funding/)
+If there’s already an [existing proposal for grants](https://github.com/aragon/nest/issues) that fits into what you’re building, follow the steps mentioned in the [Guide for submitting a new Request for funding](https://wiki.aragon.one/nest/guides/guide_for_submitting_a_request_for_funding/)
 
 ## For people who have an idea that could benefit the ecosystem
 ### How to submit a proposal for a grant?
