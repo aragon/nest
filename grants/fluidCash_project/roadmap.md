@@ -1,19 +1,20 @@
-# AraEagles Example Roadmap
+# FluidCash Roadmap
 
-### Q1 2018
+2 to 3 quarters scheduled as:
 
-1. A way to securely generate and store keys at the OS-level, and encrypt them while unused in the safest manner
-2. An interface for dapps to send payloads to be signed
-3. An interface for dapps to discover if the OS-level provider is available
-4. A key chooser, so the user can choose which key should be used to sign
+### Q1/Q2 2018
 
-### Q2 2018
+1. Implementation and testing of *fluidCash* contracts
+2. Test and mockups
+3. Discussion with Aragon-dev team to fulfill all Aragon compliance     requirements
+4. Full cover implementation testing and Testnet deploy.
 
-1. Support for hardware wallets, at least Ledger and Trezor
-2. Support for Linux, macOS and Windows
-3. Human-readable transcript of the payloads to be signed, by using [radspec](https://github.com/aragon/radspec)
+### Q2/Q3 2018
 
-### Q3 2018
+1. Development of the service app 
+2. Full cover implementation testing
+3. Discussion with Aragon-dev team to fulfill all Aragon compliance requirements
+4. Testnet deploy
+5. Mainnet deploy after Aragon-dev team approval.
 
-1. Improve security by using multiple hardening methods for each OS, when available
-2. Create a DAO to transition governance of the project to the community, by using Aragon
+We aim to have a close and fluid relationship with Aragon-dev team in order to fulfill all Aragon compliance requirements. 

@@ -1,25 +1,18 @@
-# AraEagles Example Team
+# FluidCash Team
 
-### John Doe — Project Lead
+### Dr. Flavio Colavecchia (Ph.D in physics) — Backend Dev
 
-John has 20 years of experience coding Solidity. He bought Bitcoin in 1995, therefore inventing the blockchain. He admits to be the real Craig Wright.
-
-**Commitment**: Full time
-
-**Socials**: [GitHub](#) [Twitter](#)
-
-### Satoshi Nakamoto — Frontend Dev
-
-Satoshi loves React and React Native. He met John 5 years ago in a hackathon.
+TO DO
 
 **Commitment**: Part time
 
-**Socials**: [GitHub](#) [Twitter](#)
+**Socials**: [GitHub](https://github.com/fcolavecchia) [Twitter](@rucacura)
 
-### Maria Garcia — Security Researcher
+### Dr. Rene Cejas Bolecek (Ph.D in physics) — Backend Dev
 
-Maria has been working on different projects in the Ethereum both creating and auditing smart contracts. She would like to work full time on pure research.
+TO DO
 
 **Commitment**: Full time
 
-**Socials**: [GitHub](#) [Twitter](#)
+**Socials**: [GitHub](https://github.com/renexdev) [Twitter](@renex10)
+
