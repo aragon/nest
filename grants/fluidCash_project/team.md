@@ -6,7 +6,7 @@ TO DO
 
 **Commitment**: Part time
 
-**Socials**: [GitHub](https://github.com/fcolavecchia) [Twitter](@rucacura)
+**Socials**: [GitHub](https://github.com/fcolavecchia) [Twitter](https://twitter.com/rucacura)
 
 ### Dr. Rene Cejas Bolecek (Ph.D in physics) — Backend Dev
 
@@ -14,5 +14,5 @@ TO DO
 
 **Commitment**: Full time
 
-**Socials**: [GitHub](https://github.com/renexdev) [Twitter](@renex10)
+**Socials**: [GitHub](https://github.com/renexdev) [Twitter](https://twitter.com/ReneX10)
 
