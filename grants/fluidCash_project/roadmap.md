@@ -1,15 +1,15 @@
 # FluidCash Roadmap
 
-2 to 3 quarters scheduled as:
+Three quarters along 2018 scheduled as:
 
-### Q1/Q2 2018
+### First and second quarter
 
 1. Implementation and testing of *fluidCash* contracts
 2. Test and mockups
 3. Discussion with Aragon-dev team to fulfill all Aragon compliance     requirements
 4. Full cover implementation testing and Testnet deploy.
 
-### Q2/Q3 2018
+### Second and third quarter
 
 1. Development of the service app 
 2. Full cover implementation testing
