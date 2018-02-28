@@ -35,7 +35,8 @@ A signing provider that includes:
 
 ### Grant size
 
-$50k in ETH, split into 4 chunks, one each quarter.
+$$$50k in ETH, split into 4 chunks, one each quarter.
+
 $50k in ANT, given out when all deliverables are ready.
 
 ### Application requirements
