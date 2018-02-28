@@ -26,6 +26,7 @@ A signing provider that includes:
 - A way to securely generate and store keys at the OS-level, and encrypt them while unused in the safest manner
 - An interface for dapps to send payloads to be signed
 - An interface for dapps to discover if the OS-level provider is available
+- A Client library for dapp developers
 - A key chooser, so the user can choose which key should be used to sign
 - Support for hardware wallets, at least Ledger and Trezor
 - Support for Linux, macOS and Windows
