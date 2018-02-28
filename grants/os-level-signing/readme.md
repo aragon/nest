@@ -51,13 +51,13 @@ $50k in ANT, given out when all deliverables are ready.
 Phases:
 
 1. Alpha implementation
-  1. Prototype to testnet
-    1. Signing functionality
-    1. DApp integration (browser & non-browser based)
-    1. Wallet integration (?)
-  1. Test-suite
-  1. os-level-signer developer documentation
-  1. Demo / example using application
+    1. Prototype to testnet
+        1. Signing functionality
+        1. DApp integration (browser & non-browser based)
+        1. Wallet integration (?)
+    1. Test-suite
+    1. os-level-signer developer documentation
+    1. Demo / example using application
 1. Beta implementation
   1. Application
     1. Wallet integration (?)
