@@ -35,9 +35,9 @@ A signing provider that includes:
 
 ### Grant size
 
-$$$50k in ETH, split into 4 chunks, one each quarter.
+`$50k in ETH, split into 4 chunks, one each quarter.`
 
-$50k in ANT, given out when all deliverables are ready.
+`$50k in ANT, given out when all deliverables are ready.`
 
 ### Application requirements
 
@@ -51,7 +51,7 @@ $50k in ANT, given out when all deliverables are ready.
 
 Phases:
 
-1. Alpha implementation
+1. __Alpha implementation__
     1. Prototype to testnet
         1. Signing functionality
         1. DApp integration (browser & non-browser based)
@@ -59,7 +59,7 @@ Phases:
     1. Test-suite
     1. os-level-signer developer documentation
     1. Demo / example using application
-1. Beta implementation
+1. __Beta implementation__
     1. Application
         1. Wallet integration (?)
         1. Full suite of platform implementations
@@ -68,13 +68,13 @@ Phases:
     1. User testing / feedback
     1. End-to-end CI
     1. (flex-room for the unpredictable)
-1. Release Candidate implementation
+1. __Release Candidate implementation__
     1. Finalize interfaces / APIs
     1. Website / download location
     1. End-user documentation
     1. More security related activities
     1. (flex-room for the unpredictable)
-1. First Release and Beyond!
+1. __First Release and Beyond!__
     1. Bugfixes and Documentation updates
     1. More wallets / enhancements
     1. Spread the good word
