@@ -59,24 +59,24 @@ Phases:
     1. os-level-signer developer documentation
     1. Demo / example using application
 1. Beta implementation
-  1. Application
-    1. Wallet integration (?)
-    1. Full suite of platform implementations
-  1. Documentation for building apps with os-level-signer
-  1. Code audits and other security
-  1. User testing / feedback
-  1. End-to-end CI
-  1. (flex-room for the unpredictable)
+    1. Application
+        1. Wallet integration (?)
+        1. Full suite of platform implementations
+    1. Documentation for building apps with os-level-signer
+    1. Code audits and other security
+    1. User testing / feedback
+    1. End-to-end CI
+    1. (flex-room for the unpredictable)
 1. Release Candidate implementation
-  1. Finalize interfaces / APIs
-  1. Website / download location
-  1. End-user documentation
-  1. More security related activities
-  1. (flex-room for the unpredictable)
+    1. Finalize interfaces / APIs
+    1. Website / download location
+    1. End-user documentation
+    1. More security related activities
+    1. (flex-room for the unpredictable)
 1. First Release and Beyond!
-  1. Bugfixes and Documentation updates
-  1. More wallets / enhancements
-  1. Spread the good word
+    1. Bugfixes and Documentation updates
+    1. More wallets / enhancements
+    1. Spread the good word
 
 Schedule:
 
