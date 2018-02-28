@@ -2,6 +2,8 @@
 
 ### P.O.C.
 
+Will demostrates a proof-of-concept for some of the proposal unknowns.
+
 [link when repo made]
 
 ### High-level
