@@ -35,15 +35,8 @@ A signing provider that includes:
 
 ### Grant size
 
-`$50k in ETH, split into 4 chunks, one each quarter.`
+`up to $60k in ETH, to cover the burn rate.`
 
 `$50k in ANT, given out when all deliverables are ready.`
 
-### Application requirements
-
-- [ ] Diagram with all the components
-- [ ] Document detailing the architecture and possible libraries and tools to be used
-- [x] Details of the team members: __myself__
-- [x] Estimated average burn rate for completing the deliverables: `~ $4K / month`
-- [x] Legal structure to be adopted: __none__
 
