@@ -10,21 +10,25 @@ Will demostrates a proof-of-concept for some of the proposal unknowns.
 
 Independent Golang application featuring:
 
-- Binary Application:
-    - OS installers
-    - Electron UI for interacting with end-users
-    - API Server for DApps to talk to
+A Single application binary with:
 
+- Electron applicatoin for interacting with end-users
+- `127.0.0.1:<known-port>` API server for DApps to talk to
+- Installers for all platforms
+
+
+![Design Diagram](./os-level-signer.png)
 
 ### Flow
 
-- DApp comms with server on `127.0.0.1:<port>`
-    - Cross browser support + other local applications
+
+- DApp communicates with the signing-server on `127.0.0.1:<port>`
+    - Enables flexible interaction for cross-browser support or other local applications
 - On signing event
-    - DApp -> server (request)
-    - server -> user (UI notification)
-    - user does thing (signing / new app approve)
-    - server -> DAPP (success)
+    - DApp -> local-signing-server (payload enough for signer to lookup)
+    - signing-electorn-app -> user (UI notification)
+    - user does thing in UI (signing / new app approve)
+    - local-signing-server -> DAPP (optimistic success / error event)
 
 
 

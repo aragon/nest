@@ -32,6 +32,8 @@ A signing provider that includes:
 - Support for Linux, macOS and Windows
 - Human-readable transcript of the payloads to be signed, by using radspec
 
+Bonus: A framework for developing native DApps with `Golang+Electron+React`.
+
 
 ### Grant size
 
