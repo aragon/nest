@@ -1,6 +1,6 @@
 
 # Aragon Planning App - Roadmap
-* Assuming development begins mid-March, we are targeting an ultimate Mainnet launch of October 2018. 
+Assuming development begins mid-March, we are targeting an ultimate Mainnet launch of October 2018. 
 * The work will be broken into four Milestones for a total of ~26 weeks of work. 
 * Full test coverage will be maintained through milestone completion. 
 * At the end of each milestone, the app will be redeployed to testnet with new features or enhancements.
