@@ -83,7 +83,7 @@ and a way to access web3, either using servers, running a full node, or a light 
 
 `Up to $60k in ETH, to cover a $5k/month burn rate.`
 
-`$50k in ANT, given out when all deliverables are ready.`
+`$50k in ANT, given out as milestones are reached.`
 
 ### P.O.C.
 
