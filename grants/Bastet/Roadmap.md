@@ -1,7 +1,7 @@
-# Development Timeline
+# Roadmap 
 
 _subject to change as the design and architecture evolve
-during the proposal formulation (prior to submission & acceptance)_
+during the proposal formulation (prior to review & acceptance)_
 
 ### Phases:
 

@@ -1,3 +1,5 @@
+# Proposal
+
 # Request for Nest membership and funding (Bastet - An OS-level application for working with Blockchains)
 
 (formerly: [OS-level Signing Provider #1](https://github.com/aragon/nest/issues/1))
