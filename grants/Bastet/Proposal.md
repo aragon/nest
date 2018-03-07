@@ -54,7 +54,7 @@ and a way to access web3, either using servers, running a full node, or a light 
 
 ### Deliverables
 
-Bastet: The OS-level application that includes:
+**Bastet: The OS-level application that includes:**
 - Account and key management
     - A way to securely generate and store keys at the OS-level
     - Encrypt them while unused in the safest manner
@@ -63,11 +63,11 @@ Bastet: The OS-level application that includes:
 - A Web3 proxy and multiplexer which routes DApps to one or more blockchains
 - A way to manage blockchain connectivity (full/light clients, ganache/testrpc, Infura)
 
-An Electron UI for interacting with Bastet:
+**An Electron UI for interacting with Bastet:**
 - Interfaces for account, key, network, and DApp functionality
 - Notifications / popups with human-readable transcript of the payloads to be signed, by using radspec
 
-A thin browser extension:
+**A thin browser extension:**
 - Injects custom Web3 into sites (like MetaMask & Mist do), electron apps can use as well.
 - Only inject into websites approved by user (MetaMask injects Web3 into every tab today)
 - An expanded interface for DApps to send context with their web3 interactions.
@@ -75,7 +75,8 @@ A thin browser extension:
   - whitelist a DApp on first visit, disable at any time
   - set location for Bastet server (user _could_ have Bastet on one machine and clients on multiple machines)
 
-Extras:
+**Extras:**
+- Website and documentation for users and developers
 - A Boilerplate repository for developing native DApps with Electron and React.
 
 ### Grant size
