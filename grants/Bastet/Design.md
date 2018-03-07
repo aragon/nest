@@ -8,7 +8,7 @@ Bastet consists of three components:
 
 #### High-level Diagram:
 
-![Design Diagram](https://github.com/verdverm/nest/raw/master/grants/os-level-signing/bastet--high-level.png)
+![Design Diagram](https://github.com/verdverm/nest/raw/master/grants/Bastet/bastet--high-level.png)
 
 
 ### Components

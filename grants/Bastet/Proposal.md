@@ -12,7 +12,7 @@
 
 **Legal structure**: none
 
-**Design, Roadmap, Team:**   [files viewable here](https://github.com/verdverm/nest/tree/master/grants/os-level-signing)
+**Design, Roadmap, Team:**   [files viewable here](https://github.com/verdverm/nest/tree/master/grants/Bastet)
 
 ### Abstract
 

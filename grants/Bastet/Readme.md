@@ -8,11 +8,11 @@ The name __Bastet__ comes from an Egyptian diety for protection. ([Bastet - Wiki
 ---
 Github Links:
 
-[Proposal](./proposal.md)
-[Design](./design.md)
-[Roadmap](./roadmap.md)
-[Team](./team.md)
-[UX flows](./ux.md)
+[Proposal](./Proposal.md)
+[Design](./Design.md)
+[Roadmap](./Roadmap.md)
+[Team](./Team.md)
+[UX flows](./UX.md)
 
 ---
 Boostnote Links:
@@ -24,4 +24,4 @@ Boostnote Links:
 [Team](4e937f1301acb2365d8d-cc3f0909514765fdc34d)
 
 
-[Boostnote Website](https://boostnote.io/)
+[Boostnote.io Website](https://boostnote.io/)
