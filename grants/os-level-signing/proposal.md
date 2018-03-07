@@ -13,8 +13,8 @@ This becomes a problem when:
 - Interacting with different dapps, since some dapps may run inside a web browser, or inside an Electron app, or even in the command line
 - Storing private keys, since there are multiple possible vector attacks. For example, in the case of a Chrome extension, Google or a malicious attacker may trigger an extension update that steals all private keys
 
-An independent OS-level signing provider 
-wouldn’t be dependent on browsers or their extension stores, 
+An independent OS-level signing provider
+wouldn’t be dependent on browsers or their extension stores,
 and it wouldn't include any sort of wallet functionality, just signing.
 
 It could also show human-readable descriptions of what the payload to sign entails, by using something such as radspec.
