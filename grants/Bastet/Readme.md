@@ -9,10 +9,14 @@ The name __Bastet__ comes from an Egyptian diety for protection. ([Bastet - Wiki
 Github Links:
 
 [Proposal](./Proposal.md)
+
 [Design](./Design.md)
-[Roadmap](./Roadmap.md)
-[Team](./Team.md)
+
 [UX flows](./UX.md)
+
+[Roadmap](./Roadmap.md)
+
+[Team](./Team.md)
 
 ---
 Boostnote Links:
