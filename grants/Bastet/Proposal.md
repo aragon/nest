@@ -25,6 +25,7 @@ and a way to access web3, either using servers, running a full node, or a light 
 - Interacting with different chains, since they may need different web3 providers that extract state from the blockchain
 - Interacting with different dapps, since some dapps may run inside a web browser, or inside an Electron app, or even in the command line
 - Storing private keys, since there are multiple possible vector attacks. For example, in the case of a Chrome extension, Google or a malicious attacker may trigger an extension update that steals all private keys. ([sentry - report failed txs by kumavis · Pull Request #3066 · MetaMask/metamask-extension · GitHub](https://github.com/MetaMask/metamask-extension/pull/3066))
+- Extensions (like MetaMask) inject a Web3 object into every website, regardless if it's a DApp or not. This needlessly increases the security frontier and attack vectors even more.
 
 #### An independent OS-level application would:
 
@@ -34,6 +35,7 @@ and a way to access web3, either using servers, running a full node, or a light 
     - Remove account keys and chain interaction from the DApps' running environments.
     - Act as a proxy between DApps and accounts / keys / chains / APIs
     - Enable users to control DApp access and permissions.
+    - Web3 is only injected to approved websites / DApps.
 - **Improve User Experience**
     - Create a centralized place for users to manage keys, networks, and DApps.
     - Use multiple DApps at the same time with different chains, either native or browser based.
@@ -67,8 +69,9 @@ An Electron UI for interacting with Bastet:
 
 A thin browser extension:
 - Injects custom Web3 into sites (like MetaMask & Mist do), electron apps can use as well.
+- Only inject into websites approved by user (MetaMask injects Web3 into every tab today)
 - An expanded interface for DApps to send context with their web3 interactions.
-- Little to no in-browser interactions 
+- Little to no in-browser interactions
   - whitelist a DApp on first visit, disable at any time
   - set location for Bastet server (user _could_ have Bastet on one machine and clients on multiple machines)
 
