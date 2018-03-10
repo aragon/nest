@@ -8,4 +8,4 @@ Jordan has extensive full stack experience (including design) with a focus on re
 
 **Commitment**: Full-time
 
-**Socials**: [GitHub](https://github.com/floating), [Twitter](https://github.com/ffloat)
+**Socials**: [GitHub](https://github.com/floating), [Twitter](https://twitter.com/ffloat)
