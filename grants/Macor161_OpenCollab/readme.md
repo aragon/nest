@@ -21,7 +21,7 @@ The whitepaper is pretty much already written, Yondon gave us a thoughtful and d
 
 ## Burn rate
 
-The burn rate would basically be my salary: $8,400 / month
+$14,000 / month.
 
 
 ## Legal structure

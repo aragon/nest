@@ -1,30 +1,31 @@
 # Roadmap
 
-### Q1 2018
+### Month 1
 
 1. Port opencollab-cli to a library
-2. Begin the frontend
+2. Migrate the smart contracts to AragonOS
+3. Implement issues management
 
+### Month 2
 
-### Q2 2018
+1. Setup a default storage option
+2. Integrate the mango protocol to opencollab-cli
+3. Testnet launch
 
-1. Integrate MetaMask in the Electron frontend
-2. Migrate the contracts to AragonOS
-3. Implement issues management, pull requests and merge requests
-4. Setup a default storage option for testnet launch
-5. Testnet launch
+### Month 3
 
-### Q3 2018
+1. Implement maintainers section
+2. Pull and merge requests
+3. Testnet launch
+
+### Month 4
 
 1. Move to a storage agnostic implementation
 2. Add bounties support
-3. Basic user management
-4. Enable repo settings modifications
-5. Testing
-6. Mainnet launch
+3. Enable repo settings modifications
+4. Mainnet launch
 
-
-### Q4 2018
+### Months 5 and 6
 
 1. 100% test coverage
 2. Security audit
