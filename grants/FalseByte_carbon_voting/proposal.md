@@ -12,10 +12,10 @@
 
 FalseByte Carbon Voting is a request for funding for completing the deliverables associated with Nest Proposal #7. 
 
-At ETHDenver our team implemented what we believe is a solution to the requirements specified in the proposal. 
+At ETHDenver our team implemented what we believe is a solution to the requirements specified in the proposal. For more of a description see the README in the github linked above.
 
-We believe that we have completed deliverable #1 besides deploying onchain.
+We believe that we have completed deliverable #1.
 
 Deliverable #2 is out of scope for our team
 
-Deliverable #3 is doable, and may be the last step before deploying onchain.
+Deliverable #3 is doable, and may be the last step before deploying onchain. 
