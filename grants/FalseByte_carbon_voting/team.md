@@ -10,15 +10,15 @@ Core Developer for Truebit. Writes whatever code needed to get the job done. Mos
 
 ### Sami Mäkelä — Solidity Dev
 
-TODO
+Core developer for Truebit. Since completing his PhD in spring 2016, Sami has been working on formal verification of Ethereum Virtual Machine programs. As a student, he participated on a team which performed a security audit on a Finnish e-Voting pilot. 
 
 **Commitment**: Part time
 
 **Socials**: [GitHub](https://github.com/mrsmkl) [Twitter](https://twitter.com/mrsmkl)
 
-### De'on Summers— Solidity Dev
+### De'on Summers — Solidity Dev
 
-TODO
+Developer for Hashed Health. Lifetime learner.
 
 **Commitment**: Part time
 

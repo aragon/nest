@@ -4,7 +4,7 @@
 
 **Proof of concept / research whitepaper**: https://github.com/hswick/falsebyte-carbon-voting
 
-**Burn rate**: Deliverable 1 has been completed over the past 6 weeks with 2 Truebit Contributors and 2 open source contributors.  We can better estimate additional burn rate after reviewing the scope of deliverables 2-3 with the Aragon team.
+**Burn rate**: Deliverable 1 has been completed over the past 6 weeks with 2 Truebit Contributors and 1 open source contributor.  We can better estimate additional burn rate after reviewing the scope of deliverables 2-3 with the Aragon team.
 
 **Legal structure**: NA
 

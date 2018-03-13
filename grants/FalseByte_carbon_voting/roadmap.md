@@ -3,7 +3,7 @@
 ### Q1 2018
 
 1. A way to vote and monitor token transfers
-2. Develop interface for differnt types of voting
+2. Develop interface for different types of voting
 
 ### Q2 2018
 
