@@ -1,4 +1,4 @@
-_See the [Guide for submitting a proposal for grants](https://wiki.aragon.one/nest/guides/guide_for_submitting_a_request_for_funding/) for further details on submitting a grant proposal_
+_See the [Guide for submitting a proposal for grants](https://wiki.aragon.one/nest/guides/guide_for_submitting_a_proposal_for_grants/) for further details on submitting a grant proposal_
 
 # Aragon Nest Proposal: Eagles on the blockchain
 
