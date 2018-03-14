@@ -2,11 +2,11 @@
 
 # Request for Nest membership and funding (Bastet - An OS-level application for working with Blockchains)
 
-(formerly: [OS-level Signing Provider #1](https://github.com/aragon/nest/issues/1))
+Extended version of: [OS-level Signing Provider #1](https://github.com/aragon/nest/issues/1)
 
 **Teamname / Codename**: Bastet
 
-**Proof of concept**: [[WIP] EOSP-POC](https://github.com/verdverm/eosp-poc)
+**Proof-of-concept**: [Bastet](https://github.com/verdverm/bastet)
 
 **Burn rate**: `$5k / month`
 
@@ -84,12 +84,3 @@ and a way to access web3, either using servers, running a full node, or a light 
 `Up to $60k in ETH, to cover a $5k/month burn rate.`
 
 `$50k in ANT, given out as milestones are reached.`
-
-### P.O.C.
-
-The following repository demonstrates a Proof-of-concept for the `os-level-provider`.
-The POC is composed of the provider application, the provider UI, and two DApps.
-A more throrough description can be found in the repository's Readme.
-
-[EOSP-POC](https://github.com/verdverm/eosp-poc)
-
