@@ -13,7 +13,7 @@ Bastet consists of three components:
 
 #### Internals Diagram:
 
-![Design Diagram](https://github.com/verdverm/nest/raw/master/grants/Bastet/bastet--internals.png)
+![Internal Diagram](https://github.com/verdverm/nest/raw/master/grants/Bastet/bastet--internal.png)
 
 
 ### Components
