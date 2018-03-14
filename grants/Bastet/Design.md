@@ -11,6 +11,11 @@ Bastet consists of three components:
 ![Design Diagram](https://github.com/verdverm/nest/raw/master/grants/Bastet/bastet--high-level.png)
 
 
+#### Internals Diagram:
+
+![Design Diagram](https://github.com/verdverm/nest/raw/master/grants/Bastet/bastet--internals.png)
+
+
 ### Components
 
 #### 1. Bastet Application
@@ -84,17 +89,27 @@ Technologies:
 
 
 
-### Further considerations
+### Further Considerations
+
+Similar Projects:
+
+- [GitHub - floating/frame: A cross-platform Ethereum provider interface](https://github.com/floating/frame)
+
+Radspec: 
+- [GitHub - aragon/radspec: 🤘 Radspec is a safe alternative to Ethereum's natspec](https://github.com/aragon/radspec)
+- will need to contribute to this project as well
+
+Security:
 
 - How to have verified / approved DApps for the user?
+    - How do DApps identify themselves on connection?
+    - Can we inspect the request hostname? maybe grab the html for title / description (in-browser only?)
+    - Radspec?
+    - uPort / Signal?
 - How to secure inter-DApp / Bastet communication?
-    - Data in-flight should be encrypted as well
-    - Https sites __are__ allowed to talk to `127.0.0.1`
-    - i.e. we need TLS between the DApp and OS-Signer
-    - but... browsers may barf on a self-signed cert
-    - Other local applications _should_ be easier to manage in this regard
-
-- [Electron Security PDF](https://www.blackhat.com/docs/us-17/thursday/us-17-Carettoni-Electronegativity-A-Study-Of-Electron-Security-wp.pdf)
-- [Electron + MetaMask = Secure, Easy to Use Dapps 🔒 – Aragon](https://blog.aragon.one/electron-metamask-secure-easy-to-use-dapps-5a9987d21034)
-- [How Aragon approaches identity and the Ethereum Keybase Resolver](https://blog.aragon.one/how-aragon-approaches-identity-and-the-ethereum-keybase-resolver-d548133e4a26)
-- [uPort: Self-Sovereign Identity](https://www.uport.me/)
+    - [GitHub - MichaelVasseur/electron-ipc-bus: An IPC bus for Electron.](https://github.com/MichaelVasseur/electron-ipc-bus)
+- More security related links:
+    - [Electron Security PDF](https://www.blackhat.com/docs/us-17/thursday/us-17-Carettoni-Electronegativity-A-Study-Of-Electron-Security-wp.pdf)
+    - [Electron + MetaMask = Secure, Easy to Use Dapps 🔒 – Aragon](https://blog.aragon.one/electron-metamask-secure-easy-to-use-dapps-5a9987d21034)
+    - [How Aragon approaches identity and the Ethereum Keybase Resolver](https://blog.aragon.one/how-aragon-approaches-identity-and-the-ethereum-keybase-resolver-d548133e4a26)
+    - [uPort: Self-Sovereign Identity](https://www.uport.me/)
