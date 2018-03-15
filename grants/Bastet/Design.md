@@ -91,10 +91,6 @@ Technologies:
 
 ### Further Considerations
 
-Similar Projects:
-
-- [GitHub - floating/frame: A cross-platform Ethereum provider interface](https://github.com/floating/frame)
-
 Radspec: 
 - [GitHub - aragon/radspec: 🤘 Radspec is a safe alternative to Ethereum's natspec](https://github.com/aragon/radspec)
 - will need to contribute to this project as well

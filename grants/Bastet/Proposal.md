@@ -6,13 +6,13 @@ Extended version of: [OS-level Signing Provider #1](https://github.com/aragon/ne
 
 **Teamname / Codename**: Bastet
 
-**Proof-of-concept**: [Bastet](https://github.com/verdverm/bastet)
+**Proof-of-concept**: [Bastet](https://github.com/verdverm/bastet)  (description below) ([demo video](https://youtu.be/HQlpE0O0BUA)) ([downloads](https://drive.google.com/open?id=1mGVt5M_3C9NwSFAMJ79G56sGX4qrL899))
 
 **Burn rate**: `$5k / month`
 
 **Legal structure**: none
 
-**Design, Roadmap, Team:**   [files viewable here](https://github.com/verdverm/nest/tree/master/grants/Bastet)
+**Design, Roadmap, Team:**   [Full proposal viewable here](https://github.com/verdverm/nest/tree/master/grants/Bastet)
 
 ### Abstract
 
