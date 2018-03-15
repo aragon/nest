@@ -84,3 +84,20 @@ and a way to access web3, either using servers, running a full node, or a light 
 `Up to $60k in ETH, to cover a $5k/month burn rate.`
 
 `$50k in ANT, given out as milestones are reached.`
+
+### Proof-of-concept:
+
+A Proof-of-concept can be found [here](https://github.com/verdverm/bastet) with instructions for setup and running. There is a demo setup included, though it should work with and Dapp that can work with ganache at this point.
+
+P.O.C. Demonstrations:
+
+- Transaction signing UX
+    - Interecpts Dapp request in proxy
+    - Presents TX details to user for approval / denial
+    - Signs transaction with private key and sends to the chain for execution
+    - Sends user's response to Dapp
+- Dapp proxy to prevent direct communication with the chains
+- Separate Node processes for isolation of sensative data handling
+- Secure IPC, because Electron IPC is not
+- Works on all required Operating Systems
+- _Should_ work with all Dapps against `ganache-cli -i 22323 --seed 22323 -d`
