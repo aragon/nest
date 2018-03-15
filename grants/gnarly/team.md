@@ -12,9 +12,13 @@ He now works full-time on [XLNT](https://XLNT.co), a collective of experiences a
 
 ## Mykel Pereira
 
+Mykel is a full stack developer, who previously founded [Haywheel (YC S16)](https://haywheel.com), an order management platform for restaurants and their vendors.
+
+He now works full-time on [XLNT](https://XLNT.co), a collective of experiences and experiments around the ideas of tokenization and digital ownership.
+
 **Commitment**: Full Time
 
-**Socials**: [GitHub](#) | [Twitter](#)
+**Socials**: [GitHub](https://github.com/mykelp) | [Twitter](https://twitter.com/mykelp)
 
 ## Everyone on the Internet
 
