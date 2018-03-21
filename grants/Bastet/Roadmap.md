@@ -9,6 +9,7 @@ during the proposal formulation (prior to review & acceptance)_
     1. End-to-end prototype and installers
         1. Bastet, UI, browser extension
         1. Basic account, key, network, dapp, and signing functionality
+        1. Isolated processes for Bastet, DApp Proxy, and Key Signing
         1. Installers for all platforms 
     1. Test-suite and coverage metrics
     1. Demo / example using application
@@ -35,9 +36,12 @@ during the proposal formulation (prior to review & acceptance)_
 
 ### Schedule:
 
-Estimated total time: __3-4 Quarters__
+Estimated total time: __2-3 Quarters__
 
-I expect Milestones 1 & 2 to occupy about 2 Quarters (with `1 < 2`),
-at which point `RC.v1.0.0` can be cut.
-There will be a first end-to-end prototype within a month.
+First end-to-end prototype: __~1 Month__
 
+Milestone 1: __~35% effort__ 
+
+Milestone 2: __~25% effort__ 
+
+Remainder: __~40% effort__ 
