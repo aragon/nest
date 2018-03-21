@@ -1,10 +1,20 @@
 # Design
 
-Bastet consists of three components:
+Bastet consists of four components:
 
 1. Bastet - The standalone application for OSX/Win/\*nix
-2. An Electron UI for interacting with Bastet
-3. A thing browser extension for DApp compatibility
+    1. Provides the main UX
+    2. Mainly an administrative interface
+2. Bastet Key Signer - where the secrets are handled
+    1. Eventual support for any external key signer (see discussions in ethereum/signer on gitter)
+    1. Able to run on separate hardware or offline
+3. Bastet Dapp Proxy - The piece that enables the permissioning of Dapps to networks, accounts, and eth apis 
+4. A thin browser extension for DApp workflows and backwards compatibility
+
+The goal will is to enable flexibility in where and how the components are run.
+They can be run with a single command on one machine for basic usage,
+or run separately with varing degrees of isolation.
+This enables users to customize to their sercurity v. simplicity tradeoff point.
 
 #### High-level Diagram:
 
@@ -22,7 +32,11 @@ Bastet consists of three components:
 
 Provides:
 
-- An extended Web3 interface for DApps
+- UX for adminstrative tasks
+    - Accounts / Keys / Wallets
+    - Blockchains and connection methods
+    - DApp access and permissions
+- Notifications / Popups when DApps need actions by the user
 - An administration API for the Bastet UI
 
 Internally:
@@ -32,9 +46,54 @@ Internally:
     - Encrypt them while unused in the safest manner
     - Support for hardware wallets, at least Ledger and Trezor
 - Manages DApps and their access / permissions
+- Handles events and creating notifications
+
+- Subscribes to events and forwards to UI or DApp
+
+Technologies:
+
+- Based on: [GitHub - chentsulin/electron-react-boilerplate: Live editing development on desktop app](https://github.com/chentsulin/electron-react-boilerplate)
+- More resources: [GitHub - sindresorhus/awesome-electron: Useful resources for creating apps with Electron](https://github.com/sindresorhus/awesome-electron)
+- Makes use of the Bastet thin browser extension and the separate API for administration
+
+#### 2. Bastet Key Signer
+
+Provides:
+
+- Isoloated process for key usage and transaction signing
+- Options for running on separate hardware / offline
+- API / IPC interface for interactions
+
+Internally:
+
+- Deals with key encryption and storage
+- Transaction signing
+    - Receives request
+    - Uses key, signs transaction
+    - Returns signed result
+- Interactions with HW wallets happens here
+
+Technologies:
+
+- Initially a JavaScript / Express application
+- EthereumJS repositories (ethereum-tx)
+- Will explore moving to Golang
+
+(There is a lot of flexibility here)
+
+#### 3. Bastet DApp Proxy
+
+Provides:
+
+- Web3 interface for DApps
+
+Internally:
+
 - A Web3 proxy and multiplexer which routes DApps to one or more blockchains
 - Manage blockchain connectivity (geth full/light clients, ganache/testrpc, Infura)
-- Subscribes to events and forwards to UI or DApp
+- Intercepts Web3 calls
+    - Injects the signing process
+    - Checks permissions and proxies or not
 
 Technologies:
 
@@ -45,29 +104,9 @@ Technologies:
     - https://github.com/MetaMask/provider-engine
     - [MetaMask · GitHub](https://github.com/MetaMask) has a number of secondary JS libs that will be useful.
 
-#### 2. Bastet UI
+(There is a lot of flexibility here)
 
-Provides:
-
-- UX for adminstrative tasks
-    - Accounts / Keys / Wallets
-    - Blockchains and connection methods
-    - DApp access and permissions
-- Notifications / Popups when DApps need actions by the user
-
-Internally:
-
-- Connects to a Bastet instance
-- Handles events and creating notifications
-
-Technologies:
-
-- Based on: [GitHub - chentsulin/electron-react-boilerplate: Live editing development on desktop app](https://github.com/chentsulin/electron-react-boilerplate)
-- More resources: [GitHub - sindresorhus/awesome-electron: Useful resources for creating apps with Electron](https://github.com/sindresorhus/awesome-electron)
-- Makes use of the Bastet thin browser extension and the separate API for administration
-
-
-#### 3. Thin Browser Extension
+#### 4. Thin Browser Extension
 
 Provides:
 
