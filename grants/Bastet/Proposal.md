@@ -81,7 +81,7 @@ and a way to access web3, either using servers, running a full node, or a light 
 
 ### Grant size
 
-`Up to $60k in ETH, to cover a $5k/month burn rate.`
+`Up to $45k in ETH, to cover a $5k/month burn rate, for up to 9 months.`
 
 `$50k in ANT, given out as milestones are reached.`
 
