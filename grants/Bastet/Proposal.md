@@ -8,9 +8,11 @@ Extended version of: [OS-level Signing Provider #1](https://github.com/aragon/ne
 
 **Proof-of-concept**: [Bastet](https://github.com/verdverm/bastet)  (description below) ([demo video](https://youtu.be/HQlpE0O0BUA)) ([downloads](https://drive.google.com/open?id=1mGVt5M_3C9NwSFAMJ79G56sGX4qrL899))
 
+**Time Est.**: 2-3 quarters
+
 **Burn rate**: `$5k / month`
 
-**Legal structure**: none
+**Legal structure**: existing s-corp 
 
 **Design, Roadmap, Team:**   [Full proposal viewable here](https://github.com/verdverm/nest/tree/master/grants/Bastet)
 

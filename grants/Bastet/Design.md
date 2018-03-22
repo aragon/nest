@@ -20,10 +20,47 @@ This enables users to customize to their sercurity v. simplicity tradeoff point.
 
 ![Design Diagram](https://github.com/verdverm/nest/raw/master/grants/Bastet/bastet--high-level.png)
 
+The Bastet Application (large middle box) is the conceptual piece which acts as the UI, proxy, and independent signer.
+Additionally, there is a _thin_ browser extension which
+adds the Bastet Dapp Proxy as the web3 provider in browsers.
+
+From the outside, the user interacts with the Bastet UI and Dapps (either native or browser based). The UI talks directly with the Bastet application over secure IPC. Dapps talk to the Bastet Dapp Proxy by the standard web3 communication protocols.
+
+Behind the Bastet Application, and in particular the Dapp Proxy,
+any number and type of Etheruem networks back the Dapp calls to the blockchain. The associations and permissions, for a Dapp, to a network are controlled through the interface and enforced in the proxy.
 
 #### Internals Diagram:
 
 ![Internal Diagram](https://github.com/verdverm/nest/raw/master/grants/Bastet/bastet--internal.png)
+
+The Bastet Application, the purple bordered box,
+is the conceptual group of processed the realize
+Bastet's functionality. One of the core goals,
+as requested by some community discussion,
+is to make these components pluggable, such that:
+
+- They can be run as a single application, with several internal and separate OS processes.
+- Components may be run as separate applications, each with their own command invocation.
+- Components may be run on separate hardware, including offline or cloud based. Offline makes sense for key signing. Cloud may make sense for the proxy.
+
+The diagram above shows the single application version,
+in which all components are started from a single executable.
+Each of the darker boxes are run as OS child processes
+of the main process (note the green sub-boxes).
+When run as a single application, 
+the components use a secure IPC bus to pass messages.
+
+When a user chooses to run a component as a
+standalone application, configuration is available
+to point the main application at the remote component.
+The context and setup will determine how secure
+communication is provided (example: TLS & authentication).
+
+Dapps will talk to the networks, through the Dapp Proxy,
+by the typical Web3 protocols.
+Notifications can happen in the UI and via OS level notifications.
+Likely they will happen in both, where the UI will
+additionally provide an event history.
 
 
 ### Components
@@ -86,6 +123,7 @@ Technologies:
 Provides:
 
 - Web3 interface for DApps
+- Phishing and Malware notifications / blocking
 
 Internally:
 
@@ -103,7 +141,8 @@ Technologies:
 - Other repositories:
     - https://github.com/MetaMask/provider-engine
     - [MetaMask · GitHub](https://github.com/MetaMask) has a number of secondary JS libs that will be useful.
-
+- MetaMask also has a phishing library in JS they embedded into their extension
+ 
 (There is a lot of flexibility here)
 
 #### 4. Thin Browser Extension
@@ -129,6 +168,11 @@ Technologies:
 
 
 ### Further Considerations
+
+Storage:
+
+- Electron has libraries for persisting configuration and other in-browser data.
+- Some more advanced features may require a database (i.e. history for events / signing / permissions / auditing; phishing & malware sites / wallets database)
 
 Radspec: 
 - [GitHub - aragon/radspec: 🤘 Radspec is a safe alternative to Ethereum's natspec](https://github.com/aragon/radspec)
