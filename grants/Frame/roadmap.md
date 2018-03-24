@@ -6,13 +6,15 @@
 - Inject OS-level provider into web apps
 - Support hardware wallets Ledger and Trezor
 - Support macOS, Windows and Linux
+- Implement user account settings and dapp permissions
+- Improve interface for dapps to discover if an OS-level provider is available
+- Add go-signer as signing module
+- Create browser extension to inject Frame provider
 
 ## Roadmap
 
 ### Q2 2018
-- Implement user account settings and dapp permissions
 - Implement payload typing and create patterns around different types of requests so users can clearly understand what they're signing
-- Improve interface for dapps to discover if an OS-level provider is available
 - Testing and third-party security audit
 - Release of v0.1.0 (hardware-signers-only)
 
