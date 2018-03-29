@@ -36,7 +36,7 @@ during the proposal formulation (prior to review & acceptance)_
 
 ### Schedule:
 
-Estimated total time: __2-3 Quarters__
+Estimated total time: __1-2 Quarters__
 
 First end-to-end prototype: __~1 Month__
 

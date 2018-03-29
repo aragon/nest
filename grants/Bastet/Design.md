@@ -169,14 +169,15 @@ Technologies:
 
 ### Further Considerations
 
-Storage:
+Storage & Encryption:
 
 - Electron has libraries for persisting configuration and other in-browser data.
 - Some more advanced features may require a database (i.e. history for events / signing / permissions / auditing; phishing & malware sites / wallets database)
 
-Radspec: 
+Radspec / Transaction readability: 
+
 - [GitHub - aragon/radspec: 🤘 Radspec is a safe alternative to Ethereum's natspec](https://github.com/aragon/radspec)
-- will need to contribute to this project as well
+- will need to contribute to this project as well?
 
 Security:
 
@@ -192,3 +193,9 @@ Security:
     - [Electron + MetaMask = Secure, Easy to Use Dapps 🔒 – Aragon](https://blog.aragon.one/electron-metamask-secure-easy-to-use-dapps-5a9987d21034)
     - [How Aragon approaches identity and the Ethereum Keybase Resolver](https://blog.aragon.one/how-aragon-approaches-identity-and-the-ethereum-keybase-resolver-d548133e4a26)
     - [uPort: Self-Sovereign Identity](https://www.uport.me/)
+    
+Various Library Issues:
+
+- Package Electron Routing
+    - [Routes not working on production · Issue #1423 · chentsulin/electron-react-boilerplate · GitHub](https://github.com/chentsulin/electron-react-boilerplate/issues/1423)
+    - [Programmatic navigation fails · Issue #1007 · chentsulin/electron-react-boilerplate · GitHub](https://github.com/chentsulin/electron-react-boilerplate/issues/1007)
