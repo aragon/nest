@@ -1,6 +1,6 @@
 # Gnarly Roadmap
 
-### Q1 2018
+### Mid-April 2018
 
 - Initial prototype of server-side gnarly, proving the initial concept. Supports:
     - monitoring arbitrary Ethereum blockchain events via developer-defined state function,
@@ -9,7 +9,7 @@
     - persisting the reduced state to arbitrary stores,
     - ensures that the persisted state is GraphQL-compatible for reactive frontends.
 
-### Q2 2018
+### Mid-April to June 2018
 
 - Production ready version of server- and client-side gnarly. Supports:
     - optimistic state transitions,
