@@ -8,8 +8,7 @@
 
 1. Support for ERC20 bounties and deposits added.
 2. Integration into the Aragon Court System (provided it exists on a test net)
-   
-    2.1. If the Aragon Court System doesn't exist on a test net then a mock plugin version will be used
+    * If the Aragon Court System doesn't exist on a test net then a mock plugin version will be used
 
 ### February 2019
 1. Version 1 launched on main net.
