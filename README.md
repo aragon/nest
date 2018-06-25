@@ -6,7 +6,7 @@
 
 Aragon Nest is brought to you by your friends at [Aragon](https://aragon.one) and [Placeholder](https://twitter.com/placeholdervc).
 
-The goal of the program is to attract talent to research and build the necessary tooling for developing solutions around Aragon and Ethereum.There are a lot of people and teams out there who just want to create great things without worrying about money. Not every project needs an ICO, not every team needs a business model, and not every piece of software needs a team or an employer. The Nest program was created to meet circumstances like these and provide funding to those who wish to step up and construct such relevant software or non-software solutions. We are not interested in funding startups or monetizable solutions.
+The goal of the program is to attract talent to research and build the necessary tooling for developing solutions around Aragon and Ethereum. There are a lot of people and teams out there who just want to create great things without worrying about money. Not every project needs an ICO, not every team needs a business model, and not every piece of software needs a team or an employer. The Nest program was created to meet circumstances like these and provide funding to those who wish to step up and construct such relevant software or non-software solutions. We are not interested in funding startups or monetizable solutions.
 
 ### More information
 - Read the public announcement [**Introducing Aragon Nest**](https://blog.aragon.one/introducing-aragon-nest-1aa8c91c0566)
@@ -14,7 +14,6 @@ The goal of the program is to attract talent to research and build the necessary
 - Browse the current [**proposals for grants**](https://github.com/aragon/nest/issues)
 - Browse the current [**requests for funding**](https://github.com/aragon/nest/pulls)
 - See Aragon Nest in the [**Aragon Wiki**](https://wiki.aragon.one/nest/)
-
 
 ## How to submit a proposal for a grant?
 
@@ -31,4 +30,4 @@ The goal of the program is to attract talent to research and build the necessary
 > _Proposals should abstractly describe problems or products, not their implementations_
 
 
-### Engage the community and discuss! The community, [Aragon](https://aragon.one) and [Placeholder](https://twitter.com/placeholdervc) will review the submissions and get back to you
+### Engage the community and discuss! The community and [Aragon](https://aragon.one) will review the submissions and get back to you
