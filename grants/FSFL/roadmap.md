@@ -2,12 +2,12 @@
 
 ### Discovery (10 weeks)
 1. Project kick-off and discovery discussions with Aragon team (1 week)
-2. Identify and consolidate stated requirements (four weeks)
+2. Identify and consolidate stated critical points (4 weeks)
 3. Gap analysis between land jurisdiction and digital jurisdiction (5 weeks)
 4. Deliverable(s):
    - Summary of initial discovery report
-   - List of stated requirements including proposed action items
-   - List of relevant land jurisdiction requirements with supporting gap analysis
+   - List of stated critical points including proposed action items
+   - List of relevant land jurisdiction critical points with supporting gap analysis
 5. Fees: $100k
 
 ### Development (6 months)
@@ -21,5 +21,5 @@
 ### Implementation (5 weeks)
 1. Coordinate with Aragon team to implement actions items per the checklist
 2. Deliverable(s):
-   - Testing and go-live of processes and/or platform changes
+   - Testing and go-live of the first interaction/s between a DAO and select land jurisdiction(s)
 3. Fees: $50k
