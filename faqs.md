@@ -37,6 +37,15 @@ Placeholder has years of experience in evaluating crypto projects and teams. The
 We’re in a privileged position to push forward and raise awareness about great, undervalued projects in the space, such as the ones we want to fund with the Nest program.
 
 ## **Who will be participating on deciding the grantees?**
+
+### **Aragon**
+
+**[Maria Gomez](https://blog.aragon.one/team-interviews-maria-aragons-head-of-strategy-and-operations-17c2a758aaf3) — Grants Lead**
+
+**[Luis Cuende](https://blog.aragon.one/team-interviews-luis-aragons-project-lead-c4916bb3cfb4) — Co-Founder & Project Lead**
+
+**[Jorge Izquierdo](https://blog.aragon.one/team-interviews-jorge-aragons-tech-lead-dae54d7eacac) — Co-Founder & Tech Lead**
+
 ### **Placeholder**
 
 [**Joel Monegro**](https://twitter.com/jmonegro)
@@ -46,22 +55,6 @@ We’re in a privileged position to push forward and raise awareness about great
 [**Chris Burniske**](https://twitter.com/cburniske)
 
 >Chris Burniske is a partner at Placeholder, a venture capital firm based in New York City that invests in decentralized information networks. Prior to Placeholder, he pioneered ARK Invest’s crypto efforts, leading the firm to become the first public fund manager to invest in bitcoin in 2015, and co-authored the best selling book, Cryptoassets. His commentary has been featured on national media outlets, including the Wall Street Journal, the New York Times, Fortune, and Forbes. Chris graduated Phi Beta Kappa with a BS from Stanford.
-
-### **Aragon**
-
-**[Luis Cuende](https://blog.aragon.one/team-interviews-luis-aragons-project-lead-c4916bb3cfb4) — Co-Founder & Project Lead**
-
-> Luis has been awarded as the best underage European programmer in 2011, is a [Forbes 30 Under 30](https://www.forbes.com/30-under-30-europe-2016/technology/#6662a3e4a4b3), a [MIT TR35](http://www.innovatorsunder35.com/innovator/luis-cuende) and was an Advisor to the VP of the European Commission.
-
-> He cofounded the blockchain startup [Stampery](https://stampery.com/). Prior to founding startups, he created the world’s first Linux distribution with facelogin.
-
-> He also has gained a substantial amount of experience from serving as an advisor to multiple crypto projects
-
-**[Jorge Izquierdo](https://blog.aragon.one/team-interviews-jorge-aragons-tech-lead-dae54d7eacac) — Co-Founder & Tech Lead**
-
-> Curious hacker, creator of multiple apps for iOS and macOS. Reached App Store’s #2. Always tinkering with new tech. Member of the [2017 class of Thiel Fellows](https://www.businesswire.com/news/home/20170616005607/en).
-
-> Already convinced about the decentralized future of the Internet, he has been building toy projects such as a [mesh network](http://github.com/izqui/net) or a small [blockchain implementation](http://github.com/izqui/blockchain) since 2014.
 
 ### **Community**
 
