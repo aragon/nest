@@ -14,6 +14,7 @@ The goal of the program is to attract talent to research and build the necessary
 - Browse the current [**proposals for grants**](https://github.com/aragon/nest/issues)
 - Browse the current [**requests for funding**](https://github.com/aragon/nest/pulls)
 - See Aragon Nest in the [**Aragon Wiki**](https://wiki.aragon.one/nest/)
+- Read [**Frequently Asked Questions**](faqs.md)
 
 ## How to submit a proposal for a grant?
 
