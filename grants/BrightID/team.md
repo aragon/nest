@@ -1,6 +1,6 @@
 # BrightID Team
 ## Adam Stallard - Project Lead, Anti-Sybil, Graph DB, Node JS
-Working in Distributed systems since 2010 and client-server architecture since 2002, Adam has run multiple companies. He founded BrightID to bring people the benefits of verified unique personhood.
+Working in distributed systems since 2010 and client-server architecture since 2002, Adam has run multiple companies. He founded BrightID to bring people the benefits of verified unique personhood.
 
 __Commitment__: Full-time
 
