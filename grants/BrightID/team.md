@@ -25,7 +25,7 @@ To achieve his Msc degree in AI, Ivan has performed studies on 'degree of separa
 
 __Commitment__: Part-time
 
-__Socials__: [Freelancer](https://freelancer.com/u/helmot) [Github](https://github.com/helmot)
+__Socials__: [Freelancer](https://freelancer.com/u/helmot) - [Github](https://github.com/helmot)
 
 ## Special thanks 
 * __Yalda Mousavinia__ for Product Management and UI/UX specs.
