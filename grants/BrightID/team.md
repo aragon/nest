@@ -7,11 +7,11 @@ __Commitment__: Full-time
 __Socials__: [Github](https://github.com/adamstallard) - [LinkedIn](https://www.linkedin.com/in/castallard/) - [Angel List](https://angel.co/adam-stallard)
 
 ## David Wisner - Mobile Lead, React-Native, Node JS
-David has 4 years development experience in Javascript.
+David has 4 years development experience in Javascript. He is currently working part time as a TA for a coding bootcamp. For the last few years, he has focused his attention on researching a wide variety of topics in theoretical physics and computer science as an independent scholar. He gradutated with a Bachelor of Science in Psychology and Premed from the University of Washington.
 
 __Commitment__: Full-time
 
-__Socials__: [Github](https://github.com/RnbWd)
+__Socials__: [Github](https://github.com/RnbWd) - [LinkedIn](https://www.linkedin.com/in/rnbwd/)
 
 ## Abram Symons - Anti-Sybil Framework (Python)
 
