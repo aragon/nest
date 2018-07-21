@@ -21,12 +21,12 @@ __Commitment__: Part-time
 __Socials__: [Medium](https://medium.com/@AbramSymons) - [Twitter](https://twitter.com/abramsymons) - [Github](https://github.com/abramsymons)
 
 ## Ivan Helmot - Anti-Sybil Framework, Python
-To achieve his Msc degree in AI, Ivan has performed studies on 'degree of separation in social networks' and 'search in social networks'. He has more than 12 years of experience in programming. He has also been active in the same monetary reformists' team in which Abram is a member too.
+To achieve his Msc degree in AI, Ivan has performed studies on 'degree of separation in social networks' and 'search in social networks.' He has more than 12 years of experience in programming. He has also been active in the same monetary reformists' team in which Abram is a member too.
 
 __Commitment__: Part-time
 
 __Socials__: [Freelancer](https://freelancer.com/u/helmot) [Github](https://github.com/helmot)
 
 ## Special thanks 
-* __Yalda Mousavinia__ for Product Management and lovely UI/UX specs.
+* __Yalda Mousavinia__ for Product Management and UI/UX specs.
 * __Quazia__, __Griff__, and __Yalor__ of [Giveth](giveth.io) for getting us this far.
