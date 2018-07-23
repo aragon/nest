@@ -27,6 +27,13 @@ __Commitment__: Part-time
 
 __Socials__: [Freelancer](https://freelancer.com/u/helmot) - [Github](https://github.com/helmot)
 
+### Yalda Mousavinia — Product Manager & UI/UX Designer 
+
+Yalda has 10 years of experience in product management and UI/UX design. For the past 16 months she has been researching and designing logistics that relate to open source ecosystems and using incentives to promote growth. This research lead her into the concept of DAOs and the founding of [Space Decentral](https://spacedecentral.net), a decentralized autonomous space agency that will be utilizing the toolkit described in this proposal. Prior to Space Decentral, she worked as a Senior Product Manager at Oracle for 2.5 years, on their Enterprise Resource Planning software suite. She has a Bachelor of Science in Mechanical Engineering from UC Berkeley and Astronautical Engineering Certificate from UCLA.
+
+**Commitment**:  Part-time
+
+**Socials**:  [Github](https://github.com/stellarmagnet) - [LinkedIn](https://www.linkedin.com/in/ymousavinia)
+
 ## Special thanks 
-* __Yalda Mousavinia__ for Product Management and UI/UX specs.
 * __Quazia__, __Griff__, and __Yalor__ of [Giveth](giveth.io) for getting us this far.
