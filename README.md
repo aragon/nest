@@ -27,9 +27,13 @@ The goal of the program is to attract talent to research and build the necessary
     - Inside that, create two files, [`team.md`](.github/templates/team.md) and [`roadmap.md`](.github/templates/team.md), where you present **your team** and **suggested roadmap**
     - **Create a Pull Request** to merge your submission into the Nest repository. In that Pull Request, be sure to fill in **all the relevant info** described in the [Guide for submitting a new Request for funding](Guide_for_submitting_a_request_for_funding.md)
 
-The difference between the proposal stage and the request for funding stage is that in the proposal stage we will focus on determing if the idea is worth pursuing and should be consider for a grant. In the request for funding stage we focus on determining if the team will be able to deliver and the feasibility of the timeline/roadmap, milestones and deliverables. 
+The difference between the **proposal stage** and the **request for funding stage** is that in the proposal stage we will focus on determing if the **idea is worth pursuing** and should be consider for a grant. In the request for funding stage we focus on determining if **the team will be able to deliver and the feasibility of the timeline/roadmap, milestones and deliverables**.
+
+### Grant sizes
+**Funding**: Up to $100,000 in ETH, split into chunks paid out over achieved deliverables.
+
+ **Success reward**: Up to $50,000 in ANT, given out when all deliverables are ready.
 
 > _Proposals should abstractly describe problems or products, not their implementations_
 
-
-### Engage the community and discuss! The community and [Aragon](https://aragon.one) will review the submissions and get back to you
+### Engage the community and discuss! The community and [Aragon](https://aragon.org) will review the submissions and get back to you
