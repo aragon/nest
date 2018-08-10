@@ -20,9 +20,11 @@ _Proposals should abstractly describe problems or products, not their implementa
 
 Funding:
 > _Description of the amount and how the funding would be provided to the grantee_
+> **Up to $100,000 in ETH, split into chunks paid out over achieved deliverables.**
 
 Success reward:
 > _Possible incentive rewards for successful completion of the project delivering all the Deliverables on time_
+> **Up to $50,000 in ANT, given out when all deliverables are ready.**
 
 ## Application requirements
 > _List of the items required to be showed in a possible application for this grant_
