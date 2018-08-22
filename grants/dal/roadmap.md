@@ -2,7 +2,7 @@
 
 The following roadmap assumes development, research and writing would begin in october with an estimated total of about 40 weeks of work. At the end of each milestone, the newly developed licence or legal-code will be shared with the Aragon team.
 
-## MILESTONE 1 - 13WEEKS
+## MILESTONE 1 - 13 WEEKS
 
 Organization of community effort to reach consensus over the form of licenses we want.
 Recovery of legal text from PPL and first phase of legal rewriting.
