@@ -31,12 +31,12 @@
 - Further refine existing signals based on community feedback.
 - Finalize Designs
 - Publish 1.0 of website for Devcon (Oct 30th)
-  - Three signals
+  - Include two signals
     - Influencer Stance
-    - Coin Voting
-    - Gas Voting
+    - Coin Voting or Gas Voting
 
 **Month 4 (November):**
 - Capture feedback from public release of website and include updates into the build 
+- Implement the 3rd signal - Coin Voting or Gas Voting - and adjust design of the page
 - Continue to build relationships with existing signaling projects 
 - Continue development on future signals
