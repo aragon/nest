@@ -52,11 +52,11 @@ Through our research, we will evaluate the importance of the remaining signals, 
 
 **5) Regarding the Ethereum influencers list, I understand the list is 100% algorithmically generated, is this algorithm open?**
 
-Regarding the influencer list, we are currently testing and doing research on the viability of something like cryptoinfluencers.io in order for us to determine one of the groups we could 
+Regarding the influencer list, we are currently testing and doing research on the viability of something like cryptoinfluencers.io in order for us to determine if their system is appropriate for our project.  
 
-This will be the responsibility of this group. They have stated in our channels that they will indeed be opening this up. 
+The algorithm development will be the responsibility of cryptoinfluencers.io group. They have stated in our channels that they will indeed be opening this up. 
 
-“Besides, our goal is to open-source our algorithm and decentralize its governance. We just believe that starting in a centralized model and decentralizing once we prove that it can work increases chances of success.”
+According to them “... our goal is to open-source our algorithm and decentralize its governance. We just believe that starting in a centralized model and decentralizing once we prove that it can work increases chances of success.”
 
 Part of our evaluation will include whether or not this code is open.
 
