@@ -2,7 +2,7 @@
 
 **1) The tool that you guys are going to be working on is a website for the aggregation of the different signals, right? You are not going to be working on the specific signals? What we are trying to see here is the exact scope of work that justifies the burn rate per month ($30k per 3 months)**
 
-The outcome of the project will indeed be a website that aggregates different signals. These signals will be obtained through connections to 3rd party projects and apps. However, given the nature of this project, we do see our work as including a heavy amount of research, maintenance, partnerships and community management. 
+The outcome of the project will indeed be a website that aggregates different signals. These signals will be obtained through connections to 3rd party projects and apps. However, given the nature of this project, we do see our work as including a heavy amount of research, UX design, maintenance, partnerships and community management. 
 
 We have decided to separate the initial UX user research from the monthly burn - as this is a one time effort. We identify the stand alone budget for the UX user research to be 10K. Please see question 2 for more about this work, and why we believe it is necessary for a project like this. 
 
