@@ -39,4 +39,4 @@ BrightID AragonApp to allow DAOs to manage how BrightID is used in the organizat
 
 ### M9: Aragon-ID integration
 
-Extend BrightID AragonApp to allow users to link trust scores to ethereum addresses. BrightID mobile app component for initiatiing brightid to ethereum link. Integrate display of trust scores into Aragon-ID app. Demo on either mainnet or testnet, depending on where Aragon-ID resides. 
+Extend BrightID AragonApp to allow users to link trust scores to ethereum addresses. BrightID mobile app component for initiating brightid to ethereum link. Integrate display of trust scores into Aragon-ID app. Demo on either mainnet or testnet, depending on where Aragon-ID resides. 
