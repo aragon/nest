@@ -35,3 +35,8 @@
     - Influencer Stance
     - Coin Voting
     - Gas Voting
+
+**Month 4 (November):**
+- Capture feedback from public release of website and include updates into the build 
+- Continue to build relationships with existing signaling projects 
+- Continue development on future signals
