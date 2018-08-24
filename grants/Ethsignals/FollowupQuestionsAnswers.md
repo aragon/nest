@@ -24,7 +24,7 @@ We have decided to spread the remaining budget over 4 months (instead of the ori
 
 **2) The research of the project you refer to is the series of interviews you will be doing to different stakeholders of the community, right?**
 
-In order to ensure that this project is a success, the needs of some of the core stakeholders need to be carefully understood. Especially given the contentious nature of the very question of how decisions are being taken, or governance in general, we believe this needs to be done properly. 
+In order to ensure that this project is a success, the requirements of some of the core stakeholders will need to be carefully understood. We believe the UX of the site is important and needs to be developed thoughtfully.  
 
 In order to do this, we have decided the best approach to this is to start with in-depth interviews of a sample of these stakeholders. This will not only help us to build a signaling site that is useful, but will help to include these contributors early on in the creation of the project. 
 
