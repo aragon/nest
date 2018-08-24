@@ -26,7 +26,7 @@ We have decided to spread the remaining budget over 4 months (instead of the ori
 
 In order to ensure that this project is a success, the needs of some of the core stakeholders need to be carefully understood. Especially given the contentious nature of the very question of how decisions are being taken, or governance in general, we believe this needs to be done properly. 
 
-In order to do this, we have decided one of the best approaches is to start with in-depth interviews of a sample of these stakeholders. This will not only help us to build a signaling site that is useful, but will help to include these contributors early on in the creation of the project. 
+In order to do this, we have decided the best approach to this is to start with in-depth interviews of a sample of these stakeholders. This will not only help us to build a signaling site that is useful, but will help to include these contributors early on in the creation of the project. 
 
 These in-depth interviews (each ranging from 15 mins to 1 hour), as well as the additional community feedback we will be gathering, will be shared with the larger community - in the form of videos, articles and documentation -  to ensure transparency into our thinking and process. This will also hopefully prompt continued dialogue around how information is shared within the space. 
 
@@ -37,7 +37,7 @@ This includes finding additional signals, projects and potential partners, as we
 
 The first 3 signals we will be adding are already implementable without any additional work on the actual signals - there are already teams that have built or are building these signals and they are ready to be included. However, the last 2 signals are more complicated and may require an EIP in order to build them. 
 
-Through our research, we will evaluate the importance of the remaining signals, compare them to new signals types that we discover, identify to the necessary work for implementaion and then determine the timeframe for their implementation.
+Through our research, we will evaluate the importance of the remaining signals, compare them to new signals types that we discover, identify the necessary work for and then determine the timeframe for their implementation. We commit to having any necessary EIPs written by the end of this project, however the implementation timeline of EIPs is ultimately a decision of the core devs and we decided to respect this in the proposal.
 
 
 **4) You say you will be using existing tools and platforms for this project. Can you give us some examples?**
@@ -52,7 +52,7 @@ Through our research, we will evaluate the importance of the remaining signals, 
 
 **5) Regarding the Ethereum influencers list, I understand the list is 100% algorithmically generated, is this algorithm open?**
 
-Regarding the influencer list, we are currently testing and doing research on the viability of something like cryptoinfluencers.io in order for us to determine one of the groups we could 
+Regarding the influencer list, we are currently testing and doing research on the viability of something like cryptoinfluencers.io in order for us to determine which of the  
 
 This will be the responsibility of this group. They have stated in our channels that they will indeed be opening this up. 
 
@@ -63,8 +63,7 @@ Part of our evaluation will include whether or not this code is open.
 
 **6) Regarding the EIPs explorer, can you describe a bit more in detail what are we going to see here, how detailed is this going to be?**
 
-We would like for any EIP to be available for signalling. This will require a rich filtering system. Filtering by Status and Category, as well as search by Number and Title will be included. Here is a screenshot of initial design drafts below. We would like this to be as detailed as is useful.
-
+We would like for any EIP to be available for signalling. This will require a rich filtering system. Filtering by Status and Category, as well as search by Number and Title will be included. We would like this to be as detailed as is useful.
 
 We are opening our design documents to the public at the following locations.
 
