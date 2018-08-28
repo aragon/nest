@@ -1,17 +1,17 @@
-##Development Timeline
+## Development Timeline
 
-#Early October
+# Early October
 - Screenshots of high-resolution UX flow.
 - Front-end implemented as a prototype (payment gateway and manage screens).
 
-#End December
+# End December
 - Service node back-end completed (able to process a subscription).
 - Launch rebrand of website and re-theming to convey a clearer message.
 - Service node front-end high-resolution UX.
 
-#Mid February
+# Mid February
 - Oracle for setting the multiplier low-level design.
 – MVP completed!
 
-#Start February
+# Start February
 – Hire another full-time engineer with the success reward.
