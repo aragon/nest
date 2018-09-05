@@ -9,7 +9,7 @@
     - persisting the reduced state to arbitrary stores,
     - ensures that the persisted state is GraphQL-compatible for reactive frontends.
 
-### Mid-May to August 2018
+### Mid-May to October 2018
 
 - Production ready version of server- and client-side gnarly. Supports:
     - optimistic state transitions,
@@ -22,3 +22,4 @@
 
 ### History
 - 2018-05-07 pushed timeline back ~1 month due to unexpected complexity
+- 2018-09-05 pushed second half of roadmap back by 1 month, to be reviewed towards the end of September
