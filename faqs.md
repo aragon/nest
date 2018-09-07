@@ -6,28 +6,35 @@ _To those working or who want to work on something that may be of interest for p
 ### **How do I find out if my project could be eligible for a grant?**
 1. Check the [**Proposals for grants**](https://github.com/aragon/nest/issues) for existing proposals
 2. If you don’t find anything close to what you’re working on, [**submit a new proposal for a grant**](https://github.com/aragon/nest/issues/new) and **discuss** if we should consider it for a grant
-3. See the [Guide for submitting a new request for funding](guides/guide_for_submitting_a_request_for_funding.md) and follow these steps:
+3. See the [Guide for submitting a new request for funding](Guide_for_submitting_a_request_for_funding.md) and follow these steps:
     - Fork the [Aragon Nest GitHub repository](https://github.com/aragon/nest)
     - Create a new directory with **your project’s name** inside the `grants/` folder. 
-    - Inside that, create two files, [`team.md`](templates/team.md) and [`roadmap.md`](templates/roadmap.md), where you present **your team** and **suggested roadmap**
-    - **Create a Pull Request** to merge your submission into the Nest repository. In that Pull Request, be sure to fill in **all the relevant info** described in the [Guide for submitting a new request for funding](guides/guide_for_submitting_a_request_for_funding.md)
+    - Inside that, create two files, [`team.md`](.github/templates/team.md) and [`roadmap.md`](.github/templates/roadmap.md), where you present **your team** and **suggested roadmap**
+    - **Create a Pull Request** to merge your submission into the Nest repository. In that Pull Request, be sure to fill in **all the relevant info** described in the [Guide for submitting a new request for funding](Guide_for_submitting_a_request_for_funding.md)
 > _Proposals should abstractly describe problems or products, not their implementations_
 
 ### **I’m working on something that already has an existing proposal**
-If there’s already an [existing proposal for grants](https://github.com/aragon/nest/issues) that fits into what you’re building, follow the steps mentioned in the [Guide for submitting a new request for funding](guides/guide_for_submitting_a_request_for_funding.md)
+If there’s already an [existing proposal for grants](https://github.com/aragon/nest/issues) that fits into what you’re building, follow the steps mentioned in the [Guide for submitting a new request for funding](Guide_for_submitting_a_request_for_funding.md)
 
 ## **For people who have an idea that could benefit the ecosystem**
 ### **How to submit a proposal for a grant?**
 - Make sure the [Proposals for grants](https://github.com/aragon/nest/issues) doesn’t have an existing proposals for something similar to your proposal. If there is an existing one that is close to your idea, join in the discussion of that Proposal to see if yours could be integrated into the existing one, or if you should create a new proposal
-- If nothing similar exists, create [a new Proposal for grants](https://github.com/aragon/nest/issues/new) at the [Nest Repository](https://github.com/aragon/nest/) and fill it out in detail following the [Guide for submitting a proposal for grants](guides/guide_for_submitting_a_proposal_for_grants.md)
+- If nothing similar exists, create [a new Proposal for grants](https://github.com/aragon/nest/issues/new) at the [Nest Repository](https://github.com/aragon/nest/) and fill it out in detail following the [Guide for submitting a proposal for grants](Guide_for_submitting_a_proposal_for_grants.md)
+
+## **How does the application process works?**
+The application process has two stages:
+
+1. The proposal stage (see above). The main focus in this stage is the discussion about the idea/project and whether it should be considered for a grant. Once the proposal is approved we move to the second stage.
+
+2. The request for funding stage (see above). The main focus in this stage is the discussion about the team, timeline/roadmap, milestones and deliverables. Here we take the final decision on whether to fund the team.
+
+There are no deadlines for applications. The whole application process can take from 2 weeks up to a month but the length of the process depends on a case by case basis.
 
 ## **Who will be deciding on how the grants are distributed?**
-The funding will be described in the Proposal of the grant. The total amount, how many portions will it be divided into, timetable and milestones will be up for discussion.
-
-Placeholder and Aragon are the ones making the **initial** decisions. But as soon as the [Aragon Voting App](../dev/apps/voting.md) and it’s accompanying signaling mechanism is ready, **the community will have the final decision** on which proposals are granted funding.
+The funding will be described in the proposal and request for funding stages of the grant. The total amount, how many portions will it be divided into, timetable and milestones will be up for discussion with the relevant team.
 
 ## **How will the funds be released to the grantees?**
-All payments will be made in cryptocurrencies. The grants will be paid in ETH and released in portions according to the agreed roadmap which the team has submitted in their proposal. A possible reward depending on milestone completion will be given in ANT to reward value created for the Aragon Network.
+All payments will be made in cryptocurrencies. The grants will be paid in ETH and released in portions according to the agreed roadmap (and deliverables) which the team has submitted in their proposal. A possible reward depending on milestone completion will be given in ANT to reward value created for the Aragon Network.
 
 ## **What will the Nest program provide to grantees besides financial backing?**
 Aragon is a very reputable name in the community. We have always stood by our values and the interests of the community. We have developed a lot of best practices of how crypto projects should be ran, and we want to help expand those as much as possible.
@@ -58,7 +65,7 @@ We’re in a privileged position to push forward and raise awareness about great
 
 ### **Community**
 
-> Once we have the [Aragon Voting App](../dev/apps/voting.md) and a feedback mechanism from the community, all of ANT holders will get to participate in the decision making!
+We are working on transitioning Aragon’s governance from a highly centralized model to a more decentralized one and we will be experimenting with community participation in the Nest program.
 
 ## **What do Placeholder and Aragon get for supporting projects via the Nest program? Do they get tokens/equity from the grantees?**
 **No!** We ask for nothing in return from the grantees outside of delivering the promised solution!
