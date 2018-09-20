@@ -1,6 +1,6 @@
 # Sprout Team
 
-### David Murry —   Legislative Evangelist
+### David Murry —  Legislative Evangelist / Business Analyst
 
 Dave brought together Sprout with the intention of helping the crypto-community thrive through self-regulation and lateral cross pollination. A Wyoming native-turned global nomad, David has been advising the Wyoming legislature in their creation of a crypto-friendly jurisdiction. He is deeply connected with this emerging space and can bring together all the players needed to bring DAOs to the State of Wyoming. 
 
@@ -32,7 +32,7 @@ Eliott is a crypto coding prodigy based in Paris. He wrote Ethereum's first smar
 
 **Socials**: [Personal](https://eliott.teissonniere.org/) | [GitHub](https://github.com/DeveloppSoft) 
 
-### Jose Aguinaga -  Developer
+### Jose Aguinaga - Developer / Project Manager
 
 Web Engineer / Frontend developer experienced in professional, scalable, testable and reusable Javascript. Alternative roles include UX & interactions designer, team lead, and devops engineer. Knowledge in multiple javascript frameworks like React and AngularJS.  Over 8+ experience growing-up and working with startups around the world.
 
@@ -40,24 +40,34 @@ Web Engineer / Frontend developer experienced in professional, scalable, testabl
 
 **Socials**: [LinkedIn](https://www.linkedin.com/in/jjperezaguinaga/) | [GitHub](https://github.com/jjperezaguinaga)
 
+#### *Reserve Developers:*
+
+[Courtney Scott](http://scottworks.io)
+
+[Jason Fleischer](https://github.com/jrjflei)
+
+
 ## External Consultants
 
 
-#### Tom W. Bell
+#### [Tom W. Bell](http://www.tomwbell.com/)
 
-Tom creates legal frameworks & jurisdictions for "Special Economic Zones" and "Startup Societies". He would be a valuable partner in creating this historic bridge between the old and new worlds. He is willing to build a team of experts to draft this new socio-architecture. *Details of involvement not yet confirmed
+Tom creates legal frameworks & jurisdictions for "Special Economic Zones" and "Startup Societies". He would be a valuable partner in creating this historic bridge between the old and new worlds. He is willing to build a team of experts to draft this new socio-architecture. 
 
-#### David Pope 
+#### [O'Shane Ballooun](http://www.ballounlaw.com/)
+
+Tom creates legal frameworks & jurisdictions for "Special Economic Zones" and "Startup Societies". He would be a valuable partner in creating this historic bridge between the old and new worlds. He is willing to build a team of experts to draft this new socio-architecture. 
+
+#### [David Pope](http://www.davidapope.com/) 
 
 David is a certrified public accountant with 3 offices in 2 states. He is also founder and the executive director of the  Wyoming Blockchain Coalition as well as one of three civilians on the Wyoming Legislative Blockchain Task Force convened by Governor Mead. 
 
 
-#### Adella Toulon-Foerster*
+#### [Adella Toulon-Foerster](https://www.linkedin.com/in/adellatoulon)
 
-Adella works at Cogent Law where she specializes in regulatory compliance for blockchain startups. She would be able to provide key insights on making this project maximally compliant with the remainder of the US and the fintech cryptospace.  *Not yet confirmed
+Adella works at Cogent Law where she specializes in regulatory compliance for blockchain startups. She would be able to provide key insights on making this project maximally compliant with the remainder of the US and the fintech cryptospace.  
 
+#### [Caitlin Long](https://caitlin-long.com/)
 
-#### Caitlin Long*
-
-Caitlin is a Wall-street veteran and blockchain enthusiast. She co-founded Wyoming's Blockchain Coalition and could provide an extra push in getting things done with the state government. *Not yet confirmed
+Caitlin is a Wall-street veteran and blockchain enthusiast. She co-founded Wyoming's Blockchain Coalition and could provide an extra push in getting things done with the state government. 
 
