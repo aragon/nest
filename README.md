@@ -29,7 +29,7 @@ The goal of the program is to attract talent to research and build the necessary
 
 > _Proposals should abstractly describe problems or products, not their implementations_
 
-The difference between the **proposal stage** and the **request for funding stage** is that in the proposal stage we will focus on determing if the **idea is worth pursuing** and should be considered for a grant. In the request for funding stage we focus on determining if **the team will be able to deliver and the feasibility of the timeline/roadmap, milestones and deliverables**.
+The difference between the **proposal stage** and the **request for funding stage** is that in the proposal stage we will focus on determining if the **idea is worth pursuing** and should be considered for a grant. In the request for funding stage we focus on determining if **the team will be able to deliver and the feasibility of the timeline/roadmap, milestones and deliverables**.
 
 ### Grant sizes
 **Funding**: From $50,000 up to $100,000 in ETH, split into chunks paid out over achieved deliverables.
