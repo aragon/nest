@@ -1,4 +1,4 @@
-#	##  - DAOsprout Presents -
+###  - DAOsprout Presents -
 ## **Etheric Bridge: Wyoming <=> Aragon**
 ### **ROADMAP v1.33**
 
