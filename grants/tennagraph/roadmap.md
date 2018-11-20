@@ -7,8 +7,8 @@
 * Github auto-re-deploy of EIPs
 * Filtering Mechanism 
 
-## Milestone 2 
-*Two Weeks starting Oct,22*
+## Milestone 2 \( In Progress \)
+*Two Weeks starting Nov,12*
 
 Goal: create website that will show list of EIPs from Github with realtime updates
 
@@ -18,7 +18,7 @@ Goal: create website that will show list of EIPs from Github with realtime updat
 * Create worker that get EIPs data via github API
 
 ## Milestone 3
-*Two Weeks starting Nov 5th*
+*Two Weeks starting Nov 26th*
 
 Goal: give influencers possibility to vote with their stances
 
@@ -28,24 +28,24 @@ Goal: give influencers possibility to vote with their stances
 * Admin portal for moderating community requests.
 
 ## Milestone 4
-*Two Weeks starting Dec 3rd*
+*Two Weeks starting Dec 10rd*
 
 Goal: give voters the possibility to vote with their balances on their ethereum wallets
 
 * Create interface for voters where they can put their eth address and vote for or against the EIP \(use: [http://carbonvote.com/](http://carbonvote.com/)\)
+* Add slock.it gas voting
 * Create worker that will get information about balance on the wallet through ethereum full node 
 * Show statistics about voting on the website
 
 ## Milestone 5
-*Two Weeks starting Nov 17th*
+*One Week starting Dec 24th*
 
-Goal: connect stock.it gas voting and go to production
+Goal: Final Deploy and Bug Fixing
 
-* Add stock.it gas voting 
 * Security testing
 * Performance testing
 * Deploy to production
 
-## Buffer - 2 weeks
+Fully Deployed by January 1st
 
 “Give me six hours to chop down a tree and I will spend the first four sharpening the axe.”
