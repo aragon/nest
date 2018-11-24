@@ -10,7 +10,7 @@ Over this last Year I have dedicated my life to building DecentraCorp and learni
 
 **Socials**:
 [GitHub](https://github.com/stan36)
-#Git profile looks more bare than it should as the project used to exist under a different repo
+##Git profile looks more bare than it should as the project used to exist under a different repo
 ##Old repo was deleted as the project name had changed and it appears all prior commit history went with it
 [LinkedIn](https://www.linkedin.com/in/christopher-dixon-a4a98174)
-#I created a LinkedIn account specifically for this project as I do not use social media
+##I created a LinkedIn account specifically for this project as I do not use social media
