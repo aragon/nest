@@ -1,4 +1,4 @@
-# AraEagles Example Team
+# DecentraCorp
 
 ### Christopher Dixon — Project Lead
 
