@@ -2,9 +2,9 @@
 
 ## Milestone 1 \( Completed \)
 
-* Initial design v1 \( Ethsignals Branding \)
-* Research
-* Github auto-re-deploy of EIPs
+* ~~Initial design v1 \( Ethsignals Branding \)~~
+* ~~Research~~
+* ~~Github auto-re-deploy of EIPs~~
 * Filtering Mechanism 
 
 ## Milestone 2 \( In Progress \)
@@ -12,20 +12,20 @@
 
 Goal: create website that will show list of EIPs from Github with realtime updates
 
-* Design v2 ( Tennagraph Branding )
-* Create development and staging environments
-* Setup deployment and testing tools
-* Create worker that get EIPs data via github API
+* ~~Design v2 ( Tennagraph Branding )~~
+* ~~Create development and staging environments~~
+* ~~Setup deployment and testing tools~~
+* ~~Create worker that get EIPs data via github API~~
 
 ## Milestone 3
 *Two Weeks starting Nov 26th*
 
 Goal: give influencers possibility to vote with their stances
 
-* Create interface that will allow community add stances by adding link to twitter / medium / etc post \(public no sign in\)
+* ~~Create interface that will allow community add stances by adding link to twitter / medium / etc post \(public no sign in\)~~
 * Create worker that will get data from media posts and check if posts are available for public
 * Create worker that will dump database with influencer stances to some public github repository
-* Admin portal for moderating community requests.
+* ~~Admin portal for moderating community requests.~~
 
 ## Milestone 4
 *Two Weeks starting Dec 10rd*
