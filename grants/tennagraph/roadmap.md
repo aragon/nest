@@ -5,7 +5,7 @@
 * ~~Initial design v1 \( Ethsignals Branding \)~~
 * ~~Research~~
 * ~~Github auto-re-deploy of EIPs~~
-* Filtering Mechanism 
+* Filtering Mechanism (New design need to reimplement this)
 
 ## Milestone 2 \( In Progress \)
 *Two Weeks starting Nov,12*
