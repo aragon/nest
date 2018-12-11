@@ -25,9 +25,9 @@ Goal: create website that will show list of EIPs from Github with realtime updat
 Goal: give influencers possibility to vote with their stances
 
 * ~~Create interface that will allow community add stances by adding link to twitter / medium / etc post \(public no sign in\)~~
-* 3b - Create interface for voters where they can put their eth address and vote for or against the EIP \(use: [http://carbonvote.com/](http://carbonvote.com/)\)
-* 3c - Create worker that will get information about balance on the wallet through ethereum full node
-* 3d - Show statistics about voting on the website
+* ~~3b - Create interface for voters where they can put their eth address and vote for or against the EIP \(use: [http://carbonvote.com/](http://carbonvote.com/)\)
+* ~~3c - Create worker that will get information about balance on the wallet through ethereum full node
+* ~~3d - Show statistics about voting on the website
 * ~~Admin portal for moderating community requests.~~
 
 ## Milestone 4
