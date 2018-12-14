@@ -4,7 +4,7 @@
 
 **Proof of concept**: [https://github.com/pandonetwork/apiary](https://github.com/pandonetwork/apiary) and [https://youtu.be/NDyHxzzxtBw](https://youtu.be/NDyHxzzxtBw)
 
-**Burn rate**: about 170000 $ / month for 6 months
+**Burn rate**: about 17000 $ / month for 6 months
 
 6000 $ / month for 6 months for lead dev, plus
 
