@@ -22,6 +22,7 @@ Billy Rennekamp is an artist, developer and co-founder of Bin Studio, a multidis
 
 ## Deam Hansen - Front-end developer
 
+Deam has been a web developer for nearly 4 years, and is mostly self-taught through open source work. Previously he worked for a small Danish startup, Peergrade, as a Full-stack developer. He has been contributing to Giveth since March and is starting to dive more into Ethereum smart contracts and Solidity.
 
 **Commitment**: Part-time
 
