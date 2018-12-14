@@ -1,5 +1,5 @@
 # Roadmap
-The following roadmap assumes development would begin mid-january with an estimate total of about 32 weeks of work. We are thus targeting an overall mainnet launch by December 2018. At the end of each milestone, the newly developed features will be deployed to testnet along with some previous milestones enhancements.
+The following roadmap assumes development would begin mid-january with an estimate total of about six months of work - security audits included. We are thus targeting an overall mainnet launch around summer 2019.
 
 ## Milestone 1 - Research
 **Duration: 4 weeks**
