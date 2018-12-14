@@ -1,6 +1,6 @@
 # Team
 
-## Olivier - Lead developer
+## Olivier Sarrouy - Lead developer
 
 **Co-founder & dev lead @ PandoNetwork**
 **Co-founder & dev lead @ DistributedGallery**
