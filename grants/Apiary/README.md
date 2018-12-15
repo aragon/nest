@@ -18,7 +18,7 @@ $50000 additional ANT success bonus.
 
 **Legal structure**: Aragon DAO
 
-**[Team and roadmap](x/files)**
+**[Team and roadmap](116/files)**
 
 
 ## Proposal
