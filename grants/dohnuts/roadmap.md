@@ -1,7 +1,7 @@
 # Roadmap
 
 ### 1 Month
-Draft / Whitepaper / Docs of the system.
+Draft / Whitepaper of the system.
 - explains the core components of the system and outlines what they need to do
   - web2 => web3 identity
   - web2 => web3 data transfer and verification
