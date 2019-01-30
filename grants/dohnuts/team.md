@@ -2,7 +2,7 @@
 
 <br>
 
-### Me: Burrrata (full time)
+### Burrrata (full time)
 
 I read a lot, and think a lot. From what I can tell, it seems that cooperation is the fundamental thing that has allowed humans to overcome major difficulties and become the dominant species on the planet. For a while this worked really well in tribes where people knew each other and established reputation, and ten in top down command and control systems where one gov/religion would coordinate all it’s members to get stuff done (build churches/pyramids, invade less coordinated small tribes, etc…).
 
