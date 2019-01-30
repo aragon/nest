@@ -1,5 +1,7 @@
 # Roadmap
 
+<br>
+
 ### 1 Month
 Draft / Whitepaper of the system.
 - explains the core components of the system and outlines what they need to do
@@ -7,9 +9,13 @@ Draft / Whitepaper of the system.
   - web2 => web3 data transfer and verification
   - web3 mechanisms for voting and trading => action on web2 platforms/communities that use the mechanism (for example a subreddit that chooses to make their decisions from the web3 votes of the community)
 
+<br>
+
 ### 3 Months
 An oracle/validator model that connects data from web2 platforms to web3 contracts/markets.
 - A system that can be managed by the participants of the data network in a social/cryptoeconomic manner rather than an arbitrary 3rd party. This reduces 3rd party risk and allows a community to bootstrap the protocol rather than being constrained by what 3rd parties do or don't support.
+
+<br>
 
 ### 6 Months
 A live demo: the decentralized dohnut protocol.
@@ -19,3 +25,5 @@ A live demo: the decentralized dohnut protocol.
 <br>
 
 Note: timeline subject to change based on Polkadot/Ethereum progress, delays, or roadblocks.
+
+<br>
