@@ -18,7 +18,7 @@ Reddit
 
 <br>
 
-### Everyone Else (¯\\\_(ツ)_/¯)
+### Everyone Else
 
 Ideally this project will be open to the community as soon as possible so that people can start hacking and experimenting. Ideally it's like a big box full of legos that people can start playing with to try stuff out. If they don't see what they want they can submit proposals or build it themselves. I really want to enable creative experiments that make the transition from web2 => web3 organic and fun :)
 
