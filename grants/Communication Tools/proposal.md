@@ -10,7 +10,7 @@ Also, the current release of Espresso Drive doesn’t support encryption as no p
 
 We therefore submit in the following document a 6 months funding request during which we propose to:
 
-1. Build and release a complete implementation of the Discussion App, specified in the Nest #49 proposal. A proof of concept is available [here](https://github.com/espresso-org/communication-poc) along with a [demo](https://www.youtube.com/watch?v=94HOq2YrNl0).
+1. Build and release a complete implementation of the Discussion App, specified in the [Nest #49 proposal](https://github.com/aragon/nest/issues/49). A proof of concept is available [here](https://github.com/espresso-org/communication-poc) along with a [demo](https://www.youtube.com/watch?v=94HOq2YrNl0).
 2. Improve the aragon-comments widget and migrate it to an off-chain protocol.
 3. Implement file encryption support to the Datastore and Espresso Drive, along with other improvements such as extracting the “Groups” section into a standalone app.
 
