@@ -16,7 +16,7 @@ We believe that building tools that facilitate communication is an integral part
 
 While aragon-comments currently stores messages on-chain, we have discussed with developers from Status and established a roadmap on how to migrate to Whisper and possibly to their [Network Incentivisation Protocol](https://discuss.status.im/t/network-incentivisation-first-draft/1037) when it becomes available.
 
-Besides reducing the friction of participating in a discussion, storing messages off-chain would enable many features that were previously difficult to implement, including the ones found in the [Nest Proposal #49: better communication tools for effective governance](https://github.com/aragon/nest/issues/48).
+Besides reducing the friction of participating in a discussion, storing messages off-chain would enable many features that were previously difficult to implement, including the ones found in the [Nest Proposal #49: better communication tools for effective governance](https://github.com/aragon/nest/issues/49).
 
 Also, the current release of Espresso Drive doesn’t support encryption as no privacy layer was available during the development schedule of our Aragon Nest contract. Fortunately, we recently found a solution to this problem using deterministic key pair generation.
 
