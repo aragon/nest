@@ -10,7 +10,7 @@
 
 [Team](https://docs.google.com/document/d/1d-pt5Uj52TiPm7alZUJmZ4RP48IQLeHfyH_OgHci7ms/edit#bookmark=id.2o3istifvmr) and [Roadmap](https://docs.google.com/document/d/1d-pt5Uj52TiPm7alZUJmZ4RP48IQLeHfyH_OgHci7ms/edit#bookmark=id.78mdhat2qwo)
 
-## Proposal: Datastore + Aragon Drive App
+## Proposal: Aragon Communication Tools + Datastore Encryption Support
 
 We believe that building tools that facilitate communication is an integral part of our work on DAOs. That is why alongside the launch of [Espresso Drive](https://github.com/espresso-org/aragon-drive), we have also released the [aragon-comments](https://github.com/espresso-org/aragon-comments) widget, which offers an easy way for developers to integrate comment threads in their Aragon App.
 
