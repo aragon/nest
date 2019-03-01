@@ -32,6 +32,6 @@ The difference between the **proposal stage** and the **request for funding stag
 ### Grant sizes
 **Funding**: Up to $150,000 in DAI, split into chunks paid out over achieved deliverables.
 
- **Success reward**: Up to 30,000 ANT, given out when all deliverables are ready and the project is successfully finished. Please note that this reward is not part of the grant amount. This is a reward the Aragon Association wants to give to the teams building on Aragon so for governance participation purposes. 
+ **Success reward**: Up to 30,000 ANT, given out when all deliverables are ready and the project is successfully finished. Please note that this reward is not part of the grant amount. This is a reward the Aragon Association wants to give to the teams building on Aragon for governance participation purposes. 
 
 ### Engage the community and discuss! The community and [Aragon](https://aragon.org) will review the submissions and get back to you
