@@ -2,11 +2,9 @@
 
 ![](https://wiki.aragon.one/design/artwork/Nest/01.png)
 
-> **A grants program to support the development of the ecosystem.**
+> **A grants program to support the development of the Aragon ecosystem.**
 
-Aragon Nest is brought to you by your friends at [Aragon](https://aragon.one) and [Placeholder](https://twitter.com/placeholdervc).
-
-The goal of the program is to attract talent to research and build the necessary tooling for developing solutions around Aragon and Ethereum. There are a lot of people and teams out there who just want to create great things without worrying about money. Not every project needs an ICO, not every team needs a business model, and not every piece of software needs a team or an employer. The Nest program was created to meet circumstances like these and provide funding to those who wish to step up and construct such relevant software or non-software solutions. We are not interested in funding startups or monetizable solutions.
+The goal of the program is to attract talent to research and build the necessary tooling for developing solutions and applications around Aragon. There are a lot of people and teams out there who just want to create great things without worrying about money. The Nest program was created to meet circumstances like these and provide funding to those who wish to step up and construct such relevant software or non-software solutions and applications. We are not interested in funding startups or monetizable solutions.
 
 ### More information
 - Read the public announcement [**Introducing Aragon Nest**](https://blog.aragon.one/introducing-aragon-nest-1aa8c91c0566)
@@ -32,8 +30,8 @@ The goal of the program is to attract talent to research and build the necessary
 The difference between the **proposal stage** and the **request for funding stage** is that in the proposal stage we will focus on determining if the **idea is worth pursuing** and should be considered for a grant. In the request for funding stage we focus on determining if **the team will be able to deliver and the feasibility of the timeline/roadmap, milestones and deliverables**.
 
 ### Grant sizes
-**Funding**: From $50,000 up to $100,000 in ETH, split into chunks paid out over achieved deliverables.
+**Funding**: Up to $150,000 in DAI, split into chunks paid out over achieved deliverables.
 
- **Success reward**: Up to $50,000 in ANT, given out when all deliverables are ready.
+ **Success reward**: Up to 30,000 ANT, given out when all deliverables are ready and the project is successfully finished. Please note that this reward is not part of the grant amount. This is a reward the Aragon Association wants to give to the teams building on Aragon for governance participation purposes. 
 
 ### Engage the community and discuss! The community and [Aragon](https://aragon.org) will review the submissions and get back to you
