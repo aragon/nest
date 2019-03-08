@@ -13,12 +13,12 @@ _To those working or who want to work on something that may be of interest for p
     - **Create a Pull Request** to merge your submission into the Nest repository. In that Pull Request, be sure to fill in **all the relevant info** described in the [Guide for submitting a new request for funding](Guide_for_submitting_a_request_for_funding.md)
 > _Proposals should abstractly describe problems or products, not their implementations_
 
-### **I’m working on something that already has an existing proposal**
+### **I’m working on something that already has an existing proposal?**
 If there’s already an [existing proposal for grants](https://github.com/aragon/nest/issues) that fits into what you’re building, follow the steps mentioned in the [Guide for submitting a new request for funding](Guide_for_submitting_a_request_for_funding.md)
 
 ## **For people who have an idea that could benefit the ecosystem**
 ### **How to submit a proposal for a grant?**
-- Make sure the [Proposals for grants](https://github.com/aragon/nest/issues) doesn’t have an existing proposals for something similar to your proposal. If there is an existing one that is close to your idea, join in the discussion of that Proposal to see if yours could be integrated into the existing one, or if you should create a new proposal
+- Make sure the [Proposals for grants](https://github.com/aragon/nest/issues) don’t have an existing proposal for something similar to your idea. If there is an existing proposal that is close to your idea, join in the discussion of that proposal to see if your proposal could be integrated into the existing one, or if you should create a new proposal
 - If nothing similar exists, create [a new Proposal for grants](https://github.com/aragon/nest/issues/new) at the [Nest Repository](https://github.com/aragon/nest/) and fill it out in detail following the [Guide for submitting a proposal for grants](Guide_for_submitting_a_proposal_for_grants.md)
 
 ## **How does the application process works?**
@@ -34,43 +34,25 @@ There are no deadlines for applications. The whole application process can take 
 The funding will be described in the proposal and request for funding stages of the grant. The total amount, how many portions will it be divided into, timetable and milestones will be up for discussion with the relevant team.
 
 ## **How will the funds be released to the grantees?**
-All payments will be made in cryptocurrencies. The grants will be paid in ETH and released in portions according to the agreed roadmap (and deliverables) which the team has submitted in their proposal. A possible reward depending on milestone completion will be given in ANT to reward value created for the Aragon Network.
+All payments will be made in cryptocurrencies. The grants will be paid in DAI and released in portions according to the agreed roadmap (and deliverables) that the team has submitted in their proposal. A possible reward depending on total project completion will be given in ANT to reward value created for the Aragon Network and to enable the participation in the governance of the project.
 
 ## **What will the Nest program provide to grantees besides financial backing?**
-Aragon is a very reputable name in the community. We have always stood by our values and the interests of the community. We have developed a lot of best practices of how crypto projects should be ran, and we want to help expand those as much as possible.
-
-Placeholder has years of experience in evaluating crypto projects and teams. They’ve seen many different instances of what works, and what doesn’t. They will help the projects on avoiding common mistakes and on building an open source project on a sustainable premise.
+Aragon is one of the most skilled projects in the crypto community. The development teams are formed by talented engineers that will be supporting the engineers working on the Nest projects. Also, we have developed experience, and crafted best practices, on how crypto projects should be run, and we want to help expand those as much as possible. 
 
 We’re in a privileged position to push forward and raise awareness about great, undervalued projects in the space, such as the ones we want to fund with the Nest program.
 
 ## **Who will be participating on deciding the grantees?**
 
-### **Aragon**
+**[Maria Gomez](https://blog.aragon.one/team-interviews-maria-aragons-head-of-strategy-and-operations-17c2a758aaf3) — Grants Lead. Aragon One team**
 
-**[Maria Gomez](https://blog.aragon.one/team-interviews-maria-aragons-head-of-strategy-and-operations-17c2a758aaf3) — Grants Lead**
-
-**[Luis Cuende](https://blog.aragon.one/team-interviews-luis-aragons-project-lead-c4916bb3cfb4) — Co-Founder & Project Lead**
-
-**[Jorge Izquierdo](https://blog.aragon.one/team-interviews-jorge-aragons-tech-lead-dae54d7eacac) — Co-Founder & Tech Lead**
-
-### **Placeholder**
-
-[**Joel Monegro**](https://twitter.com/jmonegro)
-
-> Partner at Placeholder, a venture capital partnership based in New York City that invests in decentralized information networks. Prior to Placeholder, Joel led Union Square Ventures’ crypto practice and investment efforts. Before joining USV, Joel started and managed the Digital Economy Department within the Ministry of Industry and Commerce of the Dominican Republic, a government office focused on Latin American tech policy and payment system reform.
-
-[**Chris Burniske**](https://twitter.com/cburniske)
-
->Chris Burniske is a partner at Placeholder, a venture capital firm based in New York City that invests in decentralized information networks. Prior to Placeholder, he pioneered ARK Invest’s crypto efforts, leading the firm to become the first public fund manager to invest in bitcoin in 2015, and co-authored the best selling book, Cryptoassets. His commentary has been featured on national media outlets, including the Wall Street Journal, the New York Times, Fortune, and Forbes. Chris graduated Phi Beta Kappa with a BS from Stanford.
+**[Stegfano Bernardi](https://blog.aragon.org/welcoming-stefano-to-the-aragon-association/) — Executive Director. Aragon Association team**
 
 ### **Community**
 
 We are working on transitioning Aragon’s governance from a highly centralized model to a more decentralized one and we will be experimenting with community participation in the Nest program.
 
-## **What do Placeholder and Aragon get for supporting projects via the Nest program? Do they get tokens/equity from the grantees?**
+## **What does Aragon get for supporting projects via the Nest program? Does it get tokens/equity from the grantees?**
 **No!** We ask for nothing in return from the grantees outside of delivering the promised solution!
 
-Placeholder and Aragon are both invested into the Aragon ecosystem via ANT and the help from Placeholder is an indication of their involvement as well as a signal of the value they’ll add to the ecosystem.
-
 ## **How do I find more information about Nest? Is there a website?**
-Right now the [GitHub repository](https://github.com/aragon/nest) serves as the main knowledge base about the Nest program.
+The [GitHub repository](https://github.com/aragon/nest) is the main source of information about the program. However, you can find additional information in the project's [website](https://aragon.org/project/grants).
