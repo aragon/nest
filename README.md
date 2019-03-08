@@ -22,7 +22,7 @@ The goal of the program is to attract talent to research and build the necessary
 3. After step 1 or 2, if you feel ready to apply for a grant see the [Guide for submitting a new request for funding](Guide_for_submitting_a_request_for_funding.md) and follow these steps:
     - Fork the [Aragon Nest GitHub repository](https://github.com/aragon/nest)
     - Create a new directory with **your project’s name** inside the `grants/` folder.
-    - Inside that, create two files, [`team.md`](.github/templates/team.md) and [`roadmap.md`](.github/templates/team.md), where you present **your team** and **suggested roadmap**
+    - Inside that, create two files, [`team.md`](.github/templates/team.md) and [`roadmap.md`](.github/templates/roadmap.md), where you present **your team** and **suggested roadmap**
     - **Create a Pull Request** to merge your submission into the Nest repository. In that Pull Request, be sure to fill in **all the relevant info** described in the [Guide for submitting a new Request for funding](Guide_for_submitting_a_request_for_funding.md)
 
 > _Proposals should abstractly describe problems or products, not their implementations_
@@ -32,6 +32,6 @@ The difference between the **proposal stage** and the **request for funding stag
 ### Grant sizes
 **Funding**: Up to $150,000 in DAI, split into chunks paid out over achieved deliverables.
 
- **Success reward**: Up to 30,000 ANT, given out when all deliverables are ready and the project is successfully finished. Please note that this reward is not part of the grant amount. This is a reward the Aragon Association wants to give to the teams building on Aragon for governance participation purposes. 
+ **Success reward**: Up to 30,000 ANT, given out when all deliverables are ready and the project is successfully finished. Please note that this reward is not part of the grant amount. This is a reward the Aragon Association wants to give to the teams building on Aragon for governance participation purposes.
 
 ### Engage the community and discuss! The community and [Aragon](https://aragon.org) will review the submissions and get back to you
