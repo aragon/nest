@@ -5,112 +5,92 @@
 
 Merging the real 🌎 and 🌐 virtual worlds, by bridging Wyoming and Aragon 🌄🌉🦅
 
-This roadmap offers **grace**🏹 and **clarity**🎯 for connecting **distributed, human,** and **legal entities** 💻🤝👤🤝⚖
+This roadmap offers methods for connecting **etheric** and **legal** entities
 
 * **Context** section lists the foundations for the bridge
 * **Milestones** contains blueprints to **#BuildTheBridge**
-* For how the bizarre political climate of Wyoming supports **hybrid entities**, check out the full Aragon 🦅 Nest proposal [here](https://cryptpad.fr/code/#/2/code/view/FOdQ1K-S40bhO6ESzODiKxetdkyRIHic+eHloZviZ7c/)🚀
+* For how the bizarre political climate of Wyoming supports **hybrid entities**, check out the full Aragon  Nest proposal [here](https://cryptpad.fr/code/#/2/code/view/FOdQ1K-S40bhO6ESzODiKxetdkyRIHic+eHloZviZ7c/)
 
 ##### Summary
 
-We propose making legal<->blockchain interactions more accessible by:
+We propose making legal🔛virtual interactions more accessible via:
 
- * **etheric code**🖹🦄 for incorporating, linking, and utilizing legal entities
- * **legal templates**⚖🖹 for operating agreements, amendments, and contracts
- * **permissions suite** 👤🖹⚡ for regulating interactions between distributed & legal entities  🦅💫⚖
- * **Agent**👤⚡ and **Democracy**🗳️⚡ dapp additions to support the above + a **ratification** process
+* **Etherize.It**, a user interface for **creating** and **managing hybrid entities**
+* Ethereum & Aragon code for **incorporating**, linking, and operating **legal entities**
+* Extensible **legal templates** for operating agreements, amendments, and contracts
+* **Permissions suite** for regulating interactions between Aragonian and legal entities  
 
 *While this proposal is designed with Aragon🦅, Ethereum🦄, and Wyoming🌄 in mind, universality is a priority.*
 
 ##### Context
 
-Aragon🦅 is a collection of code sufficient for incorporating **distributed entities** such as DAOs, DACs, or whatever you like to call 'Them'👽.
+Aragon🦅 is a collection of code sufficient for incorporating **etheric entities** such as DAOs, DACs, or whatever you like to call 'Them'👽.
 
-Aragon has a number of dapps including the '[Agent](http://blog.aragon.one/aragon-agent-beta-release/)'👤⚡, which is able to execute **etheric code** (smart contracts). Each 🦅 entity can have multiple Agents, and permissions-based restrictions will limit which Agents can execute which etheric code.
+Aragon has a number of decentralized apps including the [Agent](http://blog.aragon.one/aragon-agent-beta-release/)(👤⚡), which is able to execute **etheric code** (smart contracts). Each Aragon entity (DAO) can have multiple Agents, and permissions-based restrictions will limit which Agents can execute which etheric code.
 
-[OpenLaw](https://openlaw.io) is a platform that can execute etheric code🦄🖹 once a customizable, human-readable contract is signed by all parties.  👥 + 💻🖹 + ⚖🖹 ➡ 🦄🖹 ✕ ⚖
+[OpenLaw](https://openlaw.io) is a platform that can execute etheric code once a customizable, human-readable contract is signed by all parties.   🦄 ✕ ⚖
 
 ## Milestones
 
-Full Roadmap with proposed implementation can be found [here](https://cryptpad.fr/code/#/2/code/view/P0ObcNhRqSKTVtacdCvMTw-H7E7Hf+e9Fm9Tg5tBTA4/).
+Detailed Roadmap with proposed implementation can be found [here](https://cryptpad.fr/code/#/2/code/view/P0ObcNhRqSKTVtacdCvMTw-H7E7Hf+e9Fm9Tg5tBTA4/).
 
-### 1. Genesis
-###### Month 3 - Reward: $9k
+### 1. Foundation
+###### *Month 3 - $10k*
 
-*Upon completion, Ethereum users may...*
+*Upon completion, Ethereum users may..*
 
-* **declare and confirm relations to other entities**
-* **designate identities for countersigning**
-* **incorporate a Limited Liability Corporation** *with ETH or DAI*
+* **declare** and **confirm relations** to **other entities**
+* **designate identities** for **countersigning**
+* **incorporate** an **LLC** with  ETH or DAI
 
-*...via ***Etherize.It***, a user iterface for these smart contracts.*
+*.. via smart contracts or a user interface at **Etherize.It.** *
 
-*Relationship claims must occur bidirectionally to be valid. LLC registration initially limited to Wyoming but easily extended to other jurisdictions.*
+### 2. Structure
+###### *Month 4 - $10k*
 
+*Upon completion, any Aragon entity (DAO) may..*
 
-### 2. Morphology
-###### *Month 4 - $7k*
+* **execute** and suspend  **legal/etheric contracts**
+* recursively **declare**  **relations** to **other entities**
 
-*Upon completion, any Aragon entity (DAO) may:*
-
-* **execute and suspend hybrid legal/etheric contracts**
-* **declare itself a partner, child, or parent of any other entity**
-* **equate its tokens to stock certificates[*]( https://wyoleg.gov/Legislation/2019/HB0185)**
+*.. through OpenLaw/AragonCLI integration*
 
 
-### 3. Progeny
-###### *Month 6 - $7k*
+### 3. Tension
+###### *Month 6 - $8k*
 
-*A Series LLC is able to generate thousands of child LLCs that do not share liability: an ideal substrate for a swarm.*
+*Upon completion, any Aragon entity (DAO) may..*
 
-*Upon completion, Ethereum/Etherize.It users may:*
-* **convert their existing LLC into a Series LLC**
-* **incorporate a Series LLC**
-* **incorporate child LLCs**
+* designate **Agents** to **manage** a set of **legal entities**
+* declare its **tokens** equivalent to **stock certificates**[*]( https://wyoleg.gov/Legislation/2019/HB0185)
 
-*Aragon entities (DAOs) may:*
+*.. through Aragon Agent integration*
 
-* **designate Agents as Executives** *to manage a set of legal entities*
-
-
-
-### 4. Manifold
+### 4. Bridge
 ###### *Month 8 - $12k*
-*Upon completion, Aragon Agents may...*
 
-*  **manage a set of entities with a set budget**
-*  **propose, ratify, and execute proposed contracts** *based on their permissions*
+*Upon completion, one may readily..*
 
-*... based on their DAO-appointed permissions.*
+* create, manage, and operate **legal entities** through virtual means
+* craft **hybrid entities** spanning the Wyoming and Aragon jurisdictions
+* set consistent **identities & permissions** throughout legal and etheric systems
 
-Previous milestones were dependent upon benevolent dictators. This milestone focuses on creating new permission-based roles along with a contract proposal lifecycle, so that the participants can direct the organization's business without undue chaos.
-
-
-
-### 5. Metapraxis
-###### *Month 10 - $5k*
-
-The real glue between distributed and legal entities is humans. Without humans, none of these systems would work. This milestone focuses on building human understanding, support, and utilization of this historic Etheric Bridge.
-
-
- * Whitepaper: Building Cooperative Hybrid Networks
-    * Methods for craftomg opt-in networks capable of outcompeting corporations and nation states, a la [Native](https://nativeproject.one/) and [Resilience](https://www.youtube.com/watch?v=YHKIeR3ylAQ)
- * Primer: "Harnessing Legal Entities"
-   * Intended for Aragonians seeking to interact with traditional organizations
- * Primer: "An Introduction to Hybrids: On Legal<->Blockchain Interactions"
-   * For crypto-curious legal professionals seeking to 🏄 the 🌊 of decentralization
- * Two mixed-media paintings, symbolizing the opening of a Portal between Worlds
-   * One of Wyoming, showing a rift opening to the Etherverse🌄
-   * One of the Etherverse, illustrating a portal opening up to Wyoming 🎆
-   * These paintings will be delivered to Cheyenne, Wyoming and Aragon's Zug office
-
+*.. using Agent UI, Etherize.It, or underlying smart contracts*
 
 ### Epilogue
 
-This proposal is the cornerstone for a legal/blockchain framework capable of facilitating complex interactions through the recursive sharing of permissions and obligations amongst child, parent, and partner entities.
+The stability of a bridge permits sharing resources across legal and virtual jurisdictions.
 
-$5k worth of ANT from this Nest proposal will be used to incentivize the incorporation of legal entity/blockchain hybrid entities, regardless of how or where they maintain their jurisdictions. The first 50 hybrids registered will be eligible for a rebate of $100 worth of ANT, and a community will be formed around these pioneers.
+The chasm between real-world pragmatics and magical unicorn thinking is crossed. The riches of both worlds may flow over, in between, and into each other, as peoples' ideas for revolutionary dapps is no longer struck dead by the inefficiencies of going between.  
 
-Access to banking services for DAOs becomes streamlined, via the Wyoming State-Chartered Bank.
+Much of what this proposal presents as possible is dependent upon the maturation of jurisdictions across the planet.
 
-Etherize.It grows into a comprehensive resource for creating and managing hybrid entities, on a growing number of jurisdictions. Additional services such as notarization and take-down requests, aimed at empowering humans over corporations are added. Etherize.It will be entirely open source and built using Lorikeet(AragonUI), making its features easily integrated into future Aragon client releases.
+Wyoming has shown us what may be possible, but it will take a community to build a meaningful connection between the virtual and real worlds. The real bridge between the legal and virtual world was just us humans, all this time.
+
+$5k worth of ANT from this Nest proposal will be used to incentivize the incorporation of legal entity/blockchain hybrid entities, regardless of how or where they maintain their jurisdictions.
+
+Access to banking services for DAOs will become streamlined, via the Wyoming State-Chartered Bank.
+
+Etherize.It grows into a comprehensive resource for creating and managing hybrid entities, on a growing number of jurisdictions. Additional services such as notarization and take-down requests are added.
+
+Etherize.It will be entirely open source and built using Lorikeet(AragonUI), making its hybrid management features easily integrated into future Aragon client releases.
