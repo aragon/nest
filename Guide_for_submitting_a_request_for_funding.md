@@ -9,7 +9,7 @@ Follow these steps:
 - Create a new directory with **your project’s name** inside the `grants/` folder.
 - Inside that, create two files, `team.md` and `roadmap.md`, where you present **your team** and **suggested roadmap**
 - **Create a Pull Request** to merge your submission into the Nest repository. In that Pull Request, be sure to fill in **all the relevant info** described in the Pull Request Guide.md
-- Engage the community and discuss! The community, [Aragon](https://aragon.one) and [Placeholder](https://twitter.com/placeholdervc) will review your submission and get back to you
+- Engage the community and discuss! The community, and members of the [Aragon's teams](https://aragon.one) will review your submission and get back to you
 
 ## Breakdown of what you should include in a Request for funding
 
