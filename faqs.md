@@ -45,7 +45,7 @@ We’re in a privileged position to push forward and raise awareness about great
 
 **[Maria Gomez](https://blog.aragon.one/team-interviews-maria-aragons-head-of-strategy-and-operations-17c2a758aaf3) — Grants Lead. Aragon One team**
 
-**[Stegfano Bernardi](https://blog.aragon.org/welcoming-stefano-to-the-aragon-association/) — Executive Director. Aragon Association team**
+**[Stefano Bernardi](https://blog.aragon.org/welcoming-stefano-to-the-aragon-association/) — Executive Director. Aragon Association team**
 
 ### **Community**
 
