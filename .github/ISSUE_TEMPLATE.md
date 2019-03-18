@@ -16,9 +16,9 @@ This can be solved by CryptoEagles, which enables the trading of virtual eagles 
 
 ## Grant size
 
-Funding: Up to $100k in ETH, split into chunks paid out over achieved deliverables.
+Funding: Up to $150k in DAI, split into chunks paid out over achieved deliverables.
 
-Success reward: Up to $50k in ANT, given out when all deliverables are ready.
+Success reward: Up to 30k ANT, given out when all deliverables are ready.
 
 ## Application requirements
 
@@ -31,8 +31,8 @@ Success reward: Up to $50k in ANT, given out when all deliverables are ready.
 
 The development timeline will be the following one in regards to each deliverable:
 
-1. Jan 2018
-2. Feb 2018
-3. Apr 2018
+1. Jan 2019
+2. Feb 2019
+3. Apr 2019
 
-Testnet launch will be expected during March 2018, with mainnet launch being June 2018
+Testnet launch will be expected during March 2019, with mainnet launch being June 2019
