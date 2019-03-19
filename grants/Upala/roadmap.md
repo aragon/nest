@@ -17,4 +17,4 @@ __Assembly (4 weeks):__
 - Whitepaper
 - MVP specs (good enough to start moving towards adoption) 
 
-__Total: 16 weeks (4 mounths).__
+__Total: 16 weeks (4 months).__
