@@ -1,5 +1,5 @@
 ### Peter Porobov - Project Lead, Researcher, Smart Contracts.
-Entrepreneur. Founded startups in 3d-printing, [art](https://github.com/porobov/Concrete-Clock-1355), helped to build and sell [drones](http://unmanned.ru/). In May 2016 fell in love with Ethereum. Created a [charity project](https://themillionetherhomepage.com/). Dreamt of connecting the world in six handshakes [since high school](https://medium.com/swlh/identity-proof-with-six-handshakes-starting-with-why-b90a6ddb67c1). In January 2019 started [research on Upala](https://upala-docs.readthedocs.io/en/latest/). Learning, [writing](https://medium.com/@PeterPorobov).
+Entrepreneur. Dreamt of connecting the world in six handshakes [since high school](https://medium.com/swlh/identity-proof-with-six-handshakes-starting-with-why-b90a6ddb67c1). Founded startups in 3d-printing, [art](https://github.com/porobov/Concrete-Clock-1355), helped to build and sell [drones](http://unmanned.ru/). In May 2016 fell in love with Ethereum. Created a [charity project](https://themillionetherhomepage.com/). In January 2019 started [research on Upala](https://upala-docs.readthedocs.io/en/latest/). Learning, [writing](https://medium.com/@PeterPorobov).
 
 Commitment: Full-time
 
