@@ -1,6 +1,6 @@
 # Upala roadmap
 
-Research is done in three stages: requirements, brainstorming and assemdly. Results of every research topic will be posted on Medium and Reddit for discussion ([examples](https://airtable.com/shrNQ0VClgqBiHmkL)).
+Research is done in three stages: requirements, brainstorming, and assembly. Results of every research topic will be posted on Medium and Reddit for discussion ([examples](https://airtable.com/shrNQ0VClgqBiHmkL)).
 
 __System requirements (4 weeks):__
 - Ideal user experience
