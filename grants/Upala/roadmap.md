@@ -1,5 +1,7 @@
 # Upala roadmap
 
+Research is done in three stages: requirements, brainstorming and assemdly. Results of every research topic will be posted on Medium and Reddit for discussion ([examples](https://airtable.com/shrNQ0VClgqBiHmkL)).
+
 __System requirements (4 weeks):__
 - Ideal user experience
 - Ideal customer experience (customers - services requesting user data)
@@ -11,10 +13,9 @@ __Brainstorming components (8 weeks):__
 - Location proof without FOAM
 - Reputation mechanism
 - Account recovery mechanism
-- Other (see here)
+- Other ([see here](https://airtable.com/shrNQ0VClgqBiHmkL))
 
 __Assembly (4 weeks):__
-- Whitepaper
-- MVP specs (good enough to start moving towards adoption) 
+- Whitepaper ([early draft](https://upala-docs.readthedocs.io/en/latest/index.html))
 
 __Total: 16 weeks (4 months).__
