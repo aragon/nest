@@ -37,7 +37,7 @@ The funding will be described in the proposal and request for funding stages of 
 All payments will be made in cryptocurrencies. The grants will be paid in DAI and released in portions according to the agreed roadmap (and deliverables) that the team has submitted in their proposal. A possible reward depending on total project completion will be given in ANT to reward value created for the Aragon Network and to enable the participation in the governance of the project.
 
 ## **What will the Nest program provide to grantees besides financial backing?**
-Aragon is one of the most skilled projects in the crypto community. The development teams are formed by talented engineers that will be supporting the engineers working on the Nest projects. Also, we have developed experience, and crafted best practices, on how crypto projects should be run, and we want to help expand those as much as possible. 
+Aragon is one of the most skilled projects in the crypto community. The development teams are formed by talented engineers that will be supporting the engineers working on the Nest projects. Also, we have developed experience, and crafted best practices, on how crypto projects should be run. We want to help expand the experience and best practices as much as possible. 
 
 We’re in a privileged position to push forward and raise awareness about great, undervalued projects in the space, such as the ones we want to fund with the Nest program.
 
