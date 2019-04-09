@@ -18,7 +18,7 @@ Given the time restrictions for a full FLOCK proposal and the kind feedback that
 
 ## Deliverables
 
-**Layer-2 Governance solution** 
+### Layer-2 Governance solution
 
 An organisation, incorporated or informal, has to make a multitude decisions. AragonOS is a technically complex product and it consumes a large amount of gas, 150,000+ units of gas based on our analysis of Aragon smart contracts. In this regard, the cost of on-chain governance which is at the heart of Aragon becomes an impediment to ability of Aragon-based organisations to grow. 
 
@@ -36,7 +36,7 @@ Given that Aragon announced its research towards the implementation of the proto
 
 
 
-** Product-Market-Fit R&D: Real World Use Cases**
+### Product-Market-Fit R&D: Real World Use Cases
 
 We are already focusing our research on real-world DAO equivalents identified by the team during the extensive research into [chamas as precursors to DAOs](https://docs.google.com/presentation/d/16P9pAqSryjJpk37R-CtXDEw-0pNtYpuBei2cmfIR2E8/edit#slide=id.g35c0209681_0_0) - and see the Aragon SDK as a toolkit to super-charge traditional co-op/mutual structures and enable them to save, transact and grow at scale safely, without dependency on banks, financial institutions such a state pension funds which are a de facto Ponzi scheme, or nation-states themselves for that matter.
 
