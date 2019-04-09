@@ -49,3 +49,10 @@ Fintech professional with 10+ years experience. Prior to joining Akropolis overs
 
 **Socials**: [**LinkedIn**](https://ru.linkedin.com/in/ilgiz-gimaltdinov-8bbba411) | [**Github**](https://github.com/apeir99n)
 
+
+## María Paula Fernández
+
+**Commitment**: Part Time
+
+**Socials**: [**Twitter**](https://twitter.com/mptherealmvp)
+
