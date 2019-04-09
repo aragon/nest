@@ -35,6 +35,8 @@ Software Engineer, Consultant, Game Developer & reverse-engineering enthusiast. 
 
 ## Dima Serd
 
+Graduated from the Tomsk Polytechnic University in Information Systems and Technologies. Participated in development of 10 commercial projects, including those in blockchain sphere. Actively following all last innovations in front-end and near themes.
+
 
 **Commitment**: Full Time
 
