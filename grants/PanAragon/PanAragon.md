@@ -36,7 +36,7 @@ Given that Aragon announced its research towards the implementation of the proto
 
 
 
-## Product-Market-Fit R&D: Real World Use Cases
+** Product-Market-Fit R&D: Real World Use Cases**
 
 We are already focusing our research on real-world DAO equivalents identified by the team during the extensive research into [chamas as precursors to DAOs](https://docs.google.com/presentation/d/16P9pAqSryjJpk37R-CtXDEw-0pNtYpuBei2cmfIR2E8/edit#slide=id.g35c0209681_0_0) - and see the Aragon SDK as a toolkit to super-charge traditional co-op/mutual structures and enable them to save, transact and grow at scale safely, without dependency on banks, financial institutions such a state pension funds which are a de facto Ponzi scheme, or nation-states themselves for that matter.
 
