@@ -65,6 +65,12 @@ The project proposes to build Minimum Viable Applications for any Aragon DAO to 
 
 The code will be open source in [EmpowerTheDAO's Github Repository](https://github.com/empowerthedao), and will be published to Aragon Package Manager.
 
+### Reference Implementation
+
+The EmpowerTheDAO team are in the process of finalising the [Livepeer Aragon App](https://github.com/videoDAC/livepeer-aragon/blob/master/README.md). This app empowers an Aragon DAO to perform some of the key roles in Livepeer's protocol - those of **Delegator** (enabling the DAO to stake to the network, and earn rewards) and **Transcoder** (enabling a DAO to govern the protocol interactions for a Transcoder node in Livepeer's network).
+
+Through this project, the team gained experience working with Agent.sol, as well as a strong understanding of how to build an app for an Aragon DAO which integrates with other Ethereum-based protocols.
+
 ### Project Timeline and Interim Deliverables
 
 The project can be broken down into 3 phases, with varying levels of involvement from members of the team, during the project.
@@ -78,7 +84,7 @@ The project can be broken down into 3 phases, with varying levels of involvement
 - Development Environment Configuration - 2 weeks
   - Create local test environments for each of the 4 protocols (ENS, Uniswap, Gitcoin, MakerDAO)
   - Deployment of "stub" contracts on Rinkeby for protocols which test on Ropsten
-  - Interim Deliverable: ???????
+  - Interim Deliverable: Test environments and harnesses for each protocol
 
 #### Phase 2
 
