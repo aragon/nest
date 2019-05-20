@@ -1,4 +1,6 @@
-# Introduction and Context
+![images](https://user-images.githubusercontent.com/2212651/58053982-15cf8600-7b51-11e9-82cb-8e2d8720e9d7.jpeg)
+
+# Empower The DAO
 
 This document explains the background, objectives, scope and plan for the first project by EmpowerTheDAO.
 
@@ -41,13 +43,9 @@ Image showing how a DAO's homepage could look, with a list of options of applica
 
 ### Why _Minimum Viable_?
 
-Nobody knows a project's inner mechanics more than the people who work in the cores and the communities of these projects. The Smart Contracts which define the workings of the protocols have been meticulously crafted by researchers and Solidity Engineers of these projects. The User Interfaces to interact with these contracts have been carefully designed and developed by the Designers and Javascript developers.
+Nobody knows a project's inner mechanics more than the people who work in the project's community. The protocol's smart contracts have been meticulously crafted by the researchers and engineers. The UIs have been carefully designed and developed by Designers and Javascript developers. It is not possible for the EmpowerTheDAO to gain this deep an understanding within the scope of this project.
 
-It is not reasonable to that the EmpowerTheDAO team will be able to gain as deep an understanding as the researchers and developers in these projects. So I believe it's not worth trying.
-
-Instead, this project seeks to take the _first step_ to connecting Aragon with MakerDAO, ENS, Uniswap and Gitcoin. To demonstrate the base case application, and prove an embryonic _proof-of-DAO_ in their ecosystem.
-
-Taking this first step will seek to raise awareness of an Aragon DAO as an actor in these projects' communities, and will provide a starting point for existing members of these projects' communities to grow the capabilities of these apps, and also to evolve them as their protocols evolve.
+Instead, this project seeks to take the _first step_ to connecting Aragon with MakerDAO, ENS, Uniswap and Gitcoin. To demonstrate the base case application, and prove an embryonic _proof-of-DAO_ in their ecosystem. Taking this first step will seek to raise awareness of an Aragon DAO as an actor in these projects' communities, and will provide a starting point for existing members of these projects' communities to grow the capabilities of these apps, and also to evolve them as their protocols evolve.
 
 Furthermore, it will provide an entry point for Aragon into these project's communities, to enage users to use DAOs to operate projects in their ecosystems.
 
@@ -71,6 +69,8 @@ The EmpowerTheDAO team are in the process of finalising the [Livepeer Aragon App
 
 Through this project, the team gained experience working with Agent.sol, as well as a strong understanding of how to build an app for an Aragon DAO which integrates with other Ethereum-based protocols.
 
+![images](https://user-images.githubusercontent.com/2212651/57972471-086c9d00-7993-11e9-896d-ee7fa5f471aa.png)
+
 ### Project Timeline and Interim Deliverables
 
 The project can be broken down into 3 phases, with varying levels of involvement from members of the team, during the project.
@@ -79,9 +79,10 @@ The project can be broken down into 3 phases, with varying levels of involvement
 
 - Research & Design - 2 weeks
   - Research each protocol being integrated with
+  - Engage with stakeholders in the communities of the projects to raise awareness and seek guidance
   - Interim Deliverable: Detailed scope of the functionality of each application, including contract calls, 
 
-- Development Environment Configuration - 2 weeks
+- Development Environment Configuration - 1 week
   - Create local test environments for each of the 4 protocols (ENS, Uniswap, Gitcoin, MakerDAO)
   - Deployment of "stub" contracts on Rinkeby for protocols which test on Ropsten
   - Interim Deliverable: Test environments and harnesses for each protocol
