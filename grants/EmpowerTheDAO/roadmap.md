@@ -80,7 +80,8 @@ The project can be broken down into 3 phases, with varying levels of involvement
 - Research & Design - 2 weeks
   - Research each protocol being integrated with
   - Engage with stakeholders in the communities of the projects to raise awareness and seek guidance
-  - Interim Deliverable: Detailed scope of the functionality of each application, including contract calls, 
+  - Interim Deliverable: Detailed scope of the functionality of each application, including contract calls
+  - Interim Deliverable: 4 published recordings of hangouts with the community of each project, introducing EmpowerTheDAO
 
 - Development Environment Configuration - 1 week
   - Create local test environments for each of the 4 protocols (ENS, Uniswap, Gitcoin, MakerDAO)
@@ -90,8 +91,12 @@ The project can be broken down into 3 phases, with varying levels of involvement
 #### Phase 2
 
 - Application Development - 4 weeks
+  - Development of smart contract and user interface software for application
+  - Fortnightly showcases of progress made on applications (internal to project team + invitees)
+  - Awareness raising within other projects' communities, including 1 hangout with each project
   - Interim Deliverable: Applications ready for manual testing, published to Rinkeby Testnet
   - Interim Deliverable: Installation scripts for installing on local and Testnet environments
+  - Interim Deliverable: 4 published recording of hangouts with each community, demonstrating applications and explaining code
 
 - Test + Bugfix - 1 week
   - Interim Deliverable: Test report with issues detailed how to replicate, and associated transaction records
@@ -106,8 +111,12 @@ The project can be broken down into 3 phases, with varying levels of involvement
   - Interim Deliverable: Response to recommendations, and any necessary changes
 
 - Packaging and Release - 2 weeks
+  - Creation of installation guides, tested with at least one member of each projects' community
+  - Communication of application to projects' communities via their online forums, via hangouts, and publicly on Twitter
+  - Code walk-through sessions with members of each community, to explain code architecture and functionality
   - Final deliverable: 4 applications published to Aragon Package Manager
-
+  - Final Deliverable: 4 recordings of hangouts with each community, showcasing final application and code walk-throughs
+  
 ### Project Fees
 
 The total fees for this project are proposed as 45,000 DAI, to be deposited into the [empowerthedao.aragonid.eth DAO](https://mainnet.aragon.org/#/empowerthedao.aragonid.eth/) via [the DAO's Finance App](https://mainnet.aragon.org/#/empowerthedao.aragonid.eth/0xf8ccac9c44058008014624068d0e03fe569e54d6).
