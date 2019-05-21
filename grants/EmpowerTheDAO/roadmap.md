@@ -119,12 +119,12 @@ The project can be broken down into 3 phases, with varying levels of involvement
   
 ### Project Fees
 
-The total fees for this project are proposed as 45,000 DAI, to be deposited into the [empowerthedao.aragonid.eth DAO](https://mainnet.aragon.org/#/empowerthedao.aragonid.eth/) via [the DAO's Finance App](https://mainnet.aragon.org/#/empowerthedao.aragonid.eth/0xf8ccac9c44058008014624068d0e03fe569e54d6).
+The total fees for this project are proposed as 55,000 DAI, to be deposited into the [empowerthedao.aragonid.eth DAO](https://mainnet.aragon.org/#/empowerthedao.aragonid.eth/) via [the DAO's Finance App](https://mainnet.aragon.org/#/empowerthedao.aragonid.eth/0xf8ccac9c44058008014624068d0e03fe569e54d6).
 
 We propose a payment schedule to align with the ends of each phase.
 
-- 10,000 DAI after Phase 1
+- 15,000 DAI after Phase 1
 - 25,000 DAI after Phase 2
-- 10,000 DAI after Phase 3
+- 15,000 DAI after Phase 3
 
 In addition, we request a Success reward of 9,000 ANT for completion of this project to the Aragon Associations's full satisfaction.
