@@ -26,10 +26,14 @@ Chris also enjoys cooking, singing with his ukulele, transacting on Ethereum, an
 
 ### Will Griffiths — Solidity / Full Stack Developer
 
-Will was the co-creator and developer of the Livepeer Aragon App (along with Chris, see above), and also mentor to Solidity developers on the 1Hive project.
+Will was the co-creator and developer of the Livepeer Aragon App (along with Chris, see above), and has been engaged with Ethereum since it's inception.
 
-ACTION: Will - please can you put something in here?
+He studied computer science for undergraduate at Leeds University and came top of his class. He has worked for commodity trading companies, mobile development companies and with Ethereum for the last 2 years. Initially he built a POC light client Android wallet and then moved onto freelance Solidity projects.
+
+He has experience managing a team of developers, working independently and in prtnerships.
+
+Ultimately Will is interested in building and contributing to governance experiments in the hope it will help us understand how to create more inclusive forms of organisation.
 
 **Commitment**: Full time
 
-**Socials**: [GitHub](https://github.com/willjgriff) [Twitter](https://twitter.com/willjgriff)
+**Socials**: [GitHub](https://github.com/willjgriff) [Ethereum stack exchange](https://ethereum.stackexchange.com/users/1581/willjgriff) [LinkedIn](https://www.linkedin.com/in/willjgriff/)
