@@ -30,7 +30,7 @@ Will was the co-creator and developer of the Livepeer Aragon App (along with Chr
 
 He studied computer science for undergraduate at Leeds University and came top of his class. He has worked for commodity trading companies, mobile development companies and with Ethereum for the last 2 years. Initially he built a POC light client Android wallet and then moved onto freelance Solidity projects.
 
-He has experience managing a team of developers, working independently and in prtnerships.
+He has experience managing a team of developers, working independently and in partnerships.
 
 Ultimately Will is interested in building and contributing to governance experiments in the hope it will help us understand how to create more inclusive forms of organisation.
 
