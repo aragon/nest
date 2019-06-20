@@ -10,16 +10,16 @@ This section outlines the milestones and target dates for this project:
 
 ### Milestone 1 - Research & Design Complete
 
-Interim Deliverables
+#### Interim Deliverables
 
 - Detailed scope of the functionality of each application, including contract calls
 - 4 published recordings of hangouts with community of each project, introducing EmpowerTheDAO
 
-Target Date: 5 July 2019
+**Target Date: 5 July 2019**
 
 ### Milestone 2 - Development & Test Complete
 
-Interim Deliverables
+#### Interim Deliverables
 
 - Development environments for each protocol
 - Applications ready for manual testing, published to Rinkeby Testnet
@@ -28,15 +28,15 @@ Interim Deliverables
 - Test report with issues, how to replicate, and associated transaction records
 - 4 applications for release to Security Audit.
 
-Target Date: 30 August 2019
+**Target Date: 30 August 2019**
 
 ### Milestone 3 - Audit & Release Complete
 
-Final Deliverables
+#### Final Deliverables
 
 - Report on vulnerabilities, and recommended changes
 - Response to recommendations, and any necessary changes
 - 4 applications published to Aragon Package Manager with associated installation guides.
 - 4 recordings of hangouts with each community, showcasing final application and code walk-throughs
 
-Target Date: 4 October 2019
+**Target Date: 4 October 2019**
