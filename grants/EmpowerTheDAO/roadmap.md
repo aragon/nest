@@ -2,6 +2,8 @@
 
 ## Context and Background
 
+This document contains details of the milestones and deliverables for Empower The DAO Project 1.
+
 For previous discussions regarding the scope and plan for this project, please see this issue: https://github.com/aragon/nest/issues/165
 
 ## Milestones
