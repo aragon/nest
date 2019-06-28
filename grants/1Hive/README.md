@@ -12,7 +12,7 @@ We estimate needing approximate 1 month to deliver each app, though we plan to d
 
 **Legal structure**: [1Hive DAO](https://mainnet.aragon.org/#/1hive/0xbc5231084d86d26a09a2c63100431da7b63d6a5f)
 
-**[Team and roadmap](1/files)**
+**[Team](https://github.com/1Hive/nest/blob/master/grants/1Hive/team.md) and [roadmap](https://github.com/1Hive/nest/blob/master/grants/1Hive/roadmap.md)**
 
 ## Proposal
 
