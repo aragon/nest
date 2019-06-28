@@ -6,7 +6,7 @@
 
 **Burn rate**: \$17k/month for 5 months
 
-- \$15k once for audits and bug bounties.
+- \$15k once for audits and bug bounties
 
 We estimate needing approximate 1 month to deliver each app, though we plan to do some development in parallel (e.g. Dandelion Org template and onboarding site)
 
