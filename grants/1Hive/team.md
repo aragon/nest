@@ -2,7 +2,7 @@
 
 ### Fabrizio Vigevani
 
-Fabrizio is currently finishing his computer science and has been engaged with ethereum for two years. His main skills include solidity, web3, React, node and css.
+Fabrizio is currently finishing his computer science degree and has been engaged with ethereum for two years. His main skills include solidity, web3, React, node and css.
 He has been engaged with Aragon for two months and has helped build our MVP (Redemptions) which let him grasp Aragon's core components and how they work.
 
 His main focus on 1Hive will be of a full stack developer writing and testing smart contracts and building aragon apps UIs.
@@ -54,7 +54,7 @@ My main focus on 1Hive will be to help the team to make the use of the Aragon st
 
 ### Luke Duncan
 
-Hi I'm Luke, I'm currently working as a full time contributor on Aragon in the [Aragon One](aragon.one) team. I'm also a passionate advocate for open source and have been advocating for new tools and institutions which improve funding for open source developers.
+Hi I'm Luke, I'm currently working as a full time contributor on Aragon in the [Aragon One](https://aragon.one) team. I'm also a passionate advocate for open source and have been advocating for new tools and institutions which improve funding for open source developers.
 
 I plan on contributing to 1Hive's strategy, product ideation, and communications.
 
