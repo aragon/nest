@@ -48,7 +48,7 @@ Hi I'm Gabriel, I'm working as a full time contributor on Aragon in the [Aragon 
 
 My main focus on 1Hive will be to help the team to make the use of the Aragon stack as smooth as possible. At the same time, I'll be gathering precious feedback of how Aragon devs use the tools they currently have avaiable and how can we further improve them.
 
-**Commitment**: Between 5 hours per week.
+**Commitment**: 5 hours per week.
 
 **Socials**: [GitHub](https://github.com/0xGabi), [Twitter](https://twitter.com/0xGabi)
 
