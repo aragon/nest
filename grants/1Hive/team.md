@@ -38,7 +38,7 @@ Will is the co-creator and developer of the Livepeer Aragon App and has been eng
 
 Will's main focus on 1Hive will be building and advising on Solidity contract development, as well as contributing to front-end development when time allows.
 
-**Commitment**: Dependant on EmpowerTheDao RFF approval. 5-10 hours if approved. 15-30 if not approved or delayed.
+**Commitment**: 1-5 hours a week.
 
 **Socials**: [GitHub](https://github.com/willjgriff), [Ethereum stack exchange](https://ethereum.stackexchange.com/users/1581/willjgriff), [LinkedIn](https://www.linkedin.com/in/willjgriff/)
 
