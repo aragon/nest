@@ -19,7 +19,7 @@ These milestones are also subject to change during the project's duration, but r
 - Scope of the functionality of each application, including contract calls
 - 4 published recordings of hangouts with community of each project, introducing EmpowerTheDAO
 
-**Target Date: 14 July 2019**
+**Target Date: 28 July 2019**
 
 ### Milestone 2 - Development & Test Complete
 
@@ -32,7 +32,7 @@ These milestones are also subject to change during the project's duration, but r
 - Test report with issues, how to replicate, and associated transaction records
 - 4 applications for release to Security Audit.
 
-**Target Date: 8 September 2019**
+**Target Date: 15 September 2019**
 
 ### Milestone 3 - Audit & Release Complete
 
