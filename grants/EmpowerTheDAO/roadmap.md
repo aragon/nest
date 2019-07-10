@@ -8,7 +8,7 @@ For previous discussions regarding the scope and plan for this project, please s
 
 ## Milestones
 
-This section outlines the milestones and target dates for this project. They are dependent on the funding being approved by COB Friday 28 June 2019.
+This section outlines the milestones and target dates for this project. They are dependent on the funding being approved by COB Friday 12 July 2019.
 
 These milestones are also subject to change during the project's duration, but represent the best estimates at time of writing.
 
