@@ -17,7 +17,7 @@ These milestones are also subject to change during the project's duration, but r
 #### Interim Deliverables
 
 - Scope of the functionality of each application, including contract calls
-- 4 published recordings of hangouts with community of each project, introducing EmpowerTheDAO
+- 2 (or 3) published recordings of hangouts with community of each project, introducing EmpowerTheDAO
 
 **Target Date: 28 July 2019**
 
@@ -28,9 +28,9 @@ These milestones are also subject to change during the project's duration, but r
 - Development environments for each protocol
 - Applications ready for manual testing, published to Rinkeby Testnet
 - Installation scripts for installing on local and Testnet environments
-- 4 published recording of hangouts with each community, demonstrating applications and explaining code
+- 2 (or 3) published recording of hangouts with each community, demonstrating applications and explaining code
 - Test report with issues, how to replicate, and associated transaction records
-- 4 applications for release to Security Audit.
+- 2 (or 3) applications for release to Security Audit.
 
 **Target Date: 15 September 2019**
 
@@ -40,7 +40,7 @@ These milestones are also subject to change during the project's duration, but r
 
 - Report on vulnerabilities, and recommended changes
 - Response to recommendations, and any necessary changes
-- 4 applications published to Aragon Package Manager with associated installation guides.
-- 4 recordings of hangouts with each community, showcasing final application and code walk-throughs
+- 2 (or 3) applications published to Aragon Package Manager with associated installation guides.
+- 2 (or 3) recordings of hangouts with each community, showcasing final application and code walk-throughs
 
 **Target Date: 13 October 2019**
