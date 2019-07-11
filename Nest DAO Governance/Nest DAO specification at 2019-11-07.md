@@ -1,15 +1,18 @@
+Below is the most recent specification of the Aragon DAO and the corresponding new governance process for Nest. These changes are proposed to the community as an AGP by the Aragon Association in ANV#3. The specification is subject to be changed by the Aragon Association and the Nest DAO members if judged necessary.
+
+
 ##### last [edited](https://forum.aragon.org/t/agp-proposal-for-a-new-nest-grant-allocation-process/998) on 09.07.19 @ 12.50 CEST
 
 # The Nest DAO: application process and governance settings
 
 ### Philosophy
-Until now AA has had the responsibility to decide on Nest grants allocation. On the path to a fully sovereign and autonomous network, the Aragon Association will increasingly delegate strategic decisions to the Aragon community. In the Nest DAO, members of Flock teams, Nest teams and the broader community will take part in grant allocation decisions. 
+Until now AA has had the responsibility to decide on Nest grants allocation. On the path to a fully sovereign and autonomous network, the Aragon Association will increasingly delegate strategic decisions to the Aragon community. In the Nest DAO, members of Flock teams, Nest teams and the broader community will take part in grant allocation decisions.
 
 The process detailed below is designed for this purpose. In this new version the Aragon Association steps back in a more coordination and advice oriented role.
 
 ## The Nest DAO
 
-- Members of the Nest  DAO have a non-transferable membership token enabling them to vote 
+- Members of the Nest  DAO have a non-transferable membership token enabling them to vote
 - Nest funds are determined by AGPs and held in the Nest DAO
 - Grantees are paid through the Nest DAO (payments can be one-off, issued over milestones, or streamed using the Payroll app)
 - Nest DAO members also form an Aragon Working Group where they can communicate
@@ -40,9 +43,9 @@ The process detailed below is designed for this purpose. In this new version the
 ### Governance settings and permissions
 
 #### Intentions
-The Nest DAO and its members should be as autonomous as possible in the allocation of Nest grants. The Aragon Association might keep onwership on sensitive settings such as creating permissions, burning tokens if considered necessary. 
+The Nest DAO and its members should be as autonomous as possible in the allocation of Nest grants. The Aragon Association might keep onwership on sensitive settings such as creating permissions, burning tokens if considered necessary.
 
-Any member of the Nest DAO can create votes, either to select grantees or issue a payment. As the DAO will be dealing with large sums of money, members may want to let the Aragon Association in charge of creating money transfer votes. 
+Any member of the Nest DAO can create votes, either to select grantees or issue a payment. As the DAO will be dealing with large sums of money, members may want to let the Aragon Association in charge of creating money transfer votes.
 
 Non-members should be able to create votes too. This is because outsiders should be able to ask for a vote on their RFF without going through the approval of a given Nest DAO members or the AA (see *forcing request for funding* below).
 
@@ -78,7 +81,7 @@ Non-members should be able to create votes too. This is because outsiders should
 ### In Nest "V1"
 
 #### Proposal funnel
-1. Create an [issue](https://github.com/aragon/nest/issues) with proposal idea asking for feedback 
+1. Create an [issue](https://github.com/aragon/nest/issues) with proposal idea asking for feedback
 2. AA provides feedback whether if idea is worth pursuing
 
 **-Provided that proposal idea is approved by AA-**
@@ -97,7 +100,7 @@ Non-members should be able to create votes too. This is because outsiders should
 - Nest Manager and Executive Director at AA are selecting grants
 - They gather feedback and opinions from Flock team members, including those directly impacted by the proposal
 
-## In Nest "V2" 
+## In Nest "V2"
 
 
 #### Funnel
@@ -107,7 +110,7 @@ Non-members should be able to create votes too. This is because outsiders should
 
 **-Provided that proposal idea is *encouraged* by AA-**
 
-3. Applicant team submits a request for funding 
+3. Applicant team submits a request for funding
 
 **-If proposal idea is *discouraged* by AA-**
 
@@ -123,7 +126,7 @@ Non-members should be able to create votes too. This is because outsiders should
 ![](https://i.imgur.com/d5ytwfA.png)
 
 #### Summing up: who is involved in grant allocation?
-- In Nest V2, AA doesn't have the ability to strictly reject proposals 
+- In Nest V2, AA doesn't have the ability to strictly reject proposals
 - In Nest V2, AA has the role to provide the right feedback to challenge and shape up proposals, and coordinate to gather opinions if necessary
 - AA encourages/discourages Nest applicants to submit their proposal to the Nest DAO
 - AA issues a note to Nest DAO members, explaining as objectively as possible what the proposal is
@@ -146,7 +149,3 @@ No longer than 500 words:
 - Summary of the proposal according to AA
 - How it seats in the Aragon Landscape
 - Subjective opinion supported by clear rationale
-
-## Next steps
-
-**Feedback and opinions are welcome. The settings proposed above can be discussed and adjusted up until the implementation of the Nest DAO.**
