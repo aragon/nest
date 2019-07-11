@@ -1,7 +1,7 @@
-Below is the most recent specification of the Nest DAO and the corresponding new governance process for Nest. These changes are proposed to the community as an AGP by the Aragon Association in ANV-3. Mostly for technical reasons, the specification is subject to be changed by the Aragon Association and the Nest DAO members if judged necessary.
+Below is the most recent specification of the Nest DAO and the corresponding new governance process for Nest. These changes are proposed to the community as an AGP by the Aragon Association in ANV-3. **Both for technical reasons and concerns over establishing fair governance settings, the specification of this new process is subject to be changed by the Aragon Association and the Nest DAO members if judged necessary. Changes, if any, will be communicated and discussed with the community through a post on the Aragon Forum.**
 
 
-##### last [edited](https://forum.aragon.org/t/agp-proposal-for-a-new-nest-grant-allocation-process/998) on 09.07.19 @ 12.50 CEST
+##### Original [post](https://forum.aragon.org/t/agp-proposal-for-a-new-nest-grant-allocation-process/998). Specification last edited on 11.07.19 @ 12.35 CEST
 
 # The Nest DAO: application process and governance settings
 
@@ -34,7 +34,7 @@ The process detailed below is designed for this purpose. In this new version the
 
 #### Onboarding
 - For the first membership round, the Aragon Association will be in charge of accepting/rejecting applications. After that, Nest DAO members will manage membership autonomously
-- Once applications have been processed by the Aragon Association, accepted applicants will have to submit an identity verification proof using Keybase to receive their membership token
+- Once applications have been processed by the Aragon Association, accepted applicants will have to submit an identity verification proof using Keybase to receive their membership token. This is not a KYC process but a way to avoid sybil attacks and enable a trusted setting
 
 #### Offboarding
 - If some member is not actively participating in votes, he or she may be offboarded. The Aragon Association may burn its membership token
@@ -139,8 +139,6 @@ Non-members should be able to create votes too. This is because outsiders should
 3. *AA's recommandations to applicants:* AA can **encourage or discourage** applicants to submit a request for funding, issuing recommandations: higly discourage, discourage, encourage, highly encourage
 4. *AA's voting note:* AA has the ability to **disclose a public note** assessing the pros and cons of a given request for funding
 
-
-
 ### Zooming on AA's notes
 
 AA's notes consist in a short note to the address of Nest DAO members. Notes are public. The content is a short summary and analysis of the proposal written by the AA.
@@ -149,3 +147,6 @@ No longer than 500 words:
 - Summary of the proposal according to AA
 - How it seats in the Aragon Landscape
 - Subjective opinion supported by clear rationale
+
+
+
