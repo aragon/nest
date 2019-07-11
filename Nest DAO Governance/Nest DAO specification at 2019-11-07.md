@@ -1,4 +1,4 @@
-Below is the most recent specification of the Aragon DAO and the corresponding new governance process for Nest. These changes are proposed to the community as an AGP by the Aragon Association in ANV-3. The specification is subject to be changed by the Aragon Association and the Nest DAO members if judged necessary.
+Below is the most recent specification of the Aragon DAO and the corresponding new governance process for Nest. These changes are proposed to the community as an AGP by the Aragon Association in ANV-3. The specification is subject to be changed by the Aragon Association and the Nest DAO members if judged necessary mostly for technical reasons.
 
 
 ##### last [edited](https://forum.aragon.org/t/agp-proposal-for-a-new-nest-grant-allocation-process/998) on 09.07.19 @ 12.50 CEST
