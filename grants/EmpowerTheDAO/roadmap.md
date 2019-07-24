@@ -8,7 +8,7 @@ For previous discussions regarding the scope and plan for this project, please s
 
 ## Milestones
 
-This section outlines the milestones and target dates for this project. They are dependent on the funding being approved by COB Friday 12 July 2019.
+This section outlines the milestones and target dates for this project. These have been revised due to funding being received on 17 July 2019.
 
 These milestones are also subject to change during the project's duration, but represent the best estimates at time of writing.
 
@@ -19,7 +19,7 @@ These milestones are also subject to change during the project's duration, but r
 - Scope of the functionality of each application, including contract calls
 - 2 (or 3) published recordings of hangouts with community of each project, introducing EmpowerTheDAO
 
-**Target Date: 28 July 2019**
+**Target Date: 2 August 2019**
 
 ### Milestone 2 - Development & Test Complete
 
@@ -32,7 +32,7 @@ These milestones are also subject to change during the project's duration, but r
 - Test report with issues, how to replicate, and associated transaction records
 - 2 (or 3) applications for release to Security Audit.
 
-**Target Date: 15 September 2019**
+**Target Date: 22 September 2019**
 
 ### Milestone 3 - Audit & Release Complete
 
@@ -43,4 +43,4 @@ These milestones are also subject to change during the project's duration, but r
 - 2 (or 3) applications published to Aragon Package Manager with associated installation guides.
 - 2 (or 3) recordings of hangouts with each community, showcasing final application and code walk-throughs
 
-**Target Date: 13 October 2019**
+**Target Date: 20 October 2019**
