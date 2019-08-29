@@ -130,7 +130,7 @@ Non-members should be able to create votes too. This is because outsiders should
 - In Nest V2, AA has the role to provide the right feedback to challenge and shape up proposals, and coordinate to gather opinions if necessary
 - AA encourages/discourages Nest applicants to submit their proposal to the Nest DAO
 - AA issues a note to Nest DAO members, explaining as objectively as possible what the proposal is
-- In Nest V2, the Nest program goes one step further to a more decentralized making on the strategic decisions that are Nest grants by harnessing collective decision making to vote on applicants
+- In Nest V2, the AA does not fund proposals; the Nest program creates a more decentralized decision making process by giving the Nest DAO members the ability to fund proposals via Nest DAO votes
 
 ### Clarification of new concepts
 
@@ -145,7 +145,7 @@ AA's notes consist in a short note to the address of Nest DAO members. Notes are
 
 No longer than 500 words:
 - Summary of the proposal according to AA
-- How it seats in the Aragon Landscape
+- How it sits in the Aragon Landscape
 - Subjective opinion supported by clear rationale
 
 
