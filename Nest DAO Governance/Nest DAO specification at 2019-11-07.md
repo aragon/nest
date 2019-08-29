@@ -45,7 +45,7 @@ The process detailed below is designed for this purpose. In this new version the
 #### Intentions
 The Nest DAO and its members should be as autonomous as possible in the allocation of Nest grants. The Aragon Association might keep onwership on sensitive settings such as creating permissions, burning tokens if considered necessary.
 
-Any member of the Nest DAO can create votes, either to select grantees or issue a payment. As the DAO will be dealing with large sums of money, members may want to let the Aragon Association in charge of creating money transfer votes.
+Any member of the Nest DAO can create votes, either to select grantees or issue a payment. As the DAO will be dealing with large sums of money, members may want to let the Aragon Association be in charge of creating money transfer votes.
 
 Non-members should be able to create votes too. This is because outsiders should be able to ask for a vote on their RFF without going through the approval of a given Nest DAO members or the AA (see *forcing request for funding* below).
 
