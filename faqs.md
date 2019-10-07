@@ -5,9 +5,9 @@
 The Nest program exists to help teams innovate with governance at the speed of software and build unstoppable organizations.
 
 We do this in 3 ways:
-- Ideation: we will help you validate and refine your ideas. This includes feedback on initial proposals as well as help understanding the Aragon stack so that you can realize your dreams on the platform.
-- Funding: we will provide you with capital to build out your ideas. This will be delivered in 3 phases: ⅓ up front to start work, ⅓ upon the delivery of a successful prototype, ⅓ upon shipment of a production ready product to mainnet.
-- Support Network: shipping is hard. Once your prototype is working, we will help you get user feedback, security audits, and legal council so that you can ship a production ready application to end users. 
+- **Ideation:** we will help you validate and refine your ideas. This includes feedback on initial proposals as well as help understanding the Aragon stack so that you can realize your dreams on the platform.
+- **Funding:** we will provide you with capital to build out your ideas. This will be delivered in 3 phases: ⅓ up front to start work, ⅓ upon the delivery of a successful prototype, ⅓ upon shipment of a production ready product to mainnet.
+- **Support Network:** shipping is hard. Once your prototype is working, we will help you get user feedback, security audits, and legal council so that you can ship a production ready application to end users. 
 
 We are dedicated to helping humanity organize, coordinate, and collaborate at scale. Join us in fighting for freedom. Let’s buidl the future together. 
 
