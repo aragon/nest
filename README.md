@@ -6,7 +6,7 @@ We believe the fate of humanity will be decided at the frontier of technological
  
 If you are interested in joining us on this mission, the Nest program will help you realize your dreams on the Aragon platform. We are interesting in supporting teams who want to build developer tooling, Aragon applications, and Aragon ecosystem services that enhance user experiences. To help you succeed we provide capital, mentorship, and professional support services. Our goal is to help you build your ideas and ship them to users on Aragon.
  
-We're excited to [fight for freedom](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-0.md) with you. Our [FAQ](faqs.md) provides details on the Nest project. If you want to get started building your ideas on Aragon [**apply for Nest!**](https://github.com/aragon/nest/issues/new)
+We're excited to [fight for freedom](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-0.md) with you. Our [FAQ](faqs.md) provides details on the Nest project. If you want to build your ideas on Aragon, [**apply for Nest!**](https://github.com/aragon/nest/issues/new)
 
 <br>
 
