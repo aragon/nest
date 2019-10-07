@@ -6,9 +6,9 @@
 
 Project name
 
-Describe your project in 80 characters or less.
+Project description
 
-Website url (if any) 
+Code repo and/or website url (if any) 
 
 <br>
 
@@ -16,15 +16,15 @@ Website url (if any)
 
 Name of the project lead 
 
-Email address of the project lead who is filling out this application
+Email address of the project lead (whoever is filling out this application)
 
-List each other member that is/would be working full-time on this project when the grant is received (Linkedin/Github profile links are preferred but not required)
+List each other member that is/would be working on this project (LinkedIn/GitHub profiles are preferred but not required)
 
-List the roles each team member will perform
+What are the main roles of each team member?
 
-Has the team already worked together? Please provide details.  
+Has the team already worked together? (please provide details)  
 
-Is your team already present on the Aragon Forum? If Yes, what are their usernames? 
+Is your team already present on the Aragon Forum? If Yes, what are your usernames? 
 
 <br>
 
@@ -32,31 +32,33 @@ Is your team already present on the Aragon Forum? If Yes, what are their usernam
 
 How far along are you? 
 
-How long have each of you been working on this? How much of that has been full-time? Please explain.
+Is anyone using your product/application?
 
-Are people using your product?
+If yes, How many active users do you have and what kind of feedback have you received?
 
-No/Yes
+If you've applied previously with the same idea, how much progress have you made since the last time you applied? What has changed?
 
-If yes, How many active users do you have? Anything else you would like us to know regarding your growth rate?
-
-If you've applied previously with the same idea, how much progress have you made since the last time you applied? Anything changed?
+<br>
 
 ## Idea Problem 
 
-Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Why did you pick this idea to work on? Do you have domain expertise in this area? 
 
-What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+What's new about what you're making? What do people resort to because it doesn't exist yet (or they don't know about it)?
+
+Have you talked to peple about what you're making? Do people want it and do you have examples of this?
+
+<br>
 
 ## Market
 
-Which category best applies to your project?
+What is the target market or end user in mind for this project?
 
-Insert Dropdown 
+What are the alternatives or competitors to this project? 
 
-Who might be considered competitors to this project? 
+How will this project get users? If your project is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users until it has a lot of users (e.g. a marketplace), how will you overcome that? 
 
-How will you get users? If your project is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users until it has a lot of users (e.g. a marketplace), how will you overcome that? 
+<br>
 
 ## Legal
 
@@ -64,32 +66,40 @@ Will you be using an Aragon DAO for operating this project and receiving the fun
 
 Are any of the project team members covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain.
 
+<br>
+
 ## Aragon
 
 Why do you think Aragon is a good fit for this project?
 
-Are there any existing Aragon projects that you think are complementary to yours that it would make sense to collaborate with? If yes, which ones?
+Are there any existing Aragon projects that are similar or complementary to your project? 
 
-Which Nest lead would you most like to review your project? (Select a maximum of 3) 
-
-Radio buttons 
+<br>
 
 ## Funding
 
-How much money are you requesting as a grant USD? ANT? 
+How much money are you requesting as a grant? (the maximum grant size we provide is $150k in USD value) 
 
 Have you already received any grants or funds from 3rd parties? If yes, how much? 
 
-Are you applying for funding to any other DAO platforms or grant programs? please tell us about it.
+Are you applying for funding to any other DAO platforms or grant programs? If so, that is not a problem as it increases the liklihood of your success, but it's important that we can take that into consideration if your project relies on multiple grants.
 
-What milestones do you suggest as suitable deliverables?
+How do you plan to deploy grant funds? (split between research/development/marketing/etc)
 
-How will these funds be deployed? (split between research/development/marketing/etc)
+What is your expected monthly burn rate?
 
-If requesting more than 100k (total of DAI + ANT), please provide a financial model. 
+Do you think this project will require additional funds once you have depleted the grant funds? If so, why? Where do you plan on acquiring further funding? 
 
-Do you think this project will require additional funds once you have depleted the grant funds? If so, how do you intend for it to be sustainable? 
+<br>
 
 ## Roadmap
 
-How long do you expect this to take? (roadmap)
+How long do you plan on working on this project before shipping?
+
+What are the key milestones you have to accomplish before you can ship a production ready product to users?
+
+<br>
+
+## Notes
+
+Is there anything else you would like to share or ask us?
