@@ -1,6 +1,4 @@
-# Aragon Nest Program: Frequently Asked Questions
-
-## Overview 
+# Frequently Asked Questions
 
 The Nest program exists to help teams innovate with governance at the speed of software and build unstoppable organizations.
 
@@ -11,11 +9,9 @@ We do this in 3 ways:
 
 We are dedicated to helping humanity organize, coordinate, and collaborate at scale. Join us in fighting for freedom. Let’s buidl the future together. 
 
-## Questions and Answers
+<br>
 
-All the things someone might want to know before applying to the Aragon Nest program.
-
-### General FAQs
+## General
 
 How much are the Nest Grants? 
 - The minimum grant size is USD 5,000 and the maximum grant size is 150,000. In addition, grantees are able to apply for a success bonus of up to 50,000 ANT. The average size of an Aragon Nest grant is USD [insert] and [insert] ANT. 
@@ -38,7 +34,9 @@ Do you take board seats?
 When is the right time to approach Aragon for a Nest grant? 
 - We encourage projects and teams of all sizes and stages to apply for Nest. This can include prototypes that are pre-launch to fully established organisations and projects that want to integrate with Aragon. The only exception is that Nest grants are not suitable for projects that are purely research related in nature. 
 
-### Pre-Application
+<br>
+
+## Pre-Application
 
 How do I find out if my project could be eligible for a grant?
 - Check the [Request For Proposals](https://github.com/temp-nestdao/nest/blob/master/README.md#requests-for-proposals) section of the Nest program README.
