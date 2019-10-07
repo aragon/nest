@@ -17,25 +17,25 @@ We are dedicated to helping humanity organize, coordinate, and collaborate at sc
 
 ## General
 
-How much are the Nest Grants? 
+### How much are the Nest Grants? 
 - The minimum grant size is USD 5,000 and the maximum grant size is 150,000. In addition, grantees are able to apply for a success bonus of up to 50,000 ANT. The average size of an Aragon Nest grant is USD [insert] and [insert] ANT. 
 If the amount of funding you are looking for is under USD 5,000, your project may be better suited to the [Aragon Community Fund DAO (CFDAO)](https://forum.aragon.org/t/how-to-make-proposals-to-the-community-funding-dao/697).
 
-Are Nest grants paid up front in a lump sum or distributed over milestones?
+### Are Nest grants paid up front in a lump sum or distributed over milestones?
 - 1/3 of your grant will be delivered when your grant is approved
 - 1/3 of your grant will be delivered when you ship a prototype
 - 1/3 of your grant will be delivered when you ship a production ready product
 
-What does Aragon get for supporting projects via the Nest program? Does it get tokens/equity from the grantees?
+### What does Aragon get for supporting projects via the Nest program? Does it get tokens/equity from the grantees?
 - No tokens and no equity. We ask for nothing in return from the grantees outside of delivering the promised solution. 
 
-How do I find more information about Nest? Is there a website?
+### How do I find more information about Nest? Is there a website?
 - The GitHub repository is the main source of information about the program. However, you can find additional information on the [Aragon website](https://aragon.org/project/grants/).
 
-Do you take board seats? 
+### Do you take board seats? 
 - No. But in order to best support projects we require relevant information concerning the ongoing status of your project.
 
-When is the right time to approach Aragon for a Nest grant? 
+### When is the right time to approach Aragon for a Nest grant? 
 - We encourage projects and teams of all sizes and stages to apply for Nest. This can include prototypes that are pre-launch to fully established organisations and projects that want to integrate with Aragon. The only exception is that Nest grants are not suitable for projects that are purely research related in nature. 
 
 <br>
