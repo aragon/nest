@@ -7,3 +7,20 @@ We believe the fate of humanity will be decided at the frontier of technological
 If you are interested in joining us on this mission, the Nest program will help you realize your dreams on the Aragon platform. We are interesting in supporting teams who want to build developer tooling, Aragon applications, and Aragon ecosystem services that enhance user experiences. To help you succeed we provide capital, mentorship, and professional support services. Our goal is to help you build your ideas and ship them to users on Aragon.
  
 Please reach out so that we can help you get started. We have an [FAQ](faqs.md) and applying is as simple as opening a [new Issue](https://github.com/aragon/nest/issues/new) in this repo. What are you waiting for?!
+
+<br>
+
+## Requests For Proposals
+
+We are interested in funding the following types of projects.
+
+### Aragon Apps
+The value of Aragon as a platform increases with every application that is added to Aragon Package Manager. The number of possible DAO configurations increases exponentially with every new app that is built. If there is a cool governance or coordination mechanism that exists, we will help you build it on Aragon.
+
+### Aragon Services
+Aragon is a platform. Like all good platforms, there is room for services to be built on top to enhance the user experience. In order to round out the feature set and utility of the Aragon platform we will help you build applications and services that use ANT to drive value to Aragon users.
+
+### UX
+Security at the cost of usability comes at the cost of security. Aragon can build the most decentralized, secure, and robust applications in the world, but does it matter if no one uses them? It is critical that the experience of contributing to, building on, and using Aragon is world class. If you have ideas on how to improve the Aragon experience, we want to talk.
+
+<br>
