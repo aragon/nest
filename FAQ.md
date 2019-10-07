@@ -81,7 +81,7 @@ If the amount of funding you are looking for is under USD 5,000, your project ma
 - A NestDAO team member will tag your proposal as "under reivew." They will then ask questions to better understand your goals. During this intial interview suggestions may be provided improvements to increase the success of your proposal. The GitHub Issue for your proposal is where the majority of conversations around your application should happen. 
 
 ### NestDAO lead approval
-- Once question have been answered and feedback has been incorporated, a NestDAO team member will “lead” your proposal. They will signal this by assigning the Issue to themselves in the nest GitHub repo. This NestDAO member is now your primary point of contact throughout the Nest program. It is their job to support, fight for, and ensure the success of your project in the Nest program. Your NestDAO lead will create a due diligence report based on the size of the grant you're requesting and they will then publish that report as a comment in your proposal Issue. This due diligence report will be presented along with your proposal to the NestDAO Working Group at the next NestDAO meeting. Your NestDAO lead will then explain why this proposal is a good fit for the Nest program, the value it will provide to Aragon, and why the Nest program should fund it.  
+- Once questions have been answered and feedback has been incorporated, a NestDAO team member will “lead” your proposal. They will signal this by assigning the Issue to themselves in the nest GitHub repo. This NestDAO member is now your primary point of contact throughout the Nest program. It is their job to support, fight for, and ensure the success of your project in the Nest program. Your NestDAO lead will then create a due diligence report based on the size of the grant you're requesting and they will then publish that report as a comment in your proposal Issue. This will involve a call where the Nest lead can get to know you and ask questions. Yur Nest lead will then present your due diligence report along with your proposal to the NestDAO Working Group at the next NestDAO meeting. Your NestDAO lead will then explain why this proposal is a good fit for the Nest program, the value it will provide to Aragon, and why the Nest program should fund it.  
 
 ### NestDAO WG approval
 - When proposals are presented at NestDAO WG meetings members can ask your Nest lead questions, request changes to your proposal, and/or reject or approve your proposal. The results of this discussion will be shared with you as a comment in your proposal's GitHub Issue by your Nest lead. For transparency and auditability this feedback needs to be delivered to the applicants as a comment in the original proposal Issue. This Issue is where the majority of conversations around the application should happen. 
@@ -94,29 +94,16 @@ Throughout the early development phase your Nest lead will be able to answer any
 - The NestWG may also request changes to the prototype before it is ready to move on to the next stage. If so, your Nest lead will share this feedback in the Issue for your Nest project.
 
 ### Shipping
-Once your prototype is approved you will be ready to polish your project for shippment. 
+Once your prototype is approved you will be ready to polish your project for shippment. Your Nest lead will provide you with support getting user feedback from the Aragon community, getting legal council if your project manages funds, and getting a security audit if you have a solidity contract. Once you have received and incorporate feedback into your application your Nest lead will present the project to the NestWG. 
+- If the NestWG feels this is satisfactory the next 1/3 of your grant funding will be provided to you. Your Nest lead will then tag your project Issue as `project complete`.
+- The NestWG may also request changes to the prototype before it is ready to move on to the next stage. If so, your Nest lead will share this feedback in the Issue for your Nest project.
 
-### Ongoing Support: It is then the responsibility of the NestDAO lead to be the project’s point of contact throughout the NestDAO process. Answering questions, providing connection to talent and resources in the Aragon ecosystem, and ensuring that projects ship.
+### Ongoing Support
+Congratulations! You've made it through the Aragon Nest program. We really appreciate your hard work :) 
 
-### Ongoing support
-Once a project ships it’s the job of the NestDAO lead to reach out to the team to get feedback on the program, understand their next steps, and to help make those next steps another project within the Aragon ecosystem. 
+Your Nest lead will reach out to ask questions about your experience and what your next steps are. We hope that you choose to continue building on Aragon and any future proposals that you submit will receive expedited processing. We will do everything we can to make it as easy, fast, and fun to build on Aragon with us. 
 
-
-There are 5 stages to the grant process: 
-- Submission: The information submitted on your application allows us to get a quick overview of the project to see if there is a fit
-- Initial Review: An Aragon Nest team member will review your application after which they will notify you if we are progressing the application to the next stage in our process or not
-- Lead Call -  If your project looks like a good fit, you’ll be invited for a call with the lead. This is our chance to learn more about each other in a more personal way
-- Community Evaluation - During this stage, we’ll ask the Aragon community for feedback on your project. Expect numerous back and forths as we deep dive into your project and team. 
-- Community Vote - The final stage. Members of the NestDAO will be asked to vote on whether or not we fund your project. If it’s a yes, you’ll be sent a legal agreement to sign and the funds will be transferred to you within 3 days of signing the agreement.
-
-### Who will be deciding on how the grants are distributed?
-- When you make the initial submission, you will be asked to select a maximum of 3 leads that you would like to review your project. Your project will be assigned to one of these leads who will review it (Initial Review). View a list of all Nest Leads. 
-
-During the “Community Evaluation” phase, anyone from the Aragon community will be able to engage in the evaluation of your project. In practice, this means anyone with a Github account. 
-
-The Community Vote phase is limited to members of the Aragon NestDAO. This includes members with a deep level understanding of the Aragon ecosystem and is currently invite-only. View a list of the current members. 
-
-The funding will be described in the proposal and request for funding stages of the grant. The total amount, how many portions will it be divided into, timetable and milestones will be up for discussion with the relevant team.
+<br>
 
 ### How long until I get feedback on my application (Stage 2: Initial Review)?
 - You can expect the requested lead to respond within 72 hours of your submission. 
@@ -129,9 +116,7 @@ Post-Application
 - All payments will be made in cryptocurrencies. The grants will be paid in DAI and released in portions according to the agreed roadmap (and deliverables) that the team has submitted in their proposal. A possible reward depending on total project completion will be given in ANT to reward value created for the Aragon Network and to enable the participation in the governance of the project.
 
 ### Do you have standard legal documents that you use between Aragon Association and the Nest team? 
-- Yes, you will receive a standardised grantee agreement that you will be expected to sign. View a template of this agreement. 
-Who needs to sign this legal agreement? 
-- A legal entity has to sign a legal document. This could be an individual or a company. In cases where there are multiple individuals on the Nest team, all individuals will need to sign this document. 
+- Yes, you will receive a standardised grantee agreement that you will be expected to sign. You can click here to [view a template of this legal agreement](nest-agreement.md).
 
 <br>
 
@@ -142,14 +127,7 @@ Who needs to sign this legal agreement?
 - ⅓ upon delivery of a working prototype
 - ⅓ upon delivery of a finished product
 
-### What support can grantees expect from the Nest program besides financial backing?
-- Aragon is one of the most skilled projects in the crypto community. The development teams are formed by talented engineers that will be supporting the engineers working on the Nest projects. Also, we have developed experience, and crafted best practices, on how crypto projects should be run. We want to help expand the experience and best practices as much as possible.
-
-### Support
-- User feedback
-- Legal
-- Security 
-- Sales & Marketing
-
 ### What if I can’t finish the project as expected?
 - If you are blocked please reach out to your NestDAO lead to explain the situation and get help. 
+
+<br>
