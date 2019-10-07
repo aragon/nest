@@ -70,6 +70,10 @@ If the amount of funding you are looking for is under USD 5,000, your project ma
 ### What kinds of proposals are most likely to get funded?  
 - The offical Nest program [Requests For Proposals](https://github.com/temp-nestdao/nest/blob/master/README.md#requests-for-proposals) outline the things we are the most excited about supporting. The Aragon community has also created an [Aragon Wishlist](https://forum.aragon.org/t/agp-wishlist-and-blacklist/355) that might serve as further inspiration. 
 
+<br>
+
+## Application Process
+
 ### How do you submit a proposal for a grant?
 - Open a [new Issue](https://github.com/aragon/nest/issues/new) in the Aragon Nest repo.
 
@@ -106,6 +110,10 @@ Post-Application
 Who needs to sign this legal agreement? 
 - A legal entity has to sign a legal document. This could be an individual or a company. In cases where there are multiple individuals on the Nest team, all individuals will need to sign this document. 
 
+<br>
+
+## Post Application (if your project is approved)
+
 ### How will funding be delivered?
 - ⅓ upon approval
 - ⅓ upon delivery of a working prototype
@@ -114,12 +122,11 @@ Who needs to sign this legal agreement?
 ### What support can grantees expect from the Nest program besides financial backing?
 - Aragon is one of the most skilled projects in the crypto community. The development teams are formed by talented engineers that will be supporting the engineers working on the Nest projects. Also, we have developed experience, and crafted best practices, on how crypto projects should be run. We want to help expand the experience and best practices as much as possible.
 
-Mentors/Expert network
-Other 
-Legal? 
-Security? 
-Research? 
-Sales & Marketing? 
+### Support
+- User feedback
+- Legal
+- Security 
+- Sales & Marketing
 
 ### What if I can’t finish the project as expected?
 - If you are blocked please reach out to your NestDAO lead to explain the situation and get help. 
