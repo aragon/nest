@@ -17,49 +17,60 @@ All the things someone might want to know before applying to the Aragon Nest pro
 
 ### General FAQs
 
-[formatting tdd]
-
 How much are the Nest Grants? 
-The minimum grant size is USD 5,000 and the maximum grant size is 150,000. In addition, grantees are able to apply for a success bonus of 50,000 ANT. The average size of an Aragon Nest grant is USD [insert] and [insert] ANT. 
-If the amount of funding you are looking for is under USD 5,000, your project may be better suited to the Aragon Community Fund DAO (CFDAO)
+- The minimum grant size is USD 5,000 and the maximum grant size is 150,000. In addition, grantees are able to apply for a success bonus of up to 50,000 ANT. The average size of an Aragon Nest grant is USD [insert] and [insert] ANT. 
+If the amount of funding you are looking for is under USD 5,000, your project may be better suited to the [Aragon Community Fund DAO (CFDAO)](https://forum.aragon.org/t/how-to-make-proposals-to-the-community-funding-dao/697).
+
+Are Nest grants paid up front in a lump sum or distributed over milestones?
+- 1/3 of your grant will be delivered when your grant is approved
+- 1/3 of your grant will be delivered when you ship a prototype
+- 1/3 of your grant will be delivered when you ship a production ready product
+
 What does Aragon get for supporting projects via the Nest program? Does it get tokens/equity from the grantees?
-No tokens and no equity. We ask for nothing in return from the grantees outside of delivering the promised solution. 
+- No tokens and no equity. We ask for nothing in return from the grantees outside of delivering the promised solution. 
+
 How do I find more information about Nest? Is there a website?
-The GitHub repository is the main source of information about the program. However, you can find additional information in the project's website.
-How much white powder has Aragon earmarked for Nest grants?
-? 
+- The GitHub repository is the main source of information about the program. However, you can find additional information on the [Aragon website](https://aragon.org/project/grants/).
+
 Do you take board seats? 
-No. But in order to best support the projects we provide grants too, we do require relevant information concerning the ongoing status of your project. As such, there are certain information requirements that grantee projects must comply with. 
+- No. But in order to best support projects we require relevant information concerning the ongoing status of your project.
+
 When is the right time to approach Aragon for a Nest grant? 
-We encourage projects and teams of all sizes and stages to apply for Nest. This can include prototypes that are pre-launch to fully established organisations and projects that want to integrate with Aragon. The only exception is that Nest grants are not suitable for projects that are purely research related in nature. 
-Pre-Application
-Eligibility for Grants 
+- We encourage projects and teams of all sizes and stages to apply for Nest. This can include prototypes that are pre-launch to fully established organisations and projects that want to integrate with Aragon. The only exception is that Nest grants are not suitable for projects that are purely research related in nature. 
+
+### Pre-Application
+
 How do I find out if my project could be eligible for a grant?
-Check the Proposals for grants for existing proposals. If you don’t find anything close to what you’re working on, submit a new proposal for a grant and discuss if we should consider it for a grant
-See the Guide for submitting a new request for funding and follow these steps:
-Fork the Aragon Nest GitHub repository
-Create a new directory with your project’s name inside the grants/ folder. 
-Inside that, create two files, team.md and roadmap.md, where you present your team and suggested roadmap
-Create a Pull Request to merge your submission into the Nest repository. In that Pull Request, be sure to fill in all the relevant info described in the Guide for submitting a new request for funding
-Proposals should abstractly describe problems or products, not their implementations
-I’m working on something that already has an existing proposal?
-If there is an existing proposal for a grant or funded project that is close to your idea, join in the discussion of that proposal to see if your proposal could be integrated into the existing one, or if you should create a new proposal
+- Check the [Request For Proposals](https://github.com/temp-nestdao/nest/blob/master/README.md#requests-for-proposals) section of the Nest program README.
+
+How do I submit a Nest grant application
+- Applying for a Nest grant is as simple as opening a [new Issue](https://github.com/aragon/nest/issues/new) in this repo. 
+
+What if I’m working on something that has already applied to or been funded by the Nest program?
+- If there is an existing proposal for a grant or funded project that is close to your idea, join in the discussion of that proposal to see if your proposal could be integrated into the existing one. If not, feel free to create a new proposal.
+
 My project is for-profit. Can I still apply? 
-No, your project won’t be eligible for a Nest grant. We only fund projects that are 100% for the benefit of the Aragon ecosystem. Funding for-profit projects where Aragon does not hold equity or tokens would not be aligned the interests of ANT stakeholders. 
-You may however be interested in using Aragon Fundraising. 
+- TBD! 
+- No, your project won’t be eligible for a Nest grant. We only fund projects that are 100% for the benefit of the Aragon ecosystem. Funding for-profit projects where Aragon does not hold equity or tokens would not be aligned the interests of ANT stakeholders. You may however be interested in using [Aragon Fundraising](https://github.com/AragonBlack/fundraising). 
+
 My project will be used across other platforms in addition to Aragon. Can I still apply?
-Generally, we want the lion’s share of the reward of the project to accrue to ANT stakeholders, which means utilizing the Aragon ecosystem. We will however consider rare exceptions on a case by case basis if they are deemed of exceptional importance to the wider ecosystem. 
+- We are looking for projects that deliver value to Aragon and ANT token holders. If you feel that your project qualifies, please apply.
+
 Do you fund research?
-No. But the Aragon Community Fund DAO (CFDAO) does. 
+- No. But the [Aragon Community Fund DAO (CFDAO)](https://forum.aragon.org/t/how-to-make-proposals-to-the-community-funding-dao/697) does. 
+
 Do you provide grants to single founders?
- ? 
+- While we prefer to fund teams, overall what matters is that projects deliver value to Aragon and ANT token holders. If you feel that your project qualifies, please apply.
+ 
 Do you provide grants to non-technical projects? 
-Absolutely. Whilst most of the grants we make are technical in nature, we are equally excited to back non-technical projects that meet our grant requirements.  
+- Absolutely. Most of the grants we make are technical in nature, we are equally excited to support non-technical projects that meet our grant requirements.
+
 Do you have pre-existing Requests for Nest Projects?  
-There is an Aragon Wishlist which includes features and project ideas that community members have expressed a desire to see implemented on Aragon. Many of these are suitable to Nest Projects. 
-Application Process
+- The offical Nest program [Requests For Proposals](https://github.com/temp-nestdao/nest/blob/master/README.md#requests-for-proposals) outline the things we are the most excited about supporting. The Aragon community has also created an [Aragon Wishlist](https://forum.aragon.org/t/agp-wishlist-and-blacklist/355) that might serve as further inspiration. 
+
 How to submit a proposal for a grant?
 Create a new Proposal for grants at the Nest Repository and fill it out in detail following the Guide for submitting a proposal for grants (A Github account is required)
+
 How does the application process works?
 There are 5 stages to the grant process: 
 Submission - The information submitted on your application allows us to get a quick overview of the project to see if there is a fit
