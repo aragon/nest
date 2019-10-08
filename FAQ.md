@@ -57,6 +57,9 @@ If the amount of funding you are looking for is under USD 5,000, your project ma
 ### My project will be used across other platforms in addition to Aragon. Can I still apply?
 - We are looking for projects that deliver value to Aragon and ANT token holders. If you feel that your project qualifies, please apply.
 
+### My project is not a typical Nest grant. It has to do with providing good or services to the Aragon ecosystem. Can I still apply?
+- We are looking for projects that deliver value to Aragon and ANT token holders. If you feel that your project qualifies, please apply. If you have a project that does not fit into the framework provided, perhaps a service based proposal, we will work with you to create a custom funding roadmap. 
+
 ### Do you fund research?
 - No. But the Aragon [Community Fund DAO (CFDAO)](https://forum.aragon.org/t/how-to-make-proposals-to-the-community-funding-dao/697) does. 
 
