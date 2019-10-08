@@ -32,10 +32,12 @@ If the amount of funding you are looking for is under USD 5,000, your project ma
 - 1/3 of your grant will be delivered when you ship a production ready product
 
 ### What does Aragon get for supporting projects via the Nest program? Does it get tokens/equity from the grantees?
-- No tokens and no equity. We ask for nothing in return from the grantees outside of delivering the promised solution. 
+- It depends... We require all projects to open source their code and/or documentation. In addition:
+    - If your project is building Aragon developer tooling, user facing applications, or 3rd party integrations that do not have a value capture mechanism (fees, project token, etc...) then we will fork the repo and release it for the Aragon ecosystem to maintain. If you are interested in maintaining your project after the grant we encourage that and will provide incentives for you to do so.
+    - If your project is building an application that generates positive cash flows or captures value to a project specific token then we will request tokens and/or equity in your organization. This is handled on a case by case basis.
 
 ### Do you take board seats? 
-- No. But in order to best support projects we require relevant information concerning the ongoing status of your project.
+- Not exactly... If your project is approved we will create a DAO specifically for that project. The AA will hold Super Voting tokens in that DAO that control all permissions. We will then deposit funds to your DAO as you reach certain milestones (project approval, prototype, shipped product). Funds in this DAO will be controlled by a multisig consisting of your Nest project lead, your team lead, and your Aragon community advisor. Salaries will be paid out on a monthly basis and require a 2/3 signature. In the case that the Nest project lead, Nest project team lead, or Aragon community advisor are not acting in the best interest of the Aragon community the AA reserves the right to off-board individuals and replace them as needed. To date no one has ever been off-boarded from their project DAO. 
 
 ### When is the right time to approach Aragon for a Nest grant? 
 - We encourage projects and teams of all sizes and stages to [apply for Nest](https://github.com/aragon/nest/issues/new). This can include prototypes that are pre-launch to fully established organisations and projects that want to integrate with Aragon. The only exception is that Nest grants are not suitable for projects that are purely research related in nature. 
