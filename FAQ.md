@@ -72,6 +72,9 @@ If the amount of funding you are looking for is under USD 5,000, your project ma
 ### What kinds of proposals are most likely to get funded?  
 - The offical Nest program [Requests For Proposals](https://github.com/temp-nestdao/nest/blob/master/README.md#requests-for-proposals) outline the things we are the most excited about supporting. The Aragon community has also created an [Aragon Wishlist](https://forum.aragon.org/t/agp-wishlist-and-blacklist/355) that might serve as further inspiration. 
 
+### Are there any other requirements to recieve funding besides just building our project?
+- You will need to sign a legal agreement with the Aragon Association, use an Aragon DAO to transparently manage your funds, create a Keybase chat for your project, create a logo for your project (we can help with this), and create documentation for your project (we have templates for this), and (if your project handles private keys or has solidity code) get a security audit for your project (we can help with this). 
+
 <br>
 
 ## Application Process
