@@ -43,7 +43,7 @@ If the amount of funding you are looking for is under USD 5,000, your project ma
 ## Pre-Application
 
 ### How do I find out if my project could be eligible for a grant?
-- Check the [Request For Proposals](https://github.com/temp-nestdao/nest/blob/master/README.md#requests-for-proposals) section of the Nest program README.
+- Check the [Requests For Proposals](https://github.com/temp-nestdao/nest/blob/master/README.md#requests-for-proposals) section of the Nest program README.
 
 ### How do I submit a Nest grant application
 - Applying for a Nest grant is as simple as opening a [new Issue](https://github.com/aragon/nest/issues/new) in this repo. 
