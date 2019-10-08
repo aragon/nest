@@ -22,7 +22,7 @@ We are dedicated to helping humanity organize, coordinate, and collaborate at sc
 
 ### How much are the Nest Grants? 
 - The minimum grant size is USD 5,000 and the maximum grant size is 150,000. In addition, grantees are able to apply for a success bonus of up to 50,000 ANT. The average size of an Aragon Nest grant is USD [insert] and [insert] ANT. 
-If the amount of funding you are looking for is under USD 5,000, your project may be better suited to the [Aragon Community Fund DAO (CFDAO)](https://forum.aragon.org/t/how-to-make-proposals-to-the-community-funding-dao/697).
+If the amount of funding you are looking for is under USD 5,000, your project may be better suited to the Aragon [Community Fund DAO (CFDAO)](https://forum.aragon.org/t/how-to-make-proposals-to-the-community-funding-dao/697).
 
 ### Are Nest grants paid up front in a lump sum or distributed over milestones?
 - 1/3 of your grant will be delivered when your grant is approved
@@ -58,7 +58,7 @@ If the amount of funding you are looking for is under USD 5,000, your project ma
 - We are looking for projects that deliver value to Aragon and ANT token holders. If you feel that your project qualifies, please apply.
 
 ### Do you fund research?
-- No. But the [Aragon Community Fund DAO (CFDAO)](https://forum.aragon.org/t/how-to-make-proposals-to-the-community-funding-dao/697) does. 
+- No. But the Aragon [Community Fund DAO (CFDAO)](https://forum.aragon.org/t/how-to-make-proposals-to-the-community-funding-dao/697) does. 
 
 ### Do you provide grants to single founders?
 - While we prefer to fund teams, overall what matters is that projects deliver value to Aragon and ANT token holders. If you feel that your project qualifies, please apply.
