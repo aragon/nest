@@ -23,7 +23,6 @@ Security at the cost of usability comes at the cost of security. Aragon can buil
 
 <br>
 <hr>
-<br>
 
 We are excited to [fight for freedom](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-0.md) with you.
 
