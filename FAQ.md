@@ -52,8 +52,7 @@ If the amount of funding you are looking for is under USD 5,000, your project ma
 - If there is an existing proposal for a grant or funded project that is close to your idea, join in the discussion of that proposal to see if your proposal could be integrated into the existing one. If not, feel free to create a new proposal.
 
 ### My project is for-profit. Can I still apply? 
-- TBD! 
-- No, your project won’t be eligible for a Nest grant. We only fund projects that are 100% for the benefit of the Aragon ecosystem. Funding for-profit projects where Aragon does not hold equity or tokens would not be aligned the interests of ANT stakeholders. You may however be interested in using [Aragon Fundraising](https://github.com/AragonBlack/fundraising). 
+- Overall what matters is that projects deliver value to Aragon and ANT token holders. Projects must also be completely open source. If you feel that your project qualifies, please apply.
 
 ### My project will be used across other platforms in addition to Aragon. Can I still apply?
 - We are looking for projects that deliver value to Aragon and ANT token holders. If you feel that your project qualifies, please apply.
@@ -105,12 +104,11 @@ Your Nest lead will reach out to ask questions about your experience and what yo
 
 <br>
 
-### How long until I get feedback on my application (Stage 2: Initial Review)?
-- You can expect the requested lead to respond within 72 hours of your submission. 
+### How long until I get feedback on my application?
+- You can expect a Nest team member to respond with questions, comments, and suggestions within 72 hours of your submission. 
 
 ### How long does the entire grant process to take. 
-- For projects that successfully pass each 5 stages, we aim to complete the process within 1 month.
-Post-Application
+- The process from application to approval takes about a 1 month.
 
 ### How will the funds be released to the grantees?
 - All payments will be made in cryptocurrencies. The grants will be paid in DAI and released in portions according to the agreed roadmap (and deliverables) that the team has submitted in their proposal. A possible reward depending on total project completion will be given in ANT to reward value created for the Aragon Network and to enable the participation in the governance of the project.
