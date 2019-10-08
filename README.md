@@ -10,7 +10,7 @@ We are excited to [fight for freedom](https://github.com/aragon/AGPs/blob/master
 
 Our [Frequently Asked Questions](faqs.md) page provides details on the Aragon Nest program.
 
-If you want support building your ideas on Aragon, [**apply for Nest!**](https://github.com/aragon/nest/issues/new)
+If you want help building unstoppable organizations that empower people to freely organize with Aragon, [**apply for Nest!**](https://github.com/aragon/nest/issues/new)
 
 <br>
 
