@@ -103,3 +103,11 @@ What are the key milestones you have to accomplish before you can ship a product
 ## Notes
 
 Is there anything else you would like to share or ask us?
+
+<br>
+<hr>
+<br>
+
+Thank you for applying! A Nest team member will read and reply to this application within 72 hours. They will ask questions to better understand your project and then they will help you improve your application to maximize your success in the Nest program. If you have any questions as to what this looks like or next steps, please see our [Frequently Asked Questions](https://github.com/temp-nestdao/nest/blob/master/FAQ.md) page for more info. 
+
+Once again, thank you for applying to the Nest program. We look forward to working with you! 
