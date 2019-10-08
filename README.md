@@ -22,7 +22,8 @@ Aragon is a platform. Like all good platforms, there is room for services to be 
 Security at the cost of usability comes at the cost of security. Aragon can build the most decentralized, secure, and robust applications in the world, but does it matter if no one uses them? It is critical that the experience of contributing to, building on, and using Aragon is world class. If you have ideas on how to improve the Aragon experience, we want to talk.
 
 <br>
-<hr>
+
+## Getting Started
 
 We are excited to [fight for freedom](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-0.md) with you.
 
