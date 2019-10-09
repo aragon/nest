@@ -25,7 +25,7 @@ We are interested in supporting teams who want to build developer tooling, Arago
 ### Do you fund for-profit initiatives?
 Absolutely and these are generally our preferred types of projects to fund. A project that has a clear path to profitabilty is more sustainable long-term and will be less likely to require repeat funding from Nest. Overall what matters is that projects deliver value to Aragon and ANT token holders. Software projects must also be completely open source which can be challenging to monetise but there are numerous effective ways to do it. We've put together a resource on how to do this [here]. If you feel that your project qualifies, please apply.
 
-### Do you fund no-profit initiatives?
+### Do you fund non-profit initiatives?
 Yes. We recognise that some projects are critical to the Aragon ecosystem despite not having a clear way to monetise. Such projects are however often viewed as higher risk due to the greater challenges of sustaining the project when grant funds have been depleted. 
 
 ### I don't have a team yet. Can I still apply as a single founder?
