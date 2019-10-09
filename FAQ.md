@@ -32,7 +32,7 @@ Yes. We recognise that some projects are critical to the Aragon ecosystem despit
 While we prefer to fund teams, overall what matters is that projects deliver value to Aragon and ANT token holders. We want to encourage all individuals with brilliant ideas to apply for Nest. The fact that you don't have a team yet shouldn't stop you. If you feel that your project qualifies, please apply. If you're looking to find people to join your idea, introduce your idea in the [Aragon Forum](https://forum.aragon.org/t/agp-wishlist-and-blacklist/355).
 
 ### Do you provide grants to non-technical projects? 
-Absolutely. Most of the grants we make are technical in nature, we are equally excited to support non-technical projects that meet our grant requirements. If the project you are requesting funds for is technical however, then we would be unlikely to fund it without the relevant core technical competency within the Nest team. 
+Absolutely. Whilst most of the grants we make are technical in nature, we are equally excited to support non-technical projects that meet our grant requirements. If the project you are requesting funds for is technical however, then we would be unlikely to fund it without the relevant core technical competency within the Nest team. 
 
 ### When is the right time to approach Aragon for a Nest grant? 
 We encourage projects and teams of all sizes and stages to [apply for Nest](https://github.com/aragon/nest/issues/new). This can include prototypes that are pre-launch to fully established organisations and projects that want to integrate with Aragon.
