@@ -146,6 +146,10 @@ Yes, you will receive a standardised grantee agreement that you will be expected
 ### What if I can’t finish the project as expected?
 If you are blocked please reach out to your NestDAO lead to explain the situation and get help. 
 
+### I'm not happy with the support I am getting from Aragon. 
+If you are blocked please reach out to your NestDAO lead to explain the situation and get help. 
+
+
 ## Application technical support 
 
 ## Other & Basics  
@@ -156,6 +160,16 @@ The GitHub repository is the main source of information about the program. There
 ### I have an idea for Aragon but i don't want to build it myself. 
 The Aragon community has created a [Aragon Wishlist](https://forum.aragon.org/t/agp-wishlist-and-blacklist/355) to help seed new ideas for the ecosystem. Please share your idea there.
 
+# About Nest DAO and Nest WG 
+
+## Who are the members of Nest DAO?
+## Can I join Nest DAO as a member?
+## How are Nest DAO members paid for their activities?
+## Who decides on the Nest DAO strategy?
+## Can Nest DAO members be expelled?
+## What is the code of ethics for Nest DAO members?
+## Who are the Nest Leads?
+## What budget does Nest DAO have to invest in Nest projects? 
 
 
 
