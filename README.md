@@ -16,7 +16,7 @@ We are interested in funding the following types of projects.
 The value of Aragon as a platform increases with every application that is added to Aragon Package Manager. The number of possible DAO configurations increases exponentially with every new app that is built. If there is a cool governance or coordination mechanism that exists, we will help you build it on Aragon.
 
 ### Aragon Services
-Aragon is a platform. Like all good platforms, there is room for services to be built on top to enhance the user experience. In order to round out the feature set and utility of the Aragon platform we will help you build applications and services that use ANT to drive value to Aragon users.
+Aragon is a platform. Like all good platforms, there is room for services to be built on top. We recognise that software development is just a small part of the puzzle on the path to effective decentralised and welcome non-technical project applications. Have an idea for an Aragon sales team? Premium support? Another form of subscription services? If it's beneficial for the ANT network and good for ANT, we'll help you build it. 
 
 ### UX
 Security at the cost of usability comes at the cost of security. Aragon can build the most decentralized, secure, and robust applications in the world, but does it matter if no one uses them? It is critical that the experience of contributing to, building on, and using Aragon is world class. If you have ideas on how to improve the Aragon experience, we want to talk.
