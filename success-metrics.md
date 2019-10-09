@@ -10,7 +10,7 @@ Easy to work with
 - team is polite and professional, answers questions promptly, and is responsive to feedback
 
 Collaboration with other relevant Aragon projects/individuals (ex: if they are building synergistic products)
-- team works well with other Aragon projects to get feedback or help when neccessary
+- team works well with other Aragon projects to get feedback or help when necessary
 
 Shipped a working prototype
 - team follows through on their grant proposal to build their idea (for Aragon apps this is a Rinkeby release)
@@ -21,7 +21,7 @@ Complied with the documentation and reporting requirements
 User feedback
 - team validated prototype with real users and incorporated feedback
 
-Community 
+Community
 - team engage with users and built a community around their product
 
 Security
