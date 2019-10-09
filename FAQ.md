@@ -8,8 +8,8 @@ The Nest program exists to help teams innovate with governance at the speed of s
 
 We do this in 3 ways:
 - **Ideation:** we will help you validate and refine your ideas. This includes feedback on initial proposals as well as help understanding the Aragon stack so that you can realize your dreams on the platform.
-- **Funding:** we will provide you with capital to build out your ideas. This will be delivered in 3 phases: ⅓ up front to start work, ⅓ upon the delivery of a successful prototype, ⅓ upon shipment of a production ready product to mainnet.
-- **Support Network:** shipping is hard. Once your prototype is working, we will help you get user feedback, security audits, and legal council so that you can ship a production ready application to end users. 
+- **Funding:** we will provide you with capital to develop your ideas. For software projects, this be delivered in 3 phases: ⅓ up front to start work, ⅓ upon the delivery of a successful prototype, ⅓ upon shipment of a production ready product to mainnet. If you are working on a non-software related project, we will tailor the funding milestones to your specific case. 
+- **Operational Support:** Shipping a product is hard. Whether you're looking to make a new hire, successfully pass a security audit or market your product, we'll do our best to point you in the right direction. Whenever possible, we think you should learn from folks who have been there before and the Aragon forum is a great place to start. You can candidly ask about worries and problems, ask questions and help others with their learnings. Our incentive and remuneration model ensures that Nest teams have the entire weight and experience of the Aragon network behind them. 
 
 We are dedicated to helping humanity organize, coordinate, and collaborate at scale. Join us in fighting for freedom. Let’s buidl the future together. 
 
