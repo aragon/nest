@@ -10,6 +10,8 @@ Project description
 
 Code repo and/or website URL (if any)
 
+Where did you hear about the Nest program and what prompted you to apply?
+
 <br>
 
 ## Team
