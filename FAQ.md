@@ -68,7 +68,7 @@ If the amount of funding you are looking for is under USD 5,000, your project ma
 No. Nest accepts and funds applications on an ongoing basis all year round. There are no deadlines you need to meet to apply so just apply when you are ready. 
 
 ### My idea is expensive to build and the Nest grant won't be sufficient. 
-In this case, you can still get funding from Nest and we will work with you to instead build a great proof of concept instead of a launched product. We can also often help secure funding in other ways such as through our Flock program or through [Aragon Fundraising].
+In this case, you can still get funding from Nest and we will work with you to instead build a great proof of concept instead of a launched product. We can also often help secure funding in other ways such as through multiple Nest grants and/or [Aragon Fundraising](https://blog.aragon.black/aragon-fundraising-the-return-of-the-commons/).
 
 ### Can we apply more than once?
 Absolutely. If you already applied but the application was rejected, we strongly encourage you to apply again if you think your project has evolved materially since you last applied. Taking onboard community feedback and adapting your project and application accordingly is a strong signal. 
