@@ -15,7 +15,7 @@ We are dedicated to helping humanity organize, coordinate, and collaborate at sc
 
 <br>
 
-## General
+## Logistics 
 
 ### How do I find more information about the Nest program?
 - The GitHub repository is the main source of information about the program. There is some additional information on the [Aragon website](https://aragon.org/project/grants/).
@@ -24,19 +24,37 @@ We are dedicated to helping humanity organize, coordinate, and collaborate at sc
 - The minimum grant size is USD 5,000 and the maximum grant size is 150,000. In addition, grantees are able to apply for a success bonus of up to 50,000 ANT. The average size of an Aragon Nest grant is USD [insert] and [insert] ANT. 
 If the amount of funding you are looking for is under USD 5,000, your project may be better suited to the Aragon [Community Fund DAO (CFDAO)](https://forum.aragon.org/t/how-to-make-proposals-to-the-community-funding-dao/697).
 
+### Do you fund for-profit initiatives?
+Absolutely and these are generally our preferred types of projects to fund. A project that has a clear path to profitabilty is more sustainable long-term and will be less likely to require repeat funding from Nest. Monetising open source projects is challenging but there are numerous effective ways to do it. We've put together a resource on how to do this [here].
+
+### Do you fund no-profit initiatives?
+Yes. We recognise that some projects are critical to the Aragon ecosystem despite not having a clear way to monetise. Such projects are however often viewed as higher risk due to the greater challenges of sustaining the project when grant funds have been depleted. 
+
 ### Are Nest grants paid up front in a lump sum or distributed over milestones?
 - 1/3 of your grant will be delivered when your grant is approved
 - 1/3 of your grant will be delivered when you ship a prototype
 - 1/3 of your grant will be delivered when you ship a production ready product
 
+If your project is non-technical in nature, we will amend the funding milestones to suit your project.  
+
+
 ### What does Aragon get for supporting projects via the Nest program? Does it get tokens/equity from the grantees?
 - No tokens and no equity. We ask for nothing in return from the grantees outside of delivering the promised solution. 
 
 ### Do you take board seats? 
-- No. But in order to best support projects we require relevant information concerning the ongoing status of your project.
+- No. We do however require that grantees set up an Aragon DAO to manage their project. We think it's important that grantees effectively coordinate with the wider Aragon ecosystem. To faciliate this, we require that your Nest lead is also one of your DAO members. If there are synergistic Aragon projects that we think you think should be tightly collaborating with, we may also insist that members for these projects are included in your Aragon DAO. 
+
+### Do you require us to make monthly updates?  
+Yes. In order to best support projects we require relevant information concerning the ongoing status of your project. Your Nest lead will work with you to put together this information each month. It's designed to be non-burdensome, comprised of information that you should be tracking any way. We ask that you publish this information on the Nest blog at the end of each month to create transparency with the Aragon community. 
 
 ### When is the right time to approach Aragon for a Nest grant? 
-- We encourage projects and teams of all sizes and stages to [apply for Nest](https://github.com/aragon/nest/issues/new). This can include prototypes that are pre-launch to fully established organisations and projects that want to integrate with Aragon. The only exception is that Nest grants are not suitable for projects that are purely research related in nature. 
+- We encourage projects and teams of all sizes and stages to [apply for Nest](https://github.com/aragon/nest/issues/new). This can include prototypes that are pre-launch to fully established organisations and projects that want to integrate with Aragon.
+
+### Our team has multiple ideas. Can we submit all of them?
+Yes but not at the same time. You need to submit each idea individually so that it can be assessed on it's individual merit.
+
+### Would you fund multiple projects working on the same idea?
+Generally not. Although there may be a limited number of edge cases where the gravity of the problems they are intending to solve are so important for the Aragon ecosystem that we deem it necessary to fund competing ideas and projects. 
 
 <br>
 
@@ -77,7 +95,7 @@ If the amount of funding you are looking for is under USD 5,000, your project ma
 
 <br>
 
-## Application Process
+## Grant Application Process
 
 ### Submitting an application
 - To submit an application to the Nest program open a [new Issue](https://github.com/aragon/nest/issues/new) in the Aragon Nest repo.
@@ -111,10 +129,10 @@ Your Nest lead will reach out to ask questions about your experience and what yo
 <br>
 
 ### How long until I get feedback on my application?
-- You can expect a Nest team member to respond with questions, comments, and suggestions within 72 hours of your submission. 
+- We aim for a Nest team member to respond with questions, comments, and suggestions within 72 hours of your submission. 
 
 ### How long does the entire grant process to take. 
-- The process from application to approval takes about a 1 month.
+- The process from application to approval takes about 1 month.
 
 ### How will the funds be released to the grantees?
 - All payments will be made in cryptocurrencies. The grants will be paid in DAI and released in portions according to the agreed roadmap (and deliverables) that the team has submitted in their proposal. A possible reward depending on total project completion will be given in ANT to reward value created for the Aragon Network and to enable the participation in the governance of the project.
@@ -130,6 +148,8 @@ Your Nest lead will reach out to ask questions about your experience and what yo
 - ⅓ upon approval
 - ⅓ upon delivery of a working prototype
 - ⅓ upon delivery of a finished product
+
+If your project is non-technical in nature, we will amend the funding milestones to suit your project.  
 
 ### What if I can’t finish the project as expected?
 - If you are blocked please reach out to your NestDAO lead to explain the situation and get help. 
