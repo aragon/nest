@@ -50,51 +50,51 @@ We are looking for projects that deliver value to Aragon and ANT token holders. 
 No. But the Aragon [Community Fund DAO (CFDAO)](https://forum.aragon.org/t/how-to-make-proposals-to-the-community-funding-dao/697) does. 
 
 ### My project will be used across other platforms in addition to Aragon. Can I still apply?
-- We are looking for projects that deliver value to Aragon and ANT token holders. If you feel that your project qualifies, please apply.
+We are looking for projects that deliver value to Aragon and ANT token holders. If you feel that your project qualifies, please apply.
 
 ## Logistics
 
 ### How do I submit a Nest grant application
-- Applying for a Nest grant is as simple as opening a [new Issue](https://github.com/aragon/nest/issues/new) in this repo. 
+Applying for a Nest grant is as simple as opening a [new Issue](https://github.com/aragon/nest/issues/new) in this repo. 
 
 ### What if I’m working on something that has already applied to or been funded by the Nest program?
-- If there is an existing proposal for a grant or funded project that is close to your idea, join in the discussion of that proposal to see if your proposal could be integrated into the existing one. If not, feel free to create a new proposal.
+If there is an existing proposal for a grant or funded project that is close to your idea, join in the discussion of that proposal to see if your proposal could be integrated into the existing one. If not, feel free to create a new proposal.
 
 ### How much are the Nest Grants? 
-- The minimum grant size is USD 5,000 and the maximum grant size is 150,000. In addition, grantees are able to apply for a success bonus of up to 50,000 ANT. The average size of an Aragon Nest grant is USD [insert] and [insert] ANT. 
+The minimum grant size is USD 5,000 and the maximum grant size is 150,000. In addition, grantees are able to apply for a success bonus of up to 50,000 ANT. The average size of an Aragon Nest grant is USD [insert] and [insert] ANT. 
 If the amount of funding you are looking for is under USD 5,000, your project may be better suited to the Aragon [Community Fund DAO (CFDAO)](https://.aragon.org/t/how-to-make-proposals-to-the-community-funding-dao/697).
 
 ### Does Nest work in batches/recurring programs like Accelerators? 
-- No. Nest accepts and funds applications on an ongoing basis all year round. There are no deadlines you need to meet to apply so just apply when you are ready. 
+No. Nest accepts and funds applications on an ongoing basis all year round. There are no deadlines you need to meet to apply so just apply when you are ready. 
 
 ### My idea is expensive to build and the Nest grant won't be sufficient. 
-- In this case, you can still get funding from Nest and we will work with you to instead build a great proof of concept instead of a launched product. We can also often help secure funding in other ways such as through our Flock program or through [Aragon Fundraising].
+In this case, you can still get funding from Nest and we will work with you to instead build a great proof of concept instead of a launched product. We can also often help secure funding in other ways such as through our Flock program or through [Aragon Fundraising].
 
 ### Can we apply more than once?
-- Absolutely. If you already applied but the application was rejected, we strongly encourage you to apply again if you think your project has evolved materially since you last applied. Taking onboard community feedback and adapting your project and application accordingly is a strong signal. 
+Absolutely. If you already applied but the application was rejected, we strongly encourage you to apply again if you think your project has evolved materially since you last applied. Taking onboard community feedback and adapting your project and application accordingly is a strong signal. 
 
 
 ## Timing
 
 ### How long until I get feedback on my application?
-- We aim for a Nest team member to respond with questions, comments, and suggestions within 72 hours of your submission. 
+We aim for a Nest team member to respond with questions, comments, and suggestions within 72 hours of your submission. 
 
 ### How long does the entire grant process to take. 
-- The process from application to approval takes about 1 month.
+The process from application to approval takes about 1 month.
 
 ## Grant Application Process
 
 ### Submitting an application
-- To submit an application to the Nest program open a [new Issue](https://github.com/aragon/nest/issues/new) in the Aragon Nest repo.
+To submit an application to the Nest program open a [new Issue](https://github.com/aragon/nest/issues/new) in the Aragon Nest repo.
 
 ### Nest lead review
-- A NestDAO team member will tag your proposal as "under reivew." They will then ask questions to better understand your goals. During this intial interview suggestions may be provided improvements to increase the success of your proposal. The GitHub Issue for your proposal is where the majority of conversations around your application should happen. 
+A NestDAO team member will tag your proposal as "under reivew." They will then ask questions to better understand your goals. During this intial interview suggestions may be provided improvements to increase the success of your proposal. The GitHub Issue for your proposal is where the majority of conversations around your application should happen. 
 
 ### NestDAO lead approval
-- Once questions have been answered and feedback has been incorporated, a NestDAO team member will “lead” your proposal. They will signal this by assigning the Issue to themselves in the nest GitHub repo. This NestDAO member is now your primary point of contact throughout the Nest program. It is their job to support, fight for, and ensure the success of your project in the Nest program. Your NestDAO lead will then create a due diligence report based on the size of the grant you're requesting and they will then publish that report as a comment in your proposal Issue. This will involve a call where the Nest lead can get to know you and ask questions. Yur Nest lead will then present your due diligence report along with your proposal to the NestDAO Working Group at the next NestDAO meeting. Your NestDAO lead will then explain why this proposal is a good fit for the Nest program, the value it will provide to Aragon, and why the Nest program should fund it.  
+Once questions have been answered and feedback has been incorporated, a NestDAO team member will “lead” your proposal. They will signal this by assigning the Issue to themselves in the nest GitHub repo. This NestDAO member is now your primary point of contact throughout the Nest program. It is their job to support, fight for, and ensure the success of your project in the Nest program. Your NestDAO lead will then create a due diligence report based on the size of the grant you're requesting and they will then publish that report as a comment in your proposal Issue. This will involve a call where the Nest lead can get to know you and ask questions. Yur Nest lead will then present your due diligence report along with your proposal to the NestDAO Working Group at the next NestDAO meeting. Your NestDAO lead will then explain why this proposal is a good fit for the Nest program, the value it will provide to Aragon, and why the Nest program should fund it.  
 
 ### NestDAO WG approval
-- When proposals are presented at NestDAO WG meetings members can ask your Nest lead questions, request changes to your proposal, and/or reject or approve your proposal. The results of this discussion will be shared with you as a comment in your proposal's GitHub Issue by your Nest lead. For transparency and auditability this feedback needs to be delivered to the applicants as a comment in the original proposal Issue. This Issue is where the majority of conversations around the application should happen. 
+When proposals are presented at NestDAO WG meetings members can ask your Nest lead questions, request changes to your proposal, and/or reject or approve your proposal. The results of this discussion will be shared with you as a comment in your proposal's GitHub Issue by your Nest lead. For transparency and auditability this feedback needs to be delivered to the applicants as a comment in the original proposal Issue. This Issue is where the majority of conversations around the application should happen. 
 - If you need to incorporate feedback or make changes, you will be able to do so. After relaying feedback to you, your Nest lead will follow up to ensure that you have everything you need to make the appropriate changes. Once you have done so, you can post a comment to let them know (using the @ feature on GitHub). Your Nest lead will then present your updated application to the NestDAO WG at the next meeting.
 - If your project is approved, your Nest lead will tag your proposal Issue as `approved` and `in development`. Your Nest lead will then coordinate with you to provide the appropriate legal documents for you to formally receive the first 1/3 of your grant funding. 
 
@@ -126,24 +126,19 @@ In the case of non-profit projects, we ask for nothing in return from the grante
 If your project is non-technical in nature, we will amend the funding milestones to suit your project.  
 
 ### Do you take board seats? 
-- No. We do however require that grantees set up an Aragon DAO to manage their project. We think it's important that grantees effectively coordinate with the wider Aragon ecosystem. To faciliate this, we require that your Nest lead is also one of your DAO members. If there are synergistic Aragon projects that we think you think should be tightly collaborating with, we may also insist that members for these projects are included in your Aragon DAO. 
+No. We do however require that grantees set up an Aragon DAO to manage their project. We think it's important that grantees effectively coordinate with the wider Aragon ecosystem. To faciliate this, we require that your Nest lead is also one of your DAO members. If there are synergistic Aragon projects that we think you think should be tightly collaborating with, we may also insist that members for these projects are included in your Aragon DAO. 
 
 ### Do you require us to make monthly updates?  
 Yes. In order to best support projects we require relevant information concerning the ongoing status of your project. Your Nest lead will work with you to put together this information each month. It's designed to be non-burdensome, comprised of information that you should be tracking any way. We ask that you publish this information on the Nest blog at the end of each month to create transparency with the Aragon community. 
 
 ### Are there any other requirements to recieve funding besides just building our project?
-- You will need to sign a legal agreement with the Aragon Association, use an Aragon DAO to transparently manage your funds, create a Keybase chat for your project, create a logo for your project (we can help with this), and create documentation for your project (we have templates for this), and (if your project handles private keys or has solidity code) get a security audit for your project (we can help with this). 
+You will need to sign a legal agreement with the Aragon Association, use an Aragon DAO to transparently manage your funds, create a Keybase chat for your project, create a logo for your project (we can help with this), and create documentation for your project (we have templates for this), and (if your project handles private keys or has solidity code) get a security audit for your project (we can help with this). 
 
 ### How will the funds be released to the grantees?
-- All payments will be made in cryptocurrencies. The grants will be paid in DAI and released in portions according to the agreed roadmap (and deliverables) that the team has submitted in their proposal. A possible reward depending on total project completion will be given in ANT to reward value created for the Aragon Network and to enable the participation in the governance of the project.
+All payments will be made in cryptocurrencies. The grants will be paid in DAI and released in portions according to the agreed roadmap (and deliverables) that the team has submitted in their proposal. A possible reward depending on total project completion will be given in ANT to reward value created for the Aragon Network and to enable the participation in the governance of the project.
 
 ### Do you have standard legal documents that you use between Aragon Association and the Nest team? 
-- Yes, you will receive a standardised grantee agreement that you will be expected to sign. You can click here to [view a template of this legal agreement](nest-agreement.md).
-
-## Working with us
-
-
-## Application technical support 
+Yes, you will receive a standardised grantee agreement that you will be expected to sign. You can click here to [view a template of this legal agreement](nest-agreement.md).
 
 
 ## Post-funding
@@ -151,7 +146,7 @@ Yes. In order to best support projects we require relevant information concernin
 ### What if I can’t finish the project as expected?
 - If you are blocked please reach out to your NestDAO lead to explain the situation and get help. 
 
-<br>
+## Application technical support 
 
 ## Other & Basics  
 
