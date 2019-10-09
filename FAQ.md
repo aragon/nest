@@ -83,6 +83,8 @@ We aim for a Nest team member to respond with questions, comments, and suggestio
 ### How long does the entire grant process to take. 
 The process from application to approval takes about 1 month.
 
+<br>
+
 ## Grant Application Process
 
 ### Submitting an application
