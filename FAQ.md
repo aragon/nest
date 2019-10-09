@@ -41,7 +41,7 @@ We encourage projects and teams of all sizes and stages to [apply for Nest](http
 Yes but not at the same time. You need to submit each idea individually so that it can be assessed on it's individual merit.
 
 ### Would you fund multiple projects working on the same idea?
-Generally not. Although there may be a limited number of edge cases where the gravity of the problems they are intending to solve are so important for the Aragon ecosystem that we deem it necessary to fund competing ideas and projects. We recommened that you take a look at the [Nest portfolio] to check if there are any overlaps.
+Generally not. Although there may be a limited number of edge cases where the gravity of the problems the projects are intending to solve are so important for the Aragon ecosystem that we deem it necessary to fund competing ideas and projects. We recommened that you take a look at the [Nest portfolio] to check if there are any overlaps.
 
 ### My project is not a typical Nest grant. It has to do with providing good or services to the Aragon ecosystem. Can I still apply?
 We are looking for projects that deliver value to Aragon and ANT token holders. If you feel that your project qualifies, please apply. If you have a project that does not fit into the framework provided, perhaps a service based proposal, we will work with you to create a custom funding roadmap. 
