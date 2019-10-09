@@ -140,10 +140,10 @@ If your project is non-technical in nature, we will amend the funding milestones
 No. We do however require that grantees set up an Aragon DAO to manage their project. We think it's important that grantees effectively coordinate with the wider Aragon ecosystem. To faciliate this, we require that your Nest lead is also one of your DAO members. If there are synergistic Aragon projects that we think you think should be tightly collaborating with, we may also insist that members for these projects are included in your Aragon DAO. The Aragon Association will therefore have necessary permissions to add and remove members from the Aragon DAO as it deems necessary. A multi-signature signing requirement with the Association being one of the parties will be used to ensure funds are spent responsibly and in accordance with the interests of ANT holders. 
 
 ### Do you require us to make monthly updates?  
-Yes. In order to best support projects we require relevant information concerning the ongoing status of your project. Your Nest lead will work with you to put together this information each month. It's designed to be non-burdensome, comprised of information that you should be tracking any way. We ask that you publish this information on the Nest blog at the end of each month to create transparency with the Aragon community. 
+Yes. In order to best support projects we require relevant information concerning the ongoing status of your project. Your Nest lead will work with you to put together this information each month. It's designed to be non-burdensome, comprised of information that you should be tracking any way. Your Nest lead will publish this information on the Nest blog at the end of each month to create transparency with the Aragon community. 
 
 ### Are there any other requirements to recieve funding besides just building our project?
-You will need to sign a legal agreement with the Aragon Association, use an Aragon DAO to transparently manage your funds, create a Keybase chat for your project, create a logo for your project (we can help with this), and create documentation for your project (we have templates for this), and (if your project handles private keys or has solidity code) get a security audit for your project (we can help with this). 
+You will need to sign a legal agreement with the Aragon Association, use an Aragon DAO to transparently manage your funds, create a Keybase chat for your project, create a logo for your project (we can help with this), and create documentation for your project (we have templates for this), and (if your project handles private keys or has solidity code) get a security audit for your project (we have a security partner who handles this). 
 
 ### How will the funds be released to the grantees?
 All payments will be made in cryptocurrencies. The grants will be paid in DAI and released in portions according to the agreed roadmap (and deliverables) that the team has submitted in their proposal. A possible reward depending on total project completion will be given in ANT to reward value created for the Aragon Network and to enable the participation in the governance of the project.
@@ -164,6 +164,9 @@ If you are blocked please reach out to your NestDAO lead to explain the situatio
 <br>
 
 ## Application technical support 
+
+If you stil have questions or are not sure how to submit your application, please reachout out to the Nest Working Group on the Aragon Rocket chat.
+- https://aragon.chat/channel/wg-nest
 
 <br>
 
