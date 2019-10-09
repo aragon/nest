@@ -35,7 +35,7 @@ While we prefer to fund teams, overall what matters is that projects deliver val
 Absolutely. Most of the grants we make are technical in nature, we are equally excited to support non-technical projects that meet our grant requirements. If the project you are requesting funds for is technical however, then we would be unlikely to fund it without the relevant core technical competency within the Nest team. 
 
 ### When is the right time to approach Aragon for a Nest grant? 
-- We encourage projects and teams of all sizes and stages to [apply for Nest](https://github.com/aragon/nest/issues/new). This can include prototypes that are pre-launch to fully established organisations and projects that want to integrate with Aragon.
+We encourage projects and teams of all sizes and stages to [apply for Nest](https://github.com/aragon/nest/issues/new). This can include prototypes that are pre-launch to fully established organisations and projects that want to integrate with Aragon.
 
 ### Our team has multiple ideas. Can we submit all of them?
 Yes but not at the same time. You need to submit each idea individually so that it can be assessed on it's individual merit.
@@ -144,14 +144,14 @@ Yes, you will receive a standardised grantee agreement that you will be expected
 ## Post-funding
 
 ### What if I can’t finish the project as expected?
-- If you are blocked please reach out to your NestDAO lead to explain the situation and get help. 
+If you are blocked please reach out to your NestDAO lead to explain the situation and get help. 
 
 ## Application technical support 
 
 ## Other & Basics  
 
 ### How do I find more information about the Nest program?
-- The GitHub repository is the main source of information about the program. There is some additional information on the [Aragon website](https://aragon.org/project/grants/).
+The GitHub repository is the main source of information about the program. There is some additional information on the [Aragon website](https://aragon.org/project/grants/).
 
 ### I have an idea for Aragon but i don't want to build it myself. 
 The Aragon community has created a [Aragon Wishlist](https://forum.aragon.org/t/agp-wishlist-and-blacklist/355) to help seed new ideas for the ecosystem. Please share your idea there.
