@@ -13,17 +13,29 @@ I (Caner Sevince) personally worked in couple projects in blockchain space but n
 How is this project works?
 
 1 Musician pays subscription cost to Bitrophone using $ANT (from various subscription options).
+
 2 Musician gets “Subscriber” account title after network confirmation.
+
 3 Musician gets rights to upload song & audios & artwork.
+
 4 Uploaded song & audios & artwork goes to conversion in order to get high quality & compressed files as the music stores want.
+
 5 Bitrophone delivers uploaded content to music stores such as Spotify, iTunes, Deezer, Youtube, Google Play Music and Bitrophone Music App.
+
 6 Stores verify and check for any copyright issues.
+
 7 Accepted songs will be released on platforms.
+
 8 Stores deliver stream reports every 2-3 months.
+
 9 With the royalty earning reports come from stores, Bitrophone buys $ANT from exchanges.
+
 10 Musicians will be able to withdraw their earnings from Bitrophone(9↑) website.
+
 11 Every 6th month Bitrophone buys $ANT with %50 of the profit made from subscribed users.
+
 12 Service users and musicians of community gets promoted by our curators in our website & blogs.
+
 
 
 
