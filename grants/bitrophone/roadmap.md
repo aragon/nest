@@ -59,37 +59,67 @@ Basic level of project
 The basics of project, basic functions for website & ui & setting up forum, payment system, account levels
 
 Translation of docs
+
 Getting social media handles & setting up project servers on discord & slack etc..
+
 Getting domain and hostings
+
 Logo design
+
 Landing Page
+
 Designing UI
+
 Creating a forum for users on Bitrophone website
+
 Functions for cloud and user database
+
 Start posting blogs about $ANT and Bitrophone on social media pages
+
 Encrypting uploaded files in PHP
+
 Control Panel for staff
+
 Automation for upcoming reports from music stores
+
 Upload panel for users
+
 Integrating website with cloud server
+
 Implementing file conversion methods that stores wants to music be converted
+
 Support & Live Support Panel
+
 Mobile App for tracking stats & sales & current state of uploaded songs
+
 Turkish / Italian / Portuguese / German / Chinese localization of website and app
+
 Customizable Artist Pages 
+
 Newsfeed / New Releases Tab / Artist Blogs
+
 WebSocket support
+
 API keys for 3rd apps
+
 Documentation for protocols, license agreement
-Maximum optimization of channel creation and operation
-Seamless transition between channels(when money runs out)
+
+Maximum optimization of artist creation and operation
+
 Website with documentation and examples
-A realtime HTML5-enabled client(pc/android/ios) to interact with control panel, move funds without private keys.
+
+A realtime HTML5-enabled client(pc/android/ios) to interact with control panel, move funds without private keys
+
 Android / IOS apps for tracking account
+
 Client. Managing devices balances, list of them and transaction confirmation
+
 Test runs
+
 Bug detection
+
 Bug fixing
+
 This phase is mostly for a clean website with no bugs & perfect to release.
 
 
@@ -101,13 +131,20 @@ Pro-Level
 After everything completed in development side, we will need to have distribution rights. We will mostly use our funding for this stage.
 
 Provide a Registered Agent
+
 Establish a legal company to have music distribution rights.
+
 Tax Plate
+
 Marketing with local musicians & social media influencers
+
 Open a TR Merchant Account 
+
 Open a Bank Account For Company in TR (Turkey)
+
 Have an office for team
-so everything needed to have rights for legal music distribution.
+
+mostly getting everything needed to have rights for legal music distribution.
 
 
 
