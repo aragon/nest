@@ -36,7 +36,7 @@ Absolutely. Whilst most of the grants we make are technical in nature, we are eq
 We encourage projects and teams of all sizes and stages to [apply for Nest](https://github.com/aragon/nest/issues/new). This can include prototypes that are pre-launch to fully established organisations and projects that want to integrate with Aragon.
 
 ### Our team has multiple ideas. Can we submit all of them?
-Yes but not at the same time. You need to submit each idea individually so that it can be assessed on it's individual merit.
+Yes, but you need to submit each idea individually so that it can be assessed on it's individual merit.
 
 ### Would you fund multiple projects working on the same idea?
 Generally not. Although there may be a limited number of edge cases where the gravity of the problems the projects are intending to solve are so important for the Aragon ecosystem that we deem it necessary to fund competing ideas and projects. We recommened that you take a look at the [Nest portfolio] to check if there are any overlaps.
