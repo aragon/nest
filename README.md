@@ -29,6 +29,8 @@ We look forward to [fight for freedom](https://github.com/aragon/AGPs/blob/maste
 
 Our [Frequently Asked Questions](FAQ.md) page provides details on the Aragon Nest program. If you have further questions, please reach out to our public Aragon Chat [#wg-nest](https://aragon.chat/channel/wg-nest).
 
-If you want help building unstoppable organizations that empower people to freely organize with Aragon, [**apply for Nest!**](https://github.com/temp-nestdao/nest/issues/new)
+If you want help building unstoppable organizations that empower people to freely organize with Aragon,
+
+### [**Apply for Nest!**](https://github.com/temp-nestdao/nest/issues/new)
 
 <br>
