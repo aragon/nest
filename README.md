@@ -27,7 +27,7 @@ Security at the cost of usability comes at the cost of security. Aragon can buil
 
 We look forward to [fight for freedom](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-0.md) with you.
 
-Our [Frequently Asked Questions](FAQ.md) page provides details on the Aragon Nest program.
+Our [Frequently Asked Questions](FAQ.md) page provides details on the Aragon Nest program. If you have further questions, please reach out to our public Aragon Chat [#wg-nest](https://aragon.chat/channel/wg-nest).
 
 If you want help building unstoppable organizations that empower people to freely organize with Aragon, [**apply for Nest!**](https://github.com/temp-nestdao/nest/issues/new)
 
