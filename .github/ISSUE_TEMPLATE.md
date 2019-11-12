@@ -1,38 +1,115 @@
-_See the [Guide for submitting a proposal for grants](https://github.com/aragon/nest/blob/master/Guide_for_submitting_a_proposal_for_grants.md) for further details on submitting a grant proposal_
+# Nest Program Proposal Template
 
-# Aragon Nest Proposal: Eagles on the blockchain
+<br>
 
-## Abstract
+## About
 
-Eagles are beautiful animals, but as of now they are not represented by tokens, like the kitties are.
+Project name
 
-This can be solved by CryptoEagles, which enables the trading of virtual eagles you can feed and watch grow. CryptoEagles enhances the Ethereum ecosystem by creating thousands of transactions that will totally collapse it, and it also enhances the Aragon ecosystem by having cute eagles everywhere, some of them which would really resemble Aragon's logo.
+Project description
 
-## Deliverables
+Code repo and/or website URL (if any)
 
-1. An [ERC721](https://github.com/ethereum/eips/issues/721)-compatible token interface to represent non-fungible resources (the eagles)
-2. A set of AragonOS-compatible smart contracts to feed them with multiple tokens, with the contracts burning them afterwards
-3. A web interface to let users interact with the eagles, collect and trade them as they see fit
+Where did you hear about the Nest program and what prompted you to apply?
 
-## Grant size
+<br>
 
-Funding: Up to $150k in DAI, split into chunks paid out over achieved deliverables.
+## Team
 
-Success reward: Up to 30k ANT, given out when all deliverables are ready.
+Name of the project lead
 
-## Application requirements
+Email address of the project lead (whoever is filling out this application)
 
-- Proof of concept of the smart contracts for the ERC721-compatible token. Alternatively, a whitepaper researching the implementation of the whole protocol
-- Details of the team members, alongside with their willingness in terms of implication
-- Estimated average burn rate for completing the deliverables
-- Legal structure to be adopted, if any
+List each other member that is/would be working on this project (LinkedIn/GitHub profiles are preferred but not required)
 
-## Development timeline
+What are the main roles of each team member?
 
-The development timeline will be the following one in regards to each deliverable:
+Has the team already worked together? (please provide details)
 
-1. Jan 2019
-2. Feb 2019
-3. Apr 2019
+Is your team already present on the Aragon Forum? If Yes, what are your usernames?
 
-Testnet launch will be expected during March 2019, with mainnet launch being June 2019
+<br>
+
+## Progress
+
+How far along are you?
+
+Is anyone using your product/application?
+
+If yes, How many active users do you have and what kind of feedback have you received?
+
+If you've applied previously with the same idea, how much progress have you made since the last time you applied? What has changed?
+
+<br>
+
+## Idea Problem
+
+Why did you pick this idea to work on? Do you have domain expertise in this area?
+
+What's new about what you're making? What do people resort to because it doesn't exist yet (or they don't know about it)?
+
+Have you talked to people about what you're making? Do people want it and do you have examples of this?
+
+<br>
+
+## Market
+
+What is the target market or end user in mind for this project?
+
+What are the alternatives or competitors to this project?
+
+How will this project get users? If your project is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users until it has a lot of users (e.g. a marketplace), how will you overcome that?
+
+<br>
+
+## Legal
+
+Will you be using an Aragon DAO for operating this project and receiving the funds? Yes/No
+
+Are any of the project team members covered by non-competes or intellectual property agreements that overlap with your project? If so, please explain.
+
+<br>
+
+## Aragon
+
+Why do you think Aragon is a good fit for this project?
+
+Are there any existing Aragon projects that are similar or complementary to your project?
+
+<br>
+
+## Funding
+
+How much money are you requesting as a grant? (the maximum grant size we provide is $150k in USD value)
+
+Have you already received any grants or funds from 3rd parties? If yes, how much?
+
+Are you applying for funding to any other DAO platforms or grant programs? If so, that is not a problem as it increases the likelihood of your success, but it's important that we can take that into consideration if your project relies on multiple grants.
+
+How do you plan to deploy grant funds? (split between research/development/marketing/etc)
+
+What is your expected monthly burn rate?
+
+Do you think this project will require additional funds once you have depleted the grant funds? If so, why? Where do you plan on acquiring further funding?
+
+<br>
+
+## Roadmap
+
+How long do you plan on working on this project before shipping?
+
+What are the key milestones you have to accomplish before you can ship a production ready product to users?
+
+<br>
+
+## Notes
+
+Is there anything else you would like to share or ask us?
+
+<br>
+<hr>
+<br>
+
+Thank you for applying! A Nest team member will read and reply to this application within 72 hours. They will ask questions to better understand your project and then they will help you improve your application to maximize your success in the Nest program. If you have any questions as to what this looks like or next steps, please see our [Frequently Asked Questions](https://github.com/temp-nestdao/nest/blob/master/FAQ.md) page for more info.
+
+Once again, thank you for applying to the Nest program. We look forward to working with you!
