@@ -109,6 +109,9 @@ All payments will be made in cryptocurrencies. The grants will be paid in DAI an
 ### Do you have standard legal documents that you use between Aragon Association and the Nest team? 
 Yes, you will receive a standardised grantee agreement that you will be expected to sign. You can click here to [view a template of this legal agreement](nest-agreement.md).
 
+### Do I need a legal entity to receive the Nest grant? 
+Yes, Aragon Asssociation can only make grants to legally recognisied entities, according to the accounting and tax regulations of Switzerland. If using a DAO, this DAO will therefore require a legal wrapper such as an LLC.  
+
 <br>
 
 ## Post-funding
