@@ -10,16 +10,9 @@ If you are interested in joining us on this mission, the Nest program will help 
 
 ## Requests For Proposals
 
-We are interested in funding the following types of projects.
+The Nest program is currently only accepting RFPs. If you see an [RFP in the Nest Issues](https://github.com/aragon/nest/issues?q=is%3Aissue+is%3Aopen+label%3ARFP) you are encouraged to create a new Issue to apply for that RFP. 
 
-### Aragon Apps
-The value of Aragon as a platform increases with every application that is added to Aragon Package Manager. The number of possible DAO configurations increases exponentially with every new app that is built. If there is a cool governance or coordination mechanism that exists, we will help you build it on Aragon.
-
-### Aragon Services
-Aragon is a platform. Like all good platforms, there is room for services to be built on top. We recognise that software development is just a small part of the puzzle on the path to effective decentralisation and welcome non-technical project applications. Have an idea for an Aragon sales team? Premium support? A subscription service? If it's beneficial for the ANT network and good for ANT, we will help you build it.
-
-### UX
-Security at the cost of usability comes at the cost of security. Aragon can build the most decentralized, secure, and robust applications in the world, but does it matter if no one uses them? It is critical that the experience of contributing to, building on, and using Aragon is world class. If you have ideas on how to improve the Aragon experience, we want to talk.
+If you would like to submit an application that is not related to an RFP, please start a discussion on the [Aragon Community Forum in the Nest category](https://forum.aragon.org/c/community/nest).
 
 <br>
 
@@ -29,7 +22,7 @@ We look forward to [fighting for freedom](https://github.com/aragon/AGPs/blob/ma
 
 Our [Frequently Asked Questions](FAQ.md) page provides details on the Nest program.
 
-If you have further questions, please reach out to our public Aragon Chat [#wg-nest](https://aragon.chat/channel/wg-nest).
+If you have further questions, please reach out via the Aragon Community Forum in the [Nest](https://forum.aragon.org/c/community/nest) category.
 
 <br>
 
