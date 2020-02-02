@@ -18,16 +18,16 @@ We are dedicated to helping humanity organize, coordinate, and collaborate at sc
 ## Eligibility
 
 ### Is my project eligible?
-We are interested in supporting teams who want to build developer tooling, Aragon applications, and Aragon ecosystem services that enable the network to expand and flourish. Check the [Requests For Proposals](https://github.com/temp-nestdao/nest/blob/master/README.md#requests-for-proposals) for more information. 
+We are interested in supporting teams who want to build developer tooling, Aragon applications, and Aragon ecosystem services that enable the network to expand and flourish. Check the [Requests For Proposals](https://github.com/aragon/nest/issues?q=is%3Aissue+is%3Aopen+label%3ARFP) for more information. 
 
 ### Do you fund for-profit initiatives?
-Absolutely and these are generally our preferred types of projects to fund. A project that has a clear path to profitabilty is more sustainable long-term and will be less likely to require repeat funding from Nest. Overall what matters is that projects deliver value to Aragon and ANT token holders. Software projects must also be completely open source which can be challenging to monetise but there are numerous effective ways to do it. We've put together a resource on how to do this [here]. If you feel that your project qualifies, please apply.
+Absolutely and these are generally our preferred types of projects to fund. A project that has a clear path to profitabilty is more sustainable long-term and will be less likely to require repeat funding from Nest. Overall what matters is that projects deliver value to Aragon and ANT token holders. Software projects must also be completely open source which can be challenging to monetise but there are numerous effective ways to do it. If you feel that your project qualifies, please apply.
 
 ### Do you fund non-profit initiatives?
 Yes. We recognise that some projects are critical to the Aragon ecosystem despite not having a clear way to monetise. Such projects are however often viewed as higher risk due to the greater challenges of sustaining the project when grant funds have been depleted. 
 
 ### I don't have a team yet. Can I still apply as a single founder?
-While we prefer to fund teams, overall what matters is that projects deliver value to Aragon and ANT token holders. We want to encourage all individuals with brilliant ideas to apply for Nest. The fact that you don't have a team yet shouldn't stop you. If you feel that your project qualifies, please apply. If you're looking to find people to join your idea, introduce your idea in the [Aragon Forum](https://forum.aragon.org/t/agp-wishlist-and-blacklist/355).
+While we prefer to fund teams, overall what matters is that projects deliver value to Aragon and ANT token holders. We want to encourage all individuals with brilliant ideas to apply for Nest. The fact that you don't have a team yet shouldn't stop you. If you feel that your project qualifies, please apply. If you're looking to find people to join your idea, introduce your idea in the [Aragon Forum](https://forum.aragon.org/c/community/nest).
 
 ### Do you provide grants to non-technical projects? 
 Absolutely. Whilst most of the grants we make are technical in nature, we are equally excited to support non-technical projects that meet our grant requirements. If the project you are requesting funds for is technical however, then we would be unlikely to fund it without the relevant core technical competency within the Nest team. 
@@ -39,7 +39,7 @@ We encourage projects and teams of all sizes and stages to [apply for Nest](http
 Yes, but you need to submit each idea individually so that it can be assessed on it's individual merit.
 
 ### Would you fund multiple projects working on the same idea?
-Generally not. Although there may be a limited number of edge cases where the gravity of the problems the projects are intending to solve are so important for the Aragon ecosystem that we deem it necessary to fund competing ideas and projects. We recommened that you take a look at the [Nest portfolio] to check if there are any overlaps.
+Generally not. Although there may be a limited number of edge cases where the gravity of the problems the projects are intending to solve are so important for the Aragon ecosystem that we deem it necessary to fund competing ideas and projects. We recommened that you take a look at the [Nest portfolio](https://github.com/aragon/nest/tree/master/grants) to check if there are any overlaps.
 
 ### My project is not a typical Nest grant. It has to do with providing goods or services to the Aragon ecosystem. Can I still apply?
 We are looking for projects that deliver value to Aragon and ANT token holders. If you feel that your project qualifies, please apply. If you have a project that does not fit into the framework provided, perhaps a service based proposal, we will work with you to create a custom funding roadmap. 
@@ -126,8 +126,7 @@ If you are blocked please reach out to your NestDAO lead to explain the situatio
 
 ## Application technical support 
 
-If you stil have questions or are not sure how to submit your application, please reachout out to the Nest Working Group on the Aragon Rocket chat.
-- https://aragon.chat/channel/wg-nest
+If you stil have questions or are not sure how to submit your application, please reach out via the [Aragon Community Forum](https://forum.aragon.org/c/community/nest).
 
 <br>
 
@@ -137,6 +136,6 @@ If you stil have questions or are not sure how to submit your application, pleas
 The GitHub repository is the main source of information about the program. There is some additional information on the [Aragon website](https://aragon.org/project/grants/).
 
 ### I have an idea for Aragon but i don't want to build it myself. 
-The Aragon community has created a [Aragon Wishlist](https://forum.aragon.org/t/agp-wishlist-and-blacklist/355) to help seed new ideas for the ecosystem. Please share your idea there.
+Please share your idea on the [Aragon Community Forum](https://forum.aragon.org/c/community/nest).
 
 <br>
