@@ -10,7 +10,7 @@ If you are interested in joining us on this mission, the Nest program will help 
 
 ## Requests For Proposals
 
-The Nest program is currently only accepting RFPs. If you see an [RFP in the Nest Issues](https://github.com/aragon/nest/issues?q=is%3Aissue+is%3Aopen+label%3ARFP) you are encouraged to create a new Issue to apply for that RFP. 
+The Nest program is currently only accepting RFPs. If you see an [RFP in the Nest Issues](https://github.com/aragon/nest/issues?q=is%3Aissue+is%3Aopen+label%3ARFP) you are encouraged to create a [new Issue](https://github.com/temp-nestdao/nest/issues/new) to apply for that RFP. 
 
 If you would like to submit an application that is not related to an RFP, please start a discussion on the [Aragon Community Forum in the Nest category](https://forum.aragon.org/c/community/nest).
 
