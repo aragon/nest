@@ -1,43 +1,61 @@
-Nest grantees will be evaluated based on the following criteria:
+# Nest grantees will be evaluated based on the following criteria
 
-Post research
-- the idea has already been sketched out
+### Post research
 
-Post idea validation
-- the idea has been tested beyond theory, ideally with a prototype or real world deployment
+Has the idea has already been sketched out?
 
-Easy to work with
-- team is polite and professional, answers questions promptly, and is responsive to feedback
+### Post idea validation
 
-Collaboration with other relevant Aragon projects/individuals (ex: if they are building synergistic products)
-- team works well with other Aragon projects to get feedback or help when necessary
+Has the idea has been tested beyond theory, ideally with a prototype or real world deployment?
 
-Shipped a working prototype
-- team follows through on their grant proposal to build their idea (for Aragon apps this is a Rinkeby release)
+### Easy to work with
 
-Complied with the documentation and reporting requirements
-- team provides documentation for devs and users and reports for the Nest program
+Was the team polite and professional?
 
-User feedback
-- team validated prototype with real users and incorporated feedback
+Did they answer questions promptly?
 
-Community
-- team engage with users and built a community around their product
+Were they responsive to feedback?
 
-Security
-- team incorporated major and critical security suggestions
+### Collaboration with other relevant Aragon projects/individuals (ex: if they are building synergistic products)
 
-Shipped final product
-- team incorporated all feedback to improve their prototype and ship a production ready product to users
+Did the team work well with other Aragon projects to get feedback or help when necessary?
 
-On time
-- team shipped product within the expected roadmap of their proposal
+### Shipped a working prototype
 
-Engagement with broader Aragon community
-- team reached out to Aragon community members for feedback throughout the development process, and shared the finished product on the Aragon forum when it shipped
+Did the team follow ship a working prototype of their idea? (for Aragon apps this is a Rinkeby release)
 
-On budget
-- team did not require additional funding to complete project
+### Complied with the documentation and reporting requirements
 
+Did the team provide documentation for devs and users?
 
+Did the team provide updates and reports for every milestone of their Nest project?
 
+### User feedback
+
+Did the team test their prototype with real users?
+
+Did the team incorporate user feedback to improve the final shipped version of the product?
+
+### Community
+
+Did the team engage with users to built a community around their product?
+
+### Security
+
+Did the team incorporate major and critical security suggestions?
+
+### Shipped final product
+
+Did the team incorporate all feedback from all available sources to improve their prototype and ship a delightful product to users?
+
+### On time
+
+Did the team ship the product within the expected roadmap of their proposal?
+
+### Engagement with broader Aragon community
+
+Did the team reach out to Aragon community members for feedback throughout the development process, and did they share the finished product on the Aragon forum when it shipped?
+
+### On budget
+
+Did the team finish the project without requiring any additional funding?
