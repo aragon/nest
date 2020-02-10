@@ -28,6 +28,6 @@ If you have further questions, please reach out via the Aragon Community Forum i
 
 If you want help building unstoppable organizations that empower people to freely organize with Aragon,
 
-### [**Apply for Nest!**](https://github.com/temp-nestdao/nest/issues/new)
+### [**Apply for Nest!**](https://github.com/aragon/nest/issues/new)
 
 <br>
