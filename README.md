@@ -1,5 +1,7 @@
 # Aragon Nest
 
+Aragon Nest has been [outphased](https://aragon.org/blog/the-next-step-after-nest)
+
 ![Aragon Nest Logo](https://wiki.aragon.org/design/artwork/Nest/01.png)
 
 We believe the fate of humanity will be decided at the frontier of technological innovation. It is essential that this technology creates positive-sum value for all parties involved. In a globally connected world it is essential that people can connect, organize, share in value creation - anytime, anywhere, without borders or intermediaries. This is Aragon: technology that empowers people to create unstoppable organizations.
